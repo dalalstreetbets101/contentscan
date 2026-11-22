@@ -1,0 +1,17 @@
+# Environment secrets
+.env
+google_credentials.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+task_log.log
+server_log.log
+
+# Antigravity & scratch
+.gemini/
+scratch/
