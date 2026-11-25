@@ -21,603 +21,603 @@ window.DSB_DATA = {
   },
   "candidates": [
     {
-      "headline": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3N2cjRYc2MyZTh4cGdIbjB4a2dac0h2VG5TN21RdllmQjdhNHg2UWNsRVNpaGUyUmFibjkwT1JEOWx2WE5QTmtXYUk2SXR3Y2VsQ3NBRFYzOUlIOXp3cHZYV0pabktqQlBnaUttQlFZcVlMMU90SGphZjJuREVsSnBLZEJBd0tuY0VFY0lKRU1feUVpMm5pa2FrcnRrMTZrYjlpbjA1aldzRDg?oc=5",
-      "published": "Tue, 24 Nov 2026 22:36:28 GMT",
-      "feed": "Big_Tech"
-    },
-    {
-      "headline": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "published": "Tue, 24 Nov 2026 22:27:52 +0000",
-      "feed": "TechCrunch"
-    },
-    {
-      "headline": "5 ways to set up a CRM for Microsoft Teams and give reps time back",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUdhNHhwQUJQUzN3ZTdsbWNVR1puZ056amtlNlZJR1c1QldnNGZmNzJxN1UzLVBrdUZod196bXo3TzVEUlFMdjVsajd6Vnp0U3ltZ3U3S1VxNW5vUk5QdHFCa29nNUx2aFVNWXQ5dl90MnFPVUN6d19oYm1uSUNSYkUyN09MNnpyZU04ZXI0dExEZ3NsNDM3WDE5ZkRLVDhQM0dadmVDeTZGY0REMlNBa1BQRy0ybjZybVE?oc=5",
-      "published": "Tue, 24 Nov 2026 22:26:46 GMT",
-      "feed": "Big_Tech"
-    },
-    {
-      "headline": "Apple Pay vanishes from Walmart app & website without explanation",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ2YwV2J3ZzRGMTMtR0VCYU5jcWZ4S1ExMWVELWItb2pmcE1CNVdDcllVZEZ2OUpxRkVQaUUtNDdhM2NMZDRRc1p0anVTR3g0X3N6M1EtSENFQThDXzZrQUF0bW1MNkVYU3dsQ0NoQ2tqbUZ4ZzROeng3dkF5OXJqQmM1aTZ3aE96YURMRDZ3SGk3RFZpXzBOcGNhLS1pQldla2ZFNXVnZWJKQQ?oc=5",
-      "published": "Tue, 24 Nov 2026 22:18:00 GMT",
-      "feed": "Big_Tech"
-    },
-    {
-      "headline": "Inflation, not markets, is driving Fed decisions, says JPMorgan's Michael Feroli",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3hXUTZHU3dCY0FLT0RCQ0FiT2pET0lZdWpQTkFDQ0p0ckNDdnB1RWZvLWZaRG1BUzdNY2h1WkVBRWZXSWp5UUcySzNsVndzemp0WGR3RHhFeUh1a3h5bjl1R25HaGFHNmpxdFFjaEticE5tZmZ3WkZrQlk2QXNoblU0d25DNm1ZN0N6WUpqblFKQ29DS2l6UHRlWGpMQ0hRbF9WdVMwNG9vQWprTUhfREkzRQ?oc=5",
-      "published": "Tue, 24 Nov 2026 22:15:01 GMT",
+      "headline": "Markets are closed for Thanksgiving | Market Minute",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbTFGWUNybjBEVHZUVElVZW9WaG41ZHNXZ0pjXzZuc204cE0xTlhZOEJaT25HRkRiT29MOERqaWZ6NmhPWFAwcjg5LU03b3RIaElHRDNyU3JOanlDZ21Hc2ZycTR3d2VOeGJzTWJWNlBpX1F1TmlDa25iQlcwQUJGSDlmX2tzUWxhUnBTZw?oc=5",
+      "published": "Wed, 25 Nov 2026 21:30:36 GMT",
       "feed": "Crypto_Markets"
     },
     {
-      "headline": "Tom Lee Says Ethereum Is as Scarce as Bitcoin: Do the Supply Numbers Agree?",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHdmV0pZVXlIQ0JzZzIxbTNBZXZFQXYtMzh3cjUtRTVTZzdLWXRpWmZoQ1o1MUh6S2Qxa1FrVFdIalQxeS0tNFlNbUJLOWF5MGNJSWJmUGF6ME1KcEUwa295Z2dZX3JqOG1XS29HX2N5a25rUmp2bzJ5WTJvRzFjRjNxaDRlMjY5UjBJa2lvMGxrcWp5QnZDcg?oc=5",
-      "published": "Tue, 24 Nov 2026 22:13:09 GMT",
-      "feed": "Crypto_Markets"
-    },
-    {
-      "headline": "Early Black Friday Smart Home Deals: Save Up to 43% on Amazon, Wyze, and More",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWFJmYWFsRk1QNDEyeUE3YXU3eDFfdk5tX2VaTWR6cG5CZnV5RDJVWjk3bGdGVVhTMFlmZUYteERrUHR6VURpRlV4MVZXdjdONVQ0MzIzN0U0UlluLVRYZS1oMkYwcXd4WFpjY3RUbUFRS3BaWGlsWGJIbkFlSzhaaUtydDhqeG5JMzFBamxzM09fSWIwajFLMTl6THBpcUhMVjBCOXVlVGI?oc=5",
-      "published": "Tue, 24 Nov 2026 22:12:34 GMT",
+      "headline": "New To-Do List Item: Find Replacement for Microsoft To Do",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHBVWGQ1Z2VvX2o2OV9la3hROFdXTHIxV1JkZUpXMGRkWHNVUU9OSllrUXRZLUFZWm1KekxEei1ZV0pfZWwzbmpSbGdoVGZNVE5JMFNUNjNZcEhKWDBsY1UxekZ1TVF5anhJbHVOQzl3ZEJUeU01RE0yYkwzM1BHcDVLTC1vSUpIc3Zsamdn?oc=5",
+      "published": "Wed, 25 Nov 2026 21:30:21 GMT",
       "feed": "Big_Tech"
     },
     {
-      "headline": "How Much Bitcoin Could Elon Musk Control if Tesla and SpaceX Merge?",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODA2anNrUV9Gbi0xX0x1T0pTT0I4Zy1YNUE2aWQwSENWVDU4OHZsUHp6b19ydjlmNU1ESWU4RWZ2d1ZlTzJ4bmx2QTJqN0ZDQTE4NG9BZE5vQlVEdHhfSGFDX1FVTkk5TGJyS0hoRnlZQU1nSTNvWWQzaEttYjBENFl4RFE0Z1Nyd1FNN1dFQ3owVjdlTV9JM251M0p1d1RqaHhQVXh2S3VSYW1lcnFFVFhNSDZYajNrVWkyLU9CRzJpTjg?oc=5",
-      "published": "Tue, 24 Nov 2026 22:12:00 GMT",
+      "headline": "US authorises Elon Musk's SpaceX to deploy one million satellites to space",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVBFZ1lMTGJZUGoxYzg5eFh3WmpLMmpGMTdGOW5mU3hIc1Q3TmZJbUJ6YVBseFNvTjBuQzRBZ3BFV0dqUGc2QTZkY19GRnk5bUUyS2lFVTJZZG5udVlZSGRiTkFFejJqY3dUVjIzLWZKZjFTd0hvc1Y4WF9hTE9QdF9HVkxSVDVrVDVEZjViMEFVbmY0SjFFZ1pxei1QemNFZHlwMVpQcGVPcWdtX1E?oc=5",
+      "published": "Wed, 25 Nov 2026 21:29:23 GMT",
       "feed": "Elon_Companies"
     },
     {
-      "headline": "Stubborn Inflation Could Pose a Bigger Threat to Markets Than AI Worries",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa3FoY0YzbWhuWFh0ZTgyaC1MTTMxaEtUNUZ4T0lxanE2bWItUzhnSk1vUkxLWHZTX3BYRUJLTVg0cFRMc0ZzeUt2UGZQQ09qV2E3Vi02dG5qX0JxclFSOUtaaGgyY1F3TVBneHlZT1ZvSjJhZHh0Sm1JTF9DLUlHUEM4cE9kc3VoUjVsS25sU1UtR1oyVlVjd0Y3aEMteE5PQWwtOWQ2bS1WazZMc1dUVWhkTU4?oc=5",
-      "published": "Tue, 24 Nov 2026 22:05:00 GMT",
-      "feed": "Crypto_Markets"
-    },
-    {
-      "headline": "Amazon drone crashes into garage",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lUktFQlpVQl9kY3U1MWM0bndYTkphRU5NbzVMbHkxOWRwT2Q2VTB1cUxMT3RSQmdDS2JJb0FPYTZFb2ZzR1VBMENMWUJvWGZmR3Y5NGZLWmVicFk?oc=5",
-      "published": "Tue, 24 Nov 2026 22:01:37 GMT",
+      "headline": "Microsoft: China’s Salt Typhoon hackers are using Artex",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fTzRPVmxMSk9Ua2tyb2s0a05sVVJuS280ZDU0dkZOVnFIbm91TkNaT0NvSHAxRHdlUGFENlI3bGRsbHNQSVQ0U0FRQm1mU0NpejlQcFJWd2hmWUVmaTVMdm9nTmg5Z3lyTkxzSF81aWh3cjdjRHFsY0hGTVU?oc=5",
+      "published": "Wed, 25 Nov 2026 21:28:48 GMT",
       "feed": "Big_Tech"
     },
     {
-      "headline": "CNBC Markets Now: November 24, 2026",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaG1KOG03Z3NBZGgzWjhNZjVkUVdpcm9OdzVYNUJZWHUwQmV4cVdJVzZZVEIzOENsQnR3S25EWUxvLWY4ZzVyclNlNjV5WUNRSm9JMkJlTmlyTUV0MlpCRHV6NTNVZlliWjRvSlRubEtYN2hfMGtEREp1QWtHUVp5OWpn?oc=5",
-      "published": "Tue, 24 Nov 2026 22:01:09 GMT",
-      "feed": "Crypto_Markets"
-    },
-    {
-      "headline": "Elon Musk Says Making 'Epic Burgers' at In-N-Out Is Harder Than Wiring His AI Data Centers",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXBxX1RxLWwtRU9JM084OWZyaGVORlFJR0d6UFJ6NUVFRTM1NkVuUTZLSXhSQjJRbEZZSHAzT01rdU9zbHB1cVQwLXdKcXdiVHAxUGh2b1ZiM09KdFpCSk1NTGRJOUZPN1hhR3NOa2tHRW0ycDNLRkZIUER4c1FoTE9mamhhbm1wSW0zdEpWUDZEcHFCYlRzS1dxbXlETWFPelBtb2Rxa1ZGc0liNDRPWlViQkt0azNNWnotYXNzbXZzdTVXbk13N0dsak1BZw?oc=5",
-      "published": "Tue, 24 Nov 2026 22:00:07 GMT",
-      "feed": "Elon_Companies"
-    },
-    {
-      "headline": "OKXICE Makes the Case for Tokenized Stocks During Crypto Winter",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZk12a05taFg1WGhNbHhzcC00bmdUR1FSc2dobm8yUmktN1JIakRCU2VPaGFSLTVCejF6Qi05b1B3cFhmbS1oSTYwNHc3QUxRRW9VSW9qSXdoWTRnSFJuVFFzRUpiMlBsRHZtN3ZWbThJakNwdzhBc0lkTkpGRklXV0diMjlkSFJmZC15elgzUVBrUkNUNTNXd0RoM2FDanhWTmpIWGtQVEItYkstVVFOSnJEMURyeGdS?oc=5",
-      "published": "Tue, 24 Nov 2026 22:00:01 GMT",
-      "feed": "Crypto_Markets"
-    },
-    {
-      "headline": "Elon Musk Seems to Have Some Kind of Breakdown in Front of Live Audience",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LdTFneTJSbVJaT2k5YllJWThPSWJ4NkZGR3dVWTVGVXhFbUhzQ214TlR0U0pNUDRXYzNldldfTW05Y0YzUmJ4aklfTzZpUUtwNGxicjN6MVN4Q0EwWklzN0I4UWJqNjlQZU5FX0s2TDM4UQ?oc=5",
-      "published": "Tue, 24 Nov 2026 21:57:56 GMT",
-      "feed": "Elon_Companies"
-    },
-    {
-      "headline": "Watch Crypto Winter Persists, 24/7 Trading Arrives, Kalshi Under Pressure",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXVSZFJUdEloNmtZbTJsdjZ4SW1LVXp5bkNzRkRHd1BwRWF3TmJ3NmRCWm0xdkk4bl8weTl2T2VYbGoyVGRWRlYwQkZHU0R1WVJhMDJVUnhNTDFWS2VaczlJSjZBbC02M0lBUjNzUUk1WUY2RUY1VkRpb1NveTA5cjRRVURNYzMxZ0E?oc=5",
-      "published": "Tue, 24 Nov 2026 21:55:59 GMT",
-      "feed": "Crypto_Markets"
-    },
-    {
-      "headline": "VIDEO: Amazon delivery drone slams into Michigan roof",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNURDbHppMlIzdDFmMTdYOWdmdXZGUkNST1djR2YyWE00d1hZd2VIYzAwTThNZTVpSmc3ZEJ3TEQyeUI5U0sxNjV6b2lDOEFGbXRjTnA3S3gxS1RoalJKSUMyQ3JxcnQteDh5SXBTTFVZWDl2X1gwZS03aUp2RlptZ29hRmdwelZZbG1mbkxfR0dMZDg?oc=5",
-      "published": "Tue, 24 Nov 2026 21:53:59 GMT",
-      "feed": "Big_Tech"
-    },
-    {
-      "headline": "CleanSpark Returns to Q4 Profit on Bitcoin Gains, Revenue Falls 46% During AI Shift",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYkdybW1YQUI4V2lkNzRXU2pGSndpbEdBd3lrN3RLbk00SEFmWWlsY2VWaWZvQWhYSFhEWFptVjNXZUpYczZaV0hiYW9lUlNPWllBWWl2d0pHRUdZNlJSUU1HbVFGZzJCR0pBOHRKanNXZlJQMWMtWjVCa3pocV9tYlVsUzBXTExGZEtsXzI5eU9DVTloU0ItbjNuLUJFbXRmSklB?oc=5",
-      "published": "Tue, 24 Nov 2026 21:53:00 GMT",
-      "feed": "Crypto_Markets"
-    },
-    {
-      "headline": "The Real Economics of AI Infrastructure: Power, Cooling and the Price of Growth",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObDFRWGpWRDhjWW9xT3JpaFUyZU9oUWZHQm8tU2NGWlFsZndiSHRnSEZOMHNqZDhmdkljOTVHc0JndjJJeXJuWjhpNmJ4OTFHS21yTllGX0ZsSU1JMG5HdWQ1eGszbGFmeFNGa05tc1BFRWNLVnFkb1BUY0diOU5kVkxYZzNfaGFGbGJmVWgzc3BTTDdsbGJCNndvcmdxN2ZrSDRiRDZLOXFkdFRGckhNMTF3TW4wZ2NSMF9NZzA3M3dnXzdzWmlCMWVGcnVXbGtDS1k4bk1PcUJ5a2ZzVWJB?oc=5",
-      "published": "Tue, 24 Nov 2026 21:51:21 GMT",
+      "headline": "Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeFpsQ1hVZ0huRFdtQjhzWldQdjJGOG5MaFd3bU1fRWhYOWVkUTJ2elB0RUNrNGNmMXpONmtVbE1hMDZ0UFdRT1ZhcVRNZloyWm9GZV81TWlVTEN5aXNkOTRFbUFtRFZtNWtjUTNNQzBKOEhFTV9mQ1ZndE1Jd3BJSEhLYVNYaXNDeTA2Y3hCeTFKdFUxbE1hamp5UUNCOWYySkd5eklrRzF5LU9lRGp3NUVGR0NKXzg?oc=5",
+      "published": "Wed, 25 Nov 2026 21:26:34 GMT",
       "feed": "AI_Infra"
     },
     {
-      "headline": "Microsoft Sets Goal of One-Hour Fixes After Email Outage",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbUp5V3N0QmlZdjBhTHc4NzYwZ1YtV2xpZEoyUzliS25CRE1VYk9uSDcyeXI3akVHd1VwMzJyOUE2YmVmMlpLYmZpcTQ4cEF5cElENXdqM0lhTlpZZHJ0ZGVxbDR2UjlEbU9weE12X19fWkI5NThGZE90Ym9zR2RIbFlncENKTDJDRDF4NGZYREdCX2cyb2prdnZncDg?oc=5",
-      "published": "Tue, 24 Nov 2026 21:50:02 GMT",
-      "feed": "Big_Tech"
+      "headline": "Stocks Finish Lower After Wild Session",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXy14dnlRcWo0WDduVGVrN1hJOExkZnYzZFN3LUxjdC1acGRZUmFMZjlmbHRFZU5aeERjNXQ4eTFqUUZCaG9jemU0ci13XzhEbnZSTEcyMkhsX1VCVnpmaEpzVTl1eW9PLVg2S2lKSndxM0MwUl9sbVZxYjc1VVBkMHRmbFhTVDNLVXc?oc=5",
+      "published": "Wed, 25 Nov 2026 21:23:00 GMT",
+      "feed": "Crypto_Markets"
     },
     {
-      "headline": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "published": "Tue, 24 Nov 2026 21:48:27 +0000",
-      "feed": "TechCrunch"
-    },
-    {
-      "headline": "UltraFine 4K productivity monitor from LG gets Black Friday price cut, dropping to just $259.99 in Amazon deal",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3Npa0tuaU0wVms3ZHk5X080RnlIeEN6TWtwZFA3cjF4QUtwN1I0QVRBLW1iMTZNSjRmZnRrWDJHMUZvM05FTzBCSmtCN2V0RDF5WEhRRmRzZmEzUHN0dmo1Sjh2ZmZ2bVZhU1JjSE4tUVlKWS1zOXhxSEh1OHNTc2RNOTdrRjBhV1REZ0c0Ykl3b2xJa004VjBMZF9kbFFfSjR5a1JMWWxvQ3NDZTh2ZGdGc2l5SDFMLWZ2ZTA1Y1JFamp3ZHVFTUlTYmFIdkktSXkyc2pn?oc=5",
-      "published": "Tue, 24 Nov 2026 21:45:55 GMT",
-      "feed": "Big_Tech"
-    },
-    {
-      "headline": "Amazon delivery drone slams into Michigan roof",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Vd212bzVQRG5ueEhKMnFxMVR6b2hzVy1Qb3FtbElvUHJXVWJCOVduZW1pRk5wVDJCTzZvV0JyVzBjWE5TRTJrVEowdkRIa3FXbEs3OHdZNFhCQlVhREFxa1gxZE7SAWpBVV95cUxQR3ZPdHdfYTRmNUNJaTdDdGVoVXdWdDVSLTI3QTRjRzdVZW1jeGJBTmRhNHBqYmRvOHdWMVdpaXdpWEd5cC1BeTQzRjFBWmpOT1VEYW96VjFiNjZVd1NkQWhyMXBRX0JlLU9n?oc=5",
-      "published": "Tue, 24 Nov 2026 21:40:59 GMT",
-      "feed": "Big_Tech"
-    },
-    {
-      "headline": "‘We’re begging’: DOGE slashed federal workforce to its lowest in 60 years, and the Trump administration says it still can’t recruit Gen Z workers",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHNlVXg0RGY2YTh0MlpBN3VObl90ZF9ZSEUzbFI1Yy0zaVlJVjB3NkUwbjBCNWZlSmdDVmtLR1ZwTjBRT0R2bzdzMGxLdU1XN2o2ejVLb3FhNU5yNjlYVldTZDM0WWc4WHM4QV96ZllXdHlMbWR3WGFoRzUxZENXTjQ0cUtFSkt6UWxabXV3VEVsU3JrXzZBTGpNUzNrZw?oc=5",
-      "published": "Tue, 24 Nov 2026 21:40:00 GMT",
+      "headline": "SpaceX and Elon Musk say they will donate shares to Trump Accounts.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNzNSYVozX3FYQlJ6OGU3bmY3cm5jczdxRXR2WnZKUHBNNlVJcG9BZXJla2UwY2JFT05ybFRwSjJzOVZvSk9yUUNVWWwwYmlGNUFCVFJnRU4yNEJQWmxWX0UtT1JSY09URTNsYVZQRVVWUWVQdVQzT3hVMnVVNTlFSjd6a2YtcTdwMzE3TXdOT0xabUFCc0lrT1pYSFZnOXdzSW1LZ0FzRQ?oc=5",
+      "published": "Wed, 25 Nov 2026 21:15:59 GMT",
       "feed": "Elon_Companies"
     },
     {
-      "headline": "AI debt markets shudder as Nvidia's top \"banker\" returns",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nS1FDUS1xNTd6cWFBUE9JbUxkUnZUSnJFck82RHlqeEZOVTBUenpqYWJHbjd0VldkNEI4b3NFalZXTXhRTVFpQ042V2FVQ0g2SXNHeUlYOU1yQnVDWE5FaDFFUWNIUXB3UFpzbm9PcDNNb0Vrc19wV0RKZ2ZwWjjSAYQBQVVfeXFMUERIbXJUSm81dUY0YV9wRlo2YkpfNTBtY3JCOGFsSFM1ODBzU1ltLVFnaHZyRkhmZURkY3dCX1RKVjc3MUd0RVZGR0dtZFZFZjc0LTczZmIwVm1sTjBsaUNZSEo5MEhTWXdMcXU2aHVXTHNRWXJLZnd6VUU0cmxEUHdHZGRp?oc=5",
-      "published": "Tue, 24 Nov 2026 21:38:03 GMT",
+      "headline": "AI infrastructure stocks continue their slide, but Anthropic closes higher",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREtNSkxiWHNBekFld2hXQWJ1TjJlVWhsaEQ2TE1Cd0liQ3E1cVVkOFI1VU5yOHR4VVhUdExLR0Y3YldpUlRVanB2bm1wcDNVUzlCdndQQ2VsZlNuU3pjYVRRNmdrSlFkdTFFZmJPV092a0hicVhfWHBZYnIxYlhEVFBmb0UxbVRiSDltQ1JUU3R1TWtzZ1ZPNzljaXhremJDX2hJbWdJWGpEQW5LcE5Z?oc=5",
+      "published": "Wed, 25 Nov 2026 21:15:00 GMT",
+      "feed": "AI_Infra"
+    },
+    {
+      "headline": "17 classic Black Friday deals from Apple, Yeti, LifeStraw",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jb3dqb1ZNZmFocTc2aGxYYk5zVHUwbFJOdjJLVDZ5NWpHS0hPTk92aWc2Ukw1U1dMaGozY085a0wxaFRLcDY0bG5JOW9DQmloUDkwazRwenlNNmJTT1pPZ3RRZHB1VG51cUhfQnNkVQ?oc=5",
+      "published": "Wed, 25 Nov 2026 21:10:26 GMT",
+      "feed": "Big_Tech"
+    },
+    {
+      "headline": "Miami Dade College’s The Idea Center and TD Celebrate Entrepreneurs Shaping Miami’s Creative Economy During Miami Art Week",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOExaS1BUekk2MmJIUlFSdGFBOWFkMU1QZXhvZFF5REpndWRUSHpTSWpMbnc4M1ZhOUs3TFhHdEYtU242ZG9OQkxWVWoxR2VuVGFsNC1SOEg1NTUzOGZOQm5aTktBTXZlOW03SHFtaWZXX0F1RE1XQ1R1MTZJMXpEUGJ0bldUOFF4ZmdSaW9sR0M4amVrMkNXMXBnaVNFYlV2S3d1eTlPQ0FYT0syVHNoNVZ0Qm82OEtBb2YtNXNMNTlZMG51ZV83NzRQUy15NTR1TEV1NUVVaHByWHllYVg3RVg1U2pYaS1OMnBn?oc=5",
+      "published": "Wed, 25 Nov 2026 21:10:06 GMT",
       "feed": "Crypto_Markets"
     },
     {
-      "headline": "Inside the UConn-Duke men's basketball contract: $333K and Amazon introduction",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQal9vWWhURGMybENQY2NKSmRCS21nMXFHbHNCOXJoZjNvN19CdlZMcTR1bnpoQzV6WnVSaUxCUm00RGhPTEthbWNDU3ZzbWFtOTZ0SVFidkZuVGxka2U4V3VLd1BBMU0ybU0tNzlnY1c3ejBadFMtZW92RjgtVFExYnJrYkp3bFRqbTdJZDZRamlsNEpuTkxXck05M2VlbWNvRVJJd1BVLWotdlA4cUdIVg?oc=5",
-      "published": "Tue, 24 Nov 2026 21:36:11 GMT",
+      "headline": "UNC researchers study impact of generative AI on education as Google policy change approaches",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPam0yZjRzWXdZSkM1cjVsQlNRTVVtNXNKbUFFanh1Rmp3Mnp5VThjLXhrOE1wOXlqUmJsM3dsZ0h1RmVOVC12Sk50U1kzRTF1ZzJTaU4zQnRGNzNVdUtiNS1SdGJsWElBWEtzY1I1aC1XWXZQNk5lNWVQSnFHVVptVGlSd1R5dUFMZjZQRUpmR0xaWllXOUJ5cUJB?oc=5",
+      "published": "Wed, 25 Nov 2026 21:07:21 GMT",
       "feed": "Big_Tech"
     },
     {
-      "headline": "Even the best AI agents struggle with everyday life",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "published": "Tue, 24 Nov 2026 21:33:29 +0000",
-      "feed": "TechCrunch"
-    },
-    {
-      "headline": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblI0TVF2MWVsaGp3RmM1VEpuaHY1d1paaVg5WnFfRHlUa0Vucnpta3kwLUNzZDh4cmpRVnR6bzN3czJCMGQwVGx6cjgzUldYTnp3OFA5NGhseHFkTk9fNGhiNUxBU0FWU21mZjJRWHpuTDd0ZHU1cS0xNWpzRGtGdnlZY29VQndEbk5qbWZoVnNXck0zaTdhTURMR29BeGt0RmJHUEFuNDRQQQ?oc=5",
-      "published": "Tue, 24 Nov 2026 21:32:38 GMT",
-      "feed": "Big_Tech"
-    },
-    {
-      "headline": "Microsoft Beefs Up Community Relations Staff in Wisconsin With Racine Woman",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMjAzR2VEUW5FNERnQnVXRno5b09sc0ZtRVdwMjQyTzFqOEplNlVsRW1iM3NFUGxkcFVfaFFBYjczNHRraWdvNDlmRm5LOC1fcWtydkNOd2g4YnluNDVvcVkzcnVVNzJzNGpoQmNVUGZKaUtNa0ZkRmZDaWhkWm92NEVfWTlKQnZMY00waGpGUDAzVEVM?oc=5",
-      "published": "Tue, 24 Nov 2026 21:32:37 GMT",
-      "feed": "Big_Tech"
-    },
-    {
-      "headline": "Trump Says He Protected Musk in Mystery Episode: What Was It? - Tesla (NASDAQ:TSLA)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZGFxQnJ2THdjVDJXVkQwVVN6UXVhN2tXcGFwekgzTGxIUllnQWcwdjNiU2VyMWNZRkxXUXBWWTVCTXFqRXlQNk0wZHo1UW1QSXlGMGFYLXVRUkp4djJTOUExNVphS1lnQ3pQS0ozampkaWNIVE03Z19kYXJ5bjNENGI1R0xNLXVBbExHaFZLckl0QmhxQ3RR?oc=5",
-      "published": "Tue, 24 Nov 2026 21:30:09 GMT",
+      "headline": "SpaceX gets FCC approval for 1 million satellites to build data centers in space, Brendan Carr says",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FQTYtZjRiWUtzZ1Nzc2pkLXZDWTNhcTA5SFdvVDZpQnlWOE5xZzQ4eEdQTjBzbnZWOXZrd0R0aUFlaG00OWh3UzJHd2J0T090ZGVrNjNhb29CWGliM1gzQlVlNlFkUS1JLVhRLWhreDgtTkV4RWlj?oc=5",
+      "published": "Wed, 25 Nov 2026 21:05:17 GMT",
       "feed": "Elon_Companies"
     },
     {
-      "headline": "Dell Technologies Revenue Doubles as Infrastructure Profit Surges",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUENPZDF2cW9NbC1MMFpPVUhQWVU0MnZVS3hzQ3FoZUZNczJWMW5nTVVDQXVKOC1NYlVSTGFpZ2p2NW1SaTNJYnJZMG5YZmE1NmVnb2dtUmRTVk5NSjBJSVNzaDBSTlh6dGNyX045WnJjTk5sYjlMcGpDMHA0TWRrSVpwQlZfbWlrZkZpZUNfN1MtNi1CZXBJ?oc=5",
-      "published": "Tue, 24 Nov 2026 21:29:39 GMT",
-      "feed": "AI_Infra"
+      "headline": "Elon Musk and SpaceX pledge a share each to every active Trump account",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNl9CMVNsNFBxSExVRWdzVEhfYlRxWHpUQjdROTBIVVYza0FtSnhFU3p2dlFvX0F1RkNTU1Mtb2tzeDRCS3lYdWVuYUFvX1A3VDZURlNXbXM2YVN0b01nV3gxNEJYNkFIN2xTU3FQXzJSNjREZkZZM2VqOGY3N0tNaHk2RUE?oc=5",
+      "published": "Wed, 25 Nov 2026 21:04:54 GMT",
+      "feed": "Elon_Companies"
     },
     {
-      "headline": "Amy Nelson Was a Corporate Feminist Darling. Then a Corporation Upended Her Life.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQlFnZjRybG11QjF3aUROeXkwaTBhQzhHRE5CaVVIWDJhWnRYVVlWSUdNR0NEUVFoS1dIeU5QZDNVTEstZGhoZlpFakxBZjdpcFpNUHNKUUJiWGkxc0F3aHNyOEtoak53TDR3R0F3SW04eGVSRnk2OWh3d3ZiVzItaVREbnJtLW8yQXNOZmxOTU1ZcGs?oc=5",
-      "published": "Tue, 24 Nov 2026 21:29:12 GMT",
-      "feed": "Big_Tech"
-    },
-    {
-      "headline": "49ers team up with META on its AI Glasses",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mN3MzY0lKclM3d3FBVEhPNmxJdVJoUXpZdG9idEw0WkJzM2hDYXgwaGpJd0w5RTlsdlctRmlvVDBGeU1sY1pUbGxYeDdsM1BmWWVyaW1KTVdOMG_SAWBBVV95cUxNa1YtcXJnaEYxcU1abnhsUUNqc0g4UDFKNDNxMVNscGd5Y3p4elByN1lnUUhldmpOMV91OVBQaVBMN3h2NnduV29WS0RmMlRuSnM1Tkx6YnRrLUM1bTRKZks?oc=5",
-      "published": "Tue, 24 Nov 2026 21:28:39 GMT",
-      "feed": "Big_Tech"
-    },
-    {
-      "headline": "5 High-Conviction Stocks Billionaire Philippe Laffont Is Betting On for 2027",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVE1Ym9WV0F4bGtUc1lyRFgyekhTUXN5Q1RIbWFRa0FsYWVUNWlKX3pzQ3NSeU85b001ZFY2MUVGTWtxWXFwZ0JYVjRXMGFFOEdyWTRuNnZiTDhUV3h6dXZUVmpoT2t5M0ctUHpLc01wQUJhQWRzTFZfYWgzcDM0c2Vmem1fX0NYMl9Kdy1vWTlNUnU3UDRmSW1qRmx0M1F6dzJV?oc=5",
-      "published": "Tue, 24 Nov 2026 21:23:07 GMT",
+      "headline": "BTC price range on Nov 26, 2026 at 5pm EST Crypto Prediction Market",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXhWNjRUQURBYUNueDBIX2k0dEUwMXVwX19nWUZkRnNJRWp2ZTRfOHZZUWFkOU9WMmdoUThfY1ZwOExxQzB4RXA2MTM2clJ0ZC0yLUROVldLOTJWbVduckI1TERKbGo2NXJZUUR5amRFX0FaQTRiYlktZTBzQVRHeGg3U1R3Zzg0LWlReGtYM1k3VzUyRUJhWTU0emEwaFVCQWQtY0V5M3Rybk9UOUg4aDd6eWpsQQ?oc=5",
+      "published": "Wed, 25 Nov 2026 21:03:51 GMT",
       "feed": "Crypto_Markets"
     },
     {
-      "headline": "Nvidia’s Relief Rally Stalls",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Q0ZlLVlzZHduMXBGcXRMazNyODNQbHBwamVMa1ozM2pZcTBrRkFuVG9sYXBjRUpaT0c5ZnBENVpBVm94Vnpsa2xZQUhvTGZEdVNYcmJqRVJFWTBJZUdyQ2N0UDNiT21oTm1JWlhucV9KZEpSUVY0WHNtQQ?oc=5",
-      "published": "Tue, 24 Nov 2026 21:23:00 GMT",
-      "feed": "Crypto_Markets"
-    },
-    {
-      "headline": "Walmart overtakes Amazon among lower-income holiday shoppers",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjhuVzdleHViNHJwX3E0QTF0V2hZek94cVV6cnJwVWd5aXVVNjM0TzBXaDFkR2d1aW92aXpEbUV2Y3VCWlVmZEVPc3pKWWhEX21wd0kzdnpRLU9tMXppbjRiSVZqVlZ6Qkp4cERxVXBwak9fdmJEbHEwRTRPRHdSMWJUaWFTV0dUVVIzR1k3NFZpMnFJSVhPNA?oc=5",
-      "published": "Tue, 24 Nov 2026 21:20:16 GMT",
+      "headline": "Amazon and Meta May Agree Over Allowing AI Agents. The Future of Shopping Just Changed",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc0ZYejBacWY4VWx4b0ZieE50SmtQRHBNa28yVW5vdlhRX05NOEtfY2hES0VvT25KSFQ5RFBnaDlJVnZmNmNiOS1wYjRfRFJNNnF2clhib2tqdHdQa3RiZ3BzUFdsU000N3BVc196QXZWbmNScnk1VjFKMDNTRUlXWTFVZDRXRnpKWVFTMmRURl8?oc=5",
+      "published": "Wed, 25 Nov 2026 21:01:32 GMT",
       "feed": "Big_Tech"
     },
     {
-      "headline": "Dell’s AI server backlog hits $132.3 billion, up 619% year over year",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pU3FMcmF0RlV6WkhqcGp2MTVJbUVzRUVoSUdmNFI3eXRGOHF1cFg5T1lQbC1DRHBSNHkzTjZSdWRwTFMzbHZYLTlTU01FLW8zTXVnZlZ4eWhibEZmM0RjTFpMZ3hhakhuMEU1MUM0OA?oc=5",
-      "published": "Tue, 24 Nov 2026 21:19:59 GMT",
-      "feed": "AI_Infra"
+      "headline": "BNY and Microsoft Let AI Agents Haggle Over Treasurys",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXV6amZUeHdPN1VEYWlWSEpxV1FzNWVSMGM2eWhXVWlCSGlRSzlQTWVmMUNOQ01vYmNwY1R1RlNmLUlub0lDUUVEOVZiWHRNN2NPb24zbHJudmIxMy1WNldNWmxvOXBnVkJzTTV6ZTl5ZFlZVDBjUnVicHlWZ1B2UEtwMU5vS3JrNmJrcERzMnhQR0lMa3FtOVNyN0RzVkltVFFoZDV2WWY1VFN1SXhGQw?oc=5",
+      "published": "Wed, 25 Nov 2026 21:01:04 GMT",
+      "feed": "Big_Tech"
     },
     {
-      "headline": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "published": "Tue, 24 Nov 2026 21:19:52 +0000",
+      "headline": "Elon Musk sends strong message after X wins major court judgment",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUUd2MVVMQ2JSQmlxTkZYNnpLdHR6aHJaNFM4dzdGcm15T3otWTEyUHV6WjhHa3dBN2RudTJiNk52YjFONnFlQVo3Z1JNS0tfTnc5bTZfRmRCaFZtMFF3czJqOVM5bkZiUGVwcWRSMVgtbEpaVVYxQXhZd0hfUnRTVDFyMA?oc=5",
+      "published": "Wed, 25 Nov 2026 21:00:00 GMT",
+      "feed": "Elon_Companies"
+    },
+    {
+      "headline": "SpaceX, Elon Musk to give one share each to active Trump accounts",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX19Rdm5qYUwtN1FLbDk5cmtvclRlcHJhUktLMF9hY3lWbjZXVm1WQlVsQUpJb1paR09SRFQxcmtxaXRyVEw3X3k5dnM5clY5MkI2MkVKcW0yVFQ2dUZTTFFyUTNGVzBKR1N6dWVXZjlMZUNXRlcwNHczbVUtcFUtX2tBcHNiVXROU09mb1VUU05vd1ZmTk85TGREM0FPQW1seHhiZVZGcmp6NjdpN2p5czlXNXgxalFYZjBEam9B?oc=5",
+      "published": "Wed, 25 Nov 2026 20:57:19 GMT",
+      "feed": "Elon_Companies"
+    },
+    {
+      "headline": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHgzYlZrOEgtVnVzLUNmeXh3d05CNFE2U1BTdXdGVFYwRTlTbEx6LVVfMUhEVkNld001X2I2M3hEcFNrV3FYVmZkOGd5UVhPT3FCb1ZabXdXTkk4dWI0cEZlZXBjM3RBemZCSHdIUEZtajN5MldKMVF2a2Y4V0k3U2JLY3c0MnJ3VUszck01R1JFaDNybGJZ?oc=5",
+      "published": "Wed, 25 Nov 2026 20:57:09 GMT",
+      "feed": "Big_Tech"
+    },
+    {
+      "headline": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "published": "Wed, 25 Nov 2026 20:56:44 +0000",
       "feed": "TechCrunch"
     },
     {
-      "headline": "Ariane 6 launches Amazon Leo satellites as company expands launch options",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUZpdEN4YzNlSm5FdGR4TllWLXpBSUpvbGRjMWpXcE5rQ0pBVkJlU3FxcWNNX1JCNHFuTDRYaklOb3o4T0VFd1JjRUpIYnhRWmRIeXM3V0VXTTJ3WmZCVmhReFpvbUl5V1hiM1lwa2podTZOVWNpN1BhWW4tSzJKeGxLcw?oc=5",
-      "published": "Tue, 24 Nov 2026 21:18:00 GMT",
+      "headline": "Apple Valley News Now Special Edition @ 4 p.m.: November 24, 2026",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNlFGd21EbC1lcU1NeVNHdWVVSlVSM2F6alZwVUJLWHhZNXFZSGtRUHl2YjdJTVpSUHk1a3FQLW1tN195S2djenZTYURrWkFnYVdkSlRsb0RaNlFudkV2N3ExQkw5WHd4MWhoTlNmMlp5cENHbzdFRUFCV1lHY214OHQ4MnRhUnc1alQ5bXdsNjJTMEU2bkhLd2F5cTlVWXI4Rk85MWY5cTZVZkpPdnJfQ1hmUFYzR182TGhQSFJrLXJIWkU1N0d3MUVlZTBKM2Y4Nno3SFFDQTVVM2RnMzl3TnhHaw?oc=5",
+      "published": "Wed, 25 Nov 2026 20:51:00 GMT",
       "feed": "Big_Tech"
     },
     {
-      "headline": "Watch Economy Can't Depend on Nvidia's Huang: Krugman",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRUNoTmtiTmQyV3BpdFdxNHV6T21FRU5IeWpJTG85TUJGa2lOajBwVGJHOWdaVk1WcVUtTHhtems5MThLQkVadWJRRjJacktDS1E4TmkwbEJ5M1ZnQXMwX3hmMkJQbnhqNUJZNENGLUFXbUpOYWMxNUFBZy1vWlRDLW4yVWd2MWI4UE9Ea2Y1RUhGY3hZeUR6cXozOUhPaGdEYVBkdGtSc1hhSVR0Q2tB?oc=5",
-      "published": "Tue, 24 Nov 2026 21:17:05 GMT",
+      "headline": "Elon Musk celebrates Starmind approval that paves way for data centers in space",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0FET1U0VUxkLVNoNlF3U2NIY0FQd3BkbHJlZW1DQWprdDA4cHJpQWJ3VXc4RTNHaHl4eGlQM1BfMjV3TGtMaERoQ05QN2ktMXpzaTB3RGU3ajhtdUEtVFlXN09JRGlESXpSbTgtRzJ3bGNIa0wwdDA5Rk95TEhNSG9tWDByclNPT1lMbjBlRnFHRzYwNFhLRmN5RWs3NVh5TGdkWFdkQ1ZReEE?oc=5",
+      "published": "Wed, 25 Nov 2026 20:46:00 GMT",
+      "feed": "Elon_Companies"
+    },
+    {
+      "headline": "Apple TV renews ‘Ted Lasso’ for 5th season",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNXhjOEg0S204ZzQ4X1dweDdCMUNHRXpQV3FQNVpsZjFHa1NQa3RWZ3FKRWhWUnQ4SWkyY2xFcllHYjRnZ0hib2lZeGp5RFJWV0JEM1M2V1lKUi1CSU56cW1lNzZNNmY2ZkM5aHQ1QjR2dWVuME5XUUg0SnVVUTRNX2g3cmVfOXR4Y1ZJZ1pnX3Vpc3VxczRVRDktclZzeGhp?oc=5",
+      "published": "Wed, 25 Nov 2026 20:44:14 GMT",
+      "feed": "Big_Tech"
+    },
+    {
+      "headline": "Man sentenced to 47 months in prison for impersonating streamer N30N in $260K crypto fraud scheme",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYjBZc3NrOUlVbHlGNXBwTURCcWd3Yzl5Z0RRaW5ac19vNEx1QnBkelZJaGVHNDFDUm81MU8yeEZpVFg1dUJzNllsSzAyXzRqaWlmOVpaSkhLMkhPMXdnOWVWUDhlUnc2WS1CMDNuWlRBaVZCcXQzb1hVb19MMnhhQ05feFFRdVJ1bGhOckRkdDZpbVJTT0ZFRy0xV2U1Rk1majFseGFjNk5jOU9RS1Jxb0RRcU5XY0lMU0xTRFNvS0kweWd1WjFlV2lvTE1LcTBsczBlSkhNbWnSAeABQVVfeXFMUElXNWh6cFJQalEtYWlnWTZ6VU9WTE5QUzFJMGN0N2gweGFEMXBkOXpZX3NJbGs4VTVRWExCdTBoUEhTeTZiRC13NGR2ME5ZSzh0YWh3ZFhNLUtUNWFwb3RKQnJ0NnEyRDdlMnZ5UVRGUkZycjVubjVfOWduOVVkd0hXLWJ3aVhRekp4Tm13eURtQUFQbzVvNDJzRVFWQ2h4c3JQa01WeGJ5ZXJYcDhmbkFjTDNVSWw5UlpLZDNiVXU4cG03cjgxWWMydHA1dUxzR2hEWlZRQjc0dUdnamhrakY?oc=5",
+      "published": "Wed, 25 Nov 2026 20:43:04 GMT",
       "feed": "Crypto_Markets"
     },
     {
-      "headline": "GDS Holdings And 2 Other AI Infrastructure Stocks",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYzdLRTM2cUhidDFJR3Q5dFhNdTNjWl8zZTVkaUFBeVRINFh4a0pia3U3WDcxSHAxdml2QTgwU2k4QXd5V1pDZTktSUFLOXNVNEFYRkN6UnhVZW5KU2RWSzNhU2RPOXRlRnhQczZCYUhNaG5DOW1ORTh1dHNETDdDV0w3ai1HY2Q1aDM5SWdDQi0?oc=5",
-      "published": "Tue, 24 Nov 2026 21:14:22 GMT",
-      "feed": "AI_Infra"
+      "headline": "Elon Musk, SpaceX Pledge Stock Contributions To Children With Trump Accounts",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaE13TkM3VTZGcl9mNFZYVkZndlBlS0k5QTQyN0dkQkZMMlI4aVNwLS1BLUlTRjdkS0o1c2N2N29EV0pDdFF2bHJzUkVLMlNwbWVsbzAzeEdWcWR0TEFzQzlwUVUzekRLTDFSYzVXQ1p2alMweThFT3pPRkc0V0E3NThoUDJZSHJIWHI1cHhoZUZuekhsRWRRVWY4c2I1Zm5wMmxLVUdQUjQwNFB0aVRoUWRlN24?oc=5",
+      "published": "Wed, 25 Nov 2026 20:41:43 GMT",
+      "feed": "Elon_Companies"
     },
     {
-      "headline": "Is Apple (AAPL) Above Fair Value As ETF Buying Returns?",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkFWM051XzB5b0RCeFhPQm5iUTNIWlZvNFZ2VzUwSnlVQXVzTDBSZkVPUU1ZeDRheTdIa3lBWmwzV0JqWFBpcjFJQjhpSHkwY1V1SEZXQmVaYmJHdmIxcUNnMmxzRDZYWlExQ05JN0ZpSU0xeEItMjFwY0xnMUgzejg2VnRpRkZab0dFUWp5T2hFZk5IMmVj?oc=5",
-      "published": "Tue, 24 Nov 2026 21:13:24 GMT",
+      "headline": "SpaceX, Musk to Gift Shares to Trump Accounts",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzdoRTNmOFF5SUxWRG96SFgyVDg4ZWxEaDMxam9OTERNaFc5VDJHSUJxTERlTlBQV2JPT1A1RnFjVUZVT29Wc29kTW5QYjBieTdTWjVYTmU3bU9EbXFPZ1J1akZLRFZpenpnV29ZWENYcnVmWTlhUmNQTDQ4b0hBYlQ1RXJOTzBhWHlfR0o4Zw?oc=5",
+      "published": "Wed, 25 Nov 2026 20:41:27 GMT",
+      "feed": "Elon_Companies"
+    },
+    {
+      "headline": "Five Meta Frames to Give as Gifts This Holiday Season",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Gc2lWTTZZRDV1NHNOWklrRWFGSlNQa0ZNU2tLWnFYNEY5R01obG1HNi15WkdMMWlPaDg1TWpiT3hicm9JVFBnM0tEV2lmbmloTnJFcmRfb190OVVuVXVLdHN2MmtrVlRLUUc5eDRnVjFLelUyZF9YS3F3QnluUQ?oc=5",
+      "published": "Wed, 25 Nov 2026 20:40:07 GMT",
       "feed": "Big_Tech"
     },
     {
-      "headline": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNellXQjVhb3Nha2pNTDY5RmdrT0gzV1VoYS1TZ05yOE85b3lGWnR5dkhKRVFpd3dLTDdia012U2pVQ1NwSEpoY2VsSjZPaHB0ZDd2ejJpWV9KQlp5VVJWVmJqYXRtaTJxVThzUWtzRXVCUEtlOGVhU3ZxZVdlSTJadVk3Q0pLSmxSbkFyZDdJMHJuMXFfSW9LaU5mSXVKbVZfLU1ZVlljWlRhQzlLZFFZRl81MA?oc=5",
-      "published": "Tue, 24 Nov 2026 21:09:29 GMT",
+      "headline": "Need a menorah fast? These 7 on Amazon can arrive before Hanukkah",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tQ0l3QXFuVFZER1BtRkoxclJ6cTlmZGdCZWpJVTFCNU0wR2J4MzBBWmQybGJiUDRpVXNtS3ZoY0ZVRDA1TzU2Q255Q3RHSWstRGxpQ1lETGpSdXFJMzBzemcybFZvX2haWER3NERTbnJrZ1hwTVA2QXM2OA?oc=5",
+      "published": "Wed, 25 Nov 2026 20:40:00 GMT",
       "feed": "Big_Tech"
     },
     {
-      "headline": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
-      "published": "Tue, 24 Nov 2026 21:09:04 +0000",
+      "headline": "FCC clears SpaceX to put up to 1 million AI satellites in orbit",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYlZSbHNNaGdmSnBrSEoyM0VlMVZnc1Q0Z2NlbFdQN1JFd2djZGU0M0E2M3Njc3RTbUVodmE5WE41RmU5elhuZV9kS3ZDWEtHOTR5ZjRPNFpqQkZ1aU5iYmF0Y0VqSjNQLXhvSk1INHhOR2tPdklod2czUkpLTTFMU2lR?oc=5",
+      "published": "Wed, 25 Nov 2026 20:34:48 GMT",
+      "feed": "Elon_Companies"
+    },
+    {
+      "headline": "With bitcoin crashing, is Strategy (MSTR) in trouble?",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQjZINjFJQU9rd0h3SnlLMEFtNGNiSXN1Y0puQlhoYjN5bzFRd3ZMLWdES09XNnl5VHhEdVBOblhGVXRUNHpIajFkNmJRdzU1VXBSZkRLZzFtNnpBXzhpVFBqTjlnZnNsbF85SUM1aXFVaGp3YlZSVlhLOEVKMGZqOGxIcXp0and0QTQydmZR?oc=5",
+      "published": "Wed, 25 Nov 2026 20:28:09 GMT",
+      "feed": "Crypto_Markets"
+    },
+    {
+      "headline": "Get Apple's Cheapest iPad for $379 During Amazon's Black Friday Sale",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRcEdTODhoZzllRnlTWmxTQ1NrT0FKUE15SlVvaGg3b2M3b0VFVS1YSzJYdVB2UngyVWMyYkozdVdmQXVtbXY4U0dBTUdNLXV2aTBFR1ZnWjdLeURTWHFrTDhjeHZuS3pkdGhFWGthaGdlbURsQ1FB?oc=5",
+      "published": "Wed, 25 Nov 2026 20:22:01 GMT",
+      "feed": "Big_Tech"
+    },
+    {
+      "headline": "Report: Apple gains ground as Latin American smartphone shipments plunge 24% in Q3",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ184ZzVHSFVPYmUwYnhMRHY1X2RNZ1lzYUZPS2Fva21XNlBYSWlETU93RDZpSmVYQy1ONzVKQklOQ2pLbHhNYlBVakhHNFpKSkV5SjctMF9mQTkzbVdpWUxUYTJKdGNRbWtTY0NoOWYzZ2xPZjdjODJMTTVTMDNPN3hiemk4eVpEZWZOeWYxeEVnWDgxSXo1YzNSX0ZSS0t1SXFFM1FXWFNEaEhZNFVaQ0x3?oc=5",
+      "published": "Wed, 25 Nov 2026 20:22:00 GMT",
+      "feed": "Big_Tech"
+    },
+    {
+      "headline": "FCC approves SpaceX’s plan to launch up to 1 million data centers into space",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYld4M1pwMDg3SEFQS3loZzI0amZ0aU8weWdOSF9Sc3pzbjdnRmxTUEIwRXdJdDVQSVFrSElrOGJFSDNFZzg1NFh4c1BZOTlTNWZVd0tiYlJmcV9WQnRrMGVXTDlxYm5ra2NGRGJGU3d1MG01UXRRdzlvVVlHM01NZlVxNTZTQl8wQ2g0bVFUaURreUg10gGaAUFVX3lxTE1XbXpLMnNURnY4YTNlSlpRZTR4eGIxMG5xbmgtMVJidUNuLUs1UEJPSHpDdTF4RTdQcEk1TFplWlF1S0lUUFY1VGdXQ0tOVDJYOFhkXzFna1d1ekMtd3dMbjNhenozNUZWak1SckhOTjltSjMzNFNGN1dBMGZhSl9CNzM3VFVONTFrS2VmU01vY3l1WmVDcjk2MVE?oc=5",
+      "published": "Wed, 25 Nov 2026 20:21:00 GMT",
+      "feed": "Elon_Companies"
+    },
+    {
+      "headline": "Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlZrR3hSRnRhN2p1U3ktUnBnZnc2LWJ4Zk1GdWdCaFpsY3Z5emp6LWJ4bXVEZVl6UVVRN1VZcm90cWQ3Vlo2SkthYTZGT3NxbEJ6ZlJSWWFpNFRvcGgyZ1hNYzhQQkV0UFdnUXhkUy1tZ1QwemJfUjVGbmVqQUZtTnRmaU5HY1JWXzZVY0JJeXdWRFRYNnRfVGRQLVV1QmRIMC15aW5ZWGhXM2pjUE80Mjhn?oc=5",
+      "published": "Wed, 25 Nov 2026 20:17:57 GMT",
+      "feed": "Crypto_Markets"
+    },
+    {
+      "headline": "Amazon's 12-foot shed with a built-in pergola is on sale for $349",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOFV3T25tekFwb2d0T2JxNnJTYjZkWmZhUnplQUJSVWFoODN1VzRCcnkwX216eFdVeklIZWdUM0tIZ3o5MzFMLTYzYjZFZTc1bDBmdm1Xb3o0NlM1aGh1c3BwSFk4N0N5c2FVR1FyYVJBOWUxVEN2TFRBT0k1NlctNlEwaGY5dnExdWkyMDdKWHB1aHQtSlAyN1ZRNU5SUQ?oc=5",
+      "published": "Wed, 25 Nov 2026 20:15:00 GMT",
+      "feed": "Big_Tech"
+    },
+    {
+      "headline": "Google to open first San Francisco store in Union Square",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWXBUb0tMaU9lYnI0OXlQdWgxenAtR2pBTXRmRldRbkdKcmxvbWF0Q3RKNUlNOFY0Vk0weXUyR3NSYzU5dm9ieGNuY3NCeDhVcTNSRWtZZGExcXZsNDhEa09PNU93NGpCdGVVdm9kd1h0Q3I5ODNJT3NYaWpKYkU2U3RRSk9scU5VSVE?oc=5",
+      "published": "Wed, 25 Nov 2026 20:11:35 GMT",
+      "feed": "Big_Tech"
+    },
+    {
+      "headline": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JR3BiQWdENkItZjIyRUU3TWVYVFB3N0dYcDlNNmU3NG1lZEVXUFZ3dl9fVUpKcWwyemZkYTYtQ25xbVNnMGZ5SUNiWjJyckxXNzVJSEg5ZWkyUnM2UEZTQVJLTllDSlFCdU9lLWU3RjRmdlZGZ0dv0gF8QVVfeXFMT1p4Yzk2RWM5RVp6b2J2VEZObUpGbktpcXBFLTdHN3BadmxTeFZNdmJWV2Y4YjdVZnVTMnBEU0R3WF9fZXhWY0dNNUpQbjVwTjhYazFwMDhJRXd3VkNxLWRIVHpJZzVvRUtWbUhzQ181cUYtU29xdm9aRVBYOQ?oc=5",
+      "published": "Wed, 25 Nov 2026 20:07:57 GMT",
+      "feed": "Elon_Companies"
+    },
+    {
+      "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "published": "Wed, 25 Nov 2026 20:03:27 +0000",
       "feed": "TechCrunch"
     },
     {
-      "headline": "NJBIA’s Ford, Adubato to Take Part in ‘Childcare and the Economy’ Panel, Dec. 10",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOTlCWkRGU0FFUWJ4TWFyU2hLVTItaVdQVmUySzgxdTVQNUNoX0tqemxjV2VMRC1FN29sQ1FYcVR5RkVXQTZ5S3VTNG4xdFlSRFNYMVFTSXZLdnBMNW1nU0R4ajlyOEFrcUlWY3QwVG1vQkpqVmRiWU1WY1BpajRvRURtQzNSMVpPQ21oeXViQ1Z3OHNBNXV0RA?oc=5",
-      "published": "Tue, 24 Nov 2026 21:06:32 GMT",
+      "headline": "How retail investors are flipping the 'balance of power' in markets",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnpQam9IRURZQVJPdk8ySThjTXg4Um5BMHZEUnVZMzdyUU5UQjdabWFPSFdwdEJMU29XSk93UTdJVF9qbVpFUkxXbkFQMldpdWlEWEZ1RHZFak03SjEyTFFNZmJDOU1Zcy1LT05abzM2TUtHNDJSc29COW5qdU9tNlZ2N3o3S0xSR2RVS2JYRFdMNHRFeXFCSS1MRl9LSE5rZGZSUHBVQTQ4bHZJajVob080am1qSnBJRmRwSzAwcw?oc=5",
+      "published": "Wed, 25 Nov 2026 20:03:17 GMT",
       "feed": "Crypto_Markets"
     },
     {
-      "headline": "Microsoft (MSFT) Is One of the Safest Ways to Own AI",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTGFBVVdNRFBFZE9EWTZDR2tLMFNwTXNEbnMycHhqOElxTnRwYzNjdUxRTlRjVGhLR25QRUxvTUdVNlFlOEhWc2JKZFI3Y3JoN3hIS1hHN25CY0s5RFhpeHE3bGN5LWg3c0VVN0ZhUVRBSk5ZbjRBaEtBS2pIVGtHUlV6a0J0Qy1KOFhJS2xCMXJ1elpScUMtcGVn?oc=5",
-      "published": "Tue, 24 Nov 2026 21:06:00 GMT",
+      "headline": "From Amazon to Zara, Here Are All the Best Black Friday Deals, Promo Codes & Coupons",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeE9OVzZOazFaZmo5RE11cnVQNnlBWUU1SUt5RjdDbmZ6Rk14a1FIc09VaHh2OFZwTHBsVUVTZl81X3BmUnhXU1lrQWo2M2dmaUxFdk8wRHdrMGMzQ2xQc2ZZLXdObXVtQ3BnQm1jbExmQlpvSnVhbDZweENWZnJnUENNbHFmN1lUbHFUZ3JtekRpX3o1TFQ5TXhUMUo0Q3Z3ZzN6SUpRZWJSX1FSaVZyNDJ6M2txeTRZdldHVw?oc=5",
+      "published": "Wed, 25 Nov 2026 20:01:58 GMT",
       "feed": "Big_Tech"
     },
     {
-      "headline": "BTC price range on Nov 25, 2026 at 5pm EST Crypto Prediction Market",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYWstWmpzSTJ0TTRkdW82Nm5oWnhWRGlUVGJ3WjlwNk1DeElBNk5DQlhtYVhiRDdIWnMyMWVhQWR1cUk2UV9OYm8xVkxHdEZ6ZXBmSTl5cGdyb1RPQTRhMjV0TjhibnVYbzhmczZMSF9OdWRZb1hpTmtOMWY5MFJZbUkwSGdDMVRiNWVWYmFfSm54WlpGSlBsNlc5QlN6Q2YxZ2FvdlpMX1Zhc1lCdXpuOWtZaVVxQQ?oc=5",
-      "published": "Tue, 24 Nov 2026 21:03:34 GMT",
-      "feed": "Crypto_Markets"
-    },
-    {
-      "headline": "Google filed a patent application for an AI TV channel starring you",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBV2Q4THRPN0JiRG5SWWZ2Tm5oV3BVb1N0Q1p1RktsdkViMndmZWdSSFhxcHN4TDU1a3RKS0stOVItXzhrZDZHMWFKdzJwOWtTbFUwa1NlRDl6ZjVDUUktX3VOOHVIZE0?oc=5",
-      "published": "Tue, 24 Nov 2026 21:03:28 GMT",
+      "headline": "Tech Stock Sell-Off: Here's Why Apple Has Been Immune",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZmx0QkdUUWF5dUxZbnBYa1RYYjBXTXdDR0FQOHJwWUszbm50Mk5NTWg1VHJlUVo0YlZ4WEpsRmlQOTZqOGZnelA4NXhBbDRTWUFYN1hLT0FnSmUyWUJFRG1TbXc0dTlBU0U2RnVxV2tDNjdiSUZyUXI2U1NVdVl3Q0tmWFJMWldvNlE1cEdiWVpIcDhldnBHZWFpTQ?oc=5",
+      "published": "Wed, 25 Nov 2026 20:00:02 GMT",
       "feed": "Big_Tech"
     },
     {
-      "headline": "Evolution of Energy Markets in 2026: Supply Bottlenecks and the Search for Problem-Free Barrels",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWl9RQm8xbGFNLWkzUVBrVFBVX2Q4aGdhWm5Od0JZRUFzRzdkeGRLeUNkTDdKLS1XNVJXcUpVT0RGOVg1OWNSaGhjemtoS3lMWjF0enBkbW1COEpWdWxvWmJKaE55dVhNbnRyU0xmdTQzZUFpZzVsX3ZNLW5RVUJNdGI0WS1UTEJ6YUFSOXZOdzc3X1RYYnc4aWI0X1ZPbEo0RGVfc2ZNRlBUUG85V0pr?oc=5",
-      "published": "Tue, 24 Nov 2026 21:01:56 GMT",
-      "feed": "Crypto_Markets"
-    },
-    {
-      "headline": "Google Says Apple's iOS Browser Rules Offer 'Choice on Paper, Not in Practice'",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3SGZwX19pMWNKZzIxbExadFpyb01vT3E0bzZCdmpkU0NDUzFrc1AzMHVFVG1JTkd3MUx3M3B3OEQzNXVyQi1Id2VGS3hXbi1rY2JkbXRZSzdnOVl6eVI2UG0tYy1Xb25YeHVXRDZrYmdpM00?oc=5",
-      "published": "Tue, 24 Nov 2026 21:00:43 GMT",
+      "headline": "Elderly man with Alzheimer’s rescued after 11 days in Amazon jungle",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTRtR0NNZ0tycG14SmhPMWEzS3FETFRnVTh5THBMcWhYaUlUSXV0TmNBak1YRXFSNHh5eUE2TDFJcUU3ZkRUSmxTZS1FTUh4Q1NXTS1mMExJNm5DTUpOZFVxXzF6YVdqRFd3QmZXOWpjV0pRb0xFeDdxbmFCclpHMlJiRDhSaXAzQ3FYSWpiaTdyQnJqZEVyUG1ETkIyUG5BR0pSV0hGS2lONUhmczFwbWpqVGVXaFFTUFdHdENR0gHDAUFVX3lxTFBUUGNOMS1OMWtTX2hocGtFdVJHNWdUVmRVLWlSOEVXS2xqTnNkQ08zUnZ1SWY2QUFuaW9LSnl3WFFRTmpRRXliRGVTZXVVMHQ4NXV2M0JwUnh2TzhVREtiNU1BZkxOTFV6MnVVMkZYaWpQbGt4dUZ6THFFbXYxRWo1dVdYTDJRYjlfbm81d2VLci1zWUlFcGpCb1hLU2xYNm5yQUNTem1jZEgtNU1nVTFtb05MWXpJbi05dGJxUWZiUjhDUQ?oc=5",
+      "published": "Wed, 25 Nov 2026 19:57:29 GMT",
       "feed": "Big_Tech"
     },
     {
-      "headline": "Analysis | Maybe the market is the economy after all",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkp6YllFbGVuUS04S1E1aWdta2paXzVJTE00amRvblR0dGVFVHZwVTBUVXRpZEFSMVpYNnc0bmM3YUFKZG9vX3NRdWFaTGVRblktZ1gtRk1CY25Ea2ZwV2RCS0pnMXpiTnk0OGxHRDd4eExYZC1sZlZhZ0V4ajE1LUdGWWlzUzh0X3RoZHZR?oc=5",
-      "published": "Tue, 24 Nov 2026 20:57:34 GMT",
+      "headline": "AI infrastructure economics takeaways from Fully Connected",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3BaR083Wl9abW91WlVHWlU0UjQzOUp5WGdYSVBYMThsV1NEU3V2VUdjdzNlMmtScTJ4LTlObTVCeVF3YnEwcGNRT3JSM3ZiVFZqaHU0Q0J5NEtaY05DRXFveEFkWHRKQUgxYTVtRWlvWXotUjBubEZSVXBYX05keHZWalc4Z1FuaC1WSHVjNWRsQ0JhZGpKZ3V3a19IWklvRFFWdW1rWnA1YUd0Q2Y4OGJ3cw?oc=5",
+      "published": "Wed, 25 Nov 2026 19:56:00 GMT",
+      "feed": "AI_Infra"
+    },
+    {
+      "headline": "Rooms \"More actions\" Panel Reordering",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWmpSVWhrWjRKc3BYUVBaOU9ocV9sbmwyaTVNdURSS0pMaUo4WlZkOXFuOXJxbEJYVXZSZ1RHWTBCSE1tTGVDVnpJZDlFQTVla1hBdjJtWENMZlZwN196RklmMVk3LWJyMEI1RUo0cUlOdmQyOElneXJWeFUxUFF1bXdhRVM2d3YxWTZLaUF0bDRHTHBCQVBz?oc=5",
+      "published": "Wed, 25 Nov 2026 19:55:35 GMT",
+      "feed": "Big_Tech"
+    },
+    {
+      "headline": "New Haven sues Meta, TikTok, Snapchat and YouTube for allegedly harming city students intentionally",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObXpTaFg1SEFsNG1tYWEySWl3cVg2ZVRBYUFIQTFJcUNFRTR3aTd5YXV4dEVWVUI0ek9CN00tS3BkQVl3eVVsalJrMHBLdVB3aElHeENzZ2twTEU2MjhKdzI5U0hySDNlWjRHeTdJUVdJVVhPcjh6R0RfTFBaNFJCWGs0Vi1LTjV5d2NDRnk5eUJUSjRhNExRbVkzS005b19IYTV4dkQ1WjNrbGZfZDgwdFBJcExWa1VtVmI1ZkpXYzAwQm9yMnMxZEpLQk00dFdXZnp1amVIclVlZmVyWGNabzJhSl85QXVQbVRBUmk2UmFqNTFtX1hr?oc=5",
+      "published": "Wed, 25 Nov 2026 19:55:00 GMT",
+      "feed": "Big_Tech"
+    },
+    {
+      "headline": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "published": "Wed, 25 Nov 2026 19:54:57 +0000",
+      "feed": "TechCrunch"
+    },
+    {
+      "headline": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "published": "Wed, 25 Nov 2026 19:54:32 +0000",
+      "feed": "TechCrunch"
+    },
+    {
+      "headline": "SpaceX gets green light to deploy 1 million satellites for data centers in space",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUE1ZSDI1cldnWVJ2dFE3RnRhVFlXWXZCcW1aR3EwcEVfYUh2ZWJ1MWV6S3hDTEpXYVJ3VVlfM3Y5OGVrZzMzMHdDSzEtbkVHV3hJbDR4ODFueUtxNEVENzlBSlRjdTRqcWc1SDJ2dUlGcFRIdUNKaTJId0pPZTVfdmJCMWFVai1WTnRQdGFSc21ZTkRodVBCTVAtbUNLRW1HREwzY2xSU3Z3dGl5OWtv?oc=5",
+      "published": "Wed, 25 Nov 2026 19:54:25 GMT",
+      "feed": "Elon_Companies"
+    },
+    {
+      "headline": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWxleFpSeVk1OE9WUTRPOEd5YTNxMG5BeHBNVlpiblVxNHRGcG5tRlpuUzlJaDdYWkhCZ0s5ZzBtOU5qMENSdWFGU2pwYVZjZ1lnajY4TS0tQ0VZTDlPQTBwREg0TlpYYXRILUJxelVXVHNNQXMxdmtJaDIzY1pRNA?oc=5",
+      "published": "Wed, 25 Nov 2026 19:53:48 GMT",
       "feed": "Crypto_Markets"
     },
     {
-      "headline": "IIFCL IPO: Govt to part sale stake, company to issue fresh shares",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNl85bHZocFZBc25OeUUweTQyRGtlNFBVcS0wLVVoYnU5Sjl3a3dmbVRlbm1uS3RPbElmdlYwM0hlbnNGbzdOLTFURW9fNjJySHRCNzJDMVA1UnFXZ2ZKMmpMMkRkMGZwUGYwS1RVR3A0WEo5eFIzVDBZTkNZaU1oNVN4UUt6T09JXzU0Rnd5ckJ5TDRNR1RYSUpzR2hXc09pbGFaSHBXOWlabkRjQi0yWnhOc1F5aDQ3VTlnS2ZCNWhKNWFhcTVHatIBzgFBVV95cUxOUV9WU1c4ZkJsSFQyN01VQWpHN3BlUVBxTVVsWl8zTjhqRmcxRnR3TkNfTHhfM1JSRm5RRHRONWRZT1lJV1MzMHZnTGk2R2ZUb2ZvdWtCS1p1RG1mNG9yWkJ3eXRwc1BMNkw4dTFyc1RYUVJuWG5OZjVTdTEwdzZqUHZOQXdZX2ZwUUE0RExvbTU5S0xseVh4Y3J2eHEyanRfbnBibkcxMHFseElQM2xmMWNsZkI5UUhPRVl5NDZaejlPSjBobEctbWNUUm95dw?oc=5",
-      "published": "Tue, 24 Nov 2026 17:18:39 GMT",
-      "feed": "Indian_IPOs_Markets"
+      "headline": "Billionaire Investor Made Meta a Top Bet Right Before Its AI Spending Shock",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTXJtV0NfMk1Hb25uaF9sdU9qTHhQZHpjSjVYdkwxUm9wVGUxVXBUSlF4T2lxaVNLdUEzVnZiZ25EVF95SzRPbmJwNEFtTG9PQkM3T2VubWJQUUZDQTRheFB0VEd0VHdYVDZRUDhxTnJfTzBqbjBZbmczTWxheTF0ZTIwTEMwd1VFd0NkcVozMkVuV2xiZDc3cldxenZvRU81TXJyUk1Pa0FqemRRUF8ySmphMnBOekpGb3Y4MXFjOXlCYV9SRjZMa2VUN0RoQQ?oc=5",
+      "published": "Wed, 25 Nov 2026 19:52:05 GMT",
+      "feed": "Big_Tech"
     },
     {
-      "headline": "ITAT backs Tata Sons' investment-holding business claim, allows interest deduction in tax case",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZDUyZmRBMDRuSU1oUmpfaHZRMEpzVUQyVmdFakhNSnBhUFJCbFpxM3lBbTZxaV9ZNWV3VEozbE9QWTlLWXNxSnpqNzV5MWpxYWlNR2ZRRWNNa1AtVzc4SmJCTU1kVC02ZG4zSUJ4Rl9aOTd0OGRJMllxdUpiZUxlOXF5aEZVU3lQUnRrUzdONFpGYm9qWDBXZmpFWDBKRkZ3eTJIZXcyQVhVTjBDOUhQNlNlNUVkUFpjQnpsZVZSTE9oMlpiWVJ2QklmN1lhU2Zmak1vU3N0VW5mekN4Nk9lTTZiSF83OFRsNUotZFVVd21ZMGdBVkxRVTF2TzdVMXYwWDBfeXE3a9IBjAJBVV95cUxNUC1pbDdnc3NoRGRUMm9Ed0dmX1RNSmNEQkJpc0ZfVXRZNGVhaWIzM0h4dnM2OFdfWHdWUm5xZG1yNHdkRklpV2RrZWxKWGZYSTNTcGd4Mk1mTENKTkoxVk1lelVCaUZOWlVfOFBYTko3NjlaRFFlNUNKVjc5RzVTTzlfQkdOVWJGMEVhZGU1UWg5SEhLNHBvVmJPcUJ6SkFERjdWbXJ1Rml1ekRiamNFZ3puYzhHVjJ2ajkxTzhtY0l6eEctdHQ1VmNkN0FJWi1teDZzbnkxLXlWczRXMGlGS3ZqbGZFTjlPeEstVk45ejlLQWFVbmZKcVdhTkljT1d4bFdSYVhUUkVtOFRi?oc=5",
-      "published": "Tue, 24 Nov 2026 17:15:46 GMT",
+      "headline": "DPDP Act & DPDP Rules, 2025 Compliance Checklist For Indian Companies",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeVJKMnVzdl9HMjY2am8zdkVGcDc0R2JQVjZnTTlBZkhLY1BMWHgzSFE2VTBpTXBtUkhWRGIyTlhKNFc4SWx3LWFBYXQ5d3M2VENZdnN4SEZ1Rjk1YVRQRzZzeVRZZzNoYUMxdVJWcWNGNjhmb0xIeTBUVFNhc2VMdThvVHFVM3pCTndER0gxOUFETUFHd09UcFk1NUdaS2stNWVvQkFMano4ekhVNXRITUFicXN5WGgyVktnV0VmZw?oc=5",
+      "published": "Wed, 25 Nov 2026 19:24:24 GMT",
       "feed": "Indian_Corporate"
     },
     {
-      "headline": "Pranik Logistics IPO GMP Today with Trend",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OUW5ycjZEdFZZcEkzSE4tN0lBWTJiODlGcVdYT2xXMzZfYVV3bGNTMnJDbDlYUHRzbHB1MmJ4Z2k3VUh2S2JhclhyN0x0OVJ2c3ZZcTR2ckU?oc=5",
-      "published": "Tue, 24 Nov 2026 13:52:00 GMT",
+      "headline": "Walmart-backed PhonePe restarts IPO process, eyes up to $15 billion valuation in market debut, source says",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkVTQU5UZjA4Wnc3STdBc0xPZnhhdzE5VWxlbUJHTG5XWjFlRHRiZWFUcHdHeThRQTJZVkZqOXFMRWNJR0lQVnlLQkEtSllnQ1ZXVVl4ZmJhTkNxaGwwcGh6bHZIZjZDRmttX09iOU5nS3BKMDB6aWhybHNyc1BiVlRNQ1loSXBUSFB0Z1UwbXJtTW9WRW9wMVBJOU5PU3N0Ul9mT2dibTk4NXZnbVV5Ny1UZFZwdG5vc1BiZXVRemFXT0NFbmc?oc=5",
+      "published": "Wed, 25 Nov 2026 18:35:51 GMT",
       "feed": "Indian_IPOs_Markets"
     },
     {
-      "headline": "Dhariwalcorp IPO GMP Today with Trend",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Sa2h2RVdIVjlhVHlIdGdRd0VXOHR6Z0N6ZGxQcHNjWVp5bkYtaDNULVVHV25aeEtsOXFHNjg2OTZTTGJfUzBUOWpNTGlTZlF2WS1J?oc=5",
-      "published": "Tue, 24 Nov 2026 13:51:52 GMT",
+      "headline": "Silicon Valley pays 10x more than India for tech talent, Deedy Das argues",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFIzUFpHX1p0T1pfN2VkZFdHXzQ0YTJYRUx3a0lqWU93UE5iTXU1aWY0Zkd3aEY5anpsTkNNcXZMYlRIaUR5SnhHZjRiRnJ2R19vTVpNNWdWc2FMdDRNcGtfdTQ0Z1U5YXZ2LXY0clNmZ01seG8xU2VHc3R2VHJXZE92b0tHT1k0UnU1d2tqbGJMQ1lBRzNXcW5WSkREYTdnVFg1cl9nRmFRdjlQdnVpTWdMMkZiVHJtY0E?oc=5",
+      "published": "Wed, 25 Nov 2026 17:03:49 GMT",
+      "feed": "Indian_Startups"
+    },
+    {
+      "headline": "Sebi Retains BSE 200, Nifty CPSE as Significant Indices",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWnpIQVdpZDhBalVGUEFTYWlKS2JTdDg4OE4tRUF5bXZZWHFZZWZJX3pFand3LVZaRlVKWlRxaWtwSng5MTJ1Unh0X1ZBbldIdVBGVDMxdlBuQUktV0N0R1NacHFfUG1VeDJxQjVTcDBoc25CakxldVRoSEt4V2RJN29fUzFNZTZJamtIZUNmamhXUjNjYm80R0UyZU9DSkt3YjRyUjFPRTA5UdIBrwFBVV95cUxNOGdDRDZBWDBkRUtxM2hoYW5yMUcyUENBdjltUjM1bkc1WGdLMDh3ZmozTEp4cC05dzFSM1ktYVNBbkQxUXpGNDQ4dTBzOFY3dDZNMUs5M0JpcVFjZmpPbjJFeW5GZzJwTFFNU0kxYkJBeWtqa1AtN0dJYThRa3laa1FZYjFPcEN2ZnJraE1JRS14ZUMtYk5zUlJ3QlFUSTgwNDhTd0NEWWE2YjJFWjdr?oc=5",
+      "published": "Wed, 25 Nov 2026 16:28:04 GMT",
       "feed": "Indian_IPOs_Markets"
     },
     {
-      "headline": "Abha Power IPO GMP Today with Trend",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WQXI1ZkUwY2hFRTNxcVFlQ2FGRklSV1Nuc3Z4V19ObUVEaTVwbW9SdnpFNmtKVzBpZnBlYTdGZF81NjF6amRESnliTjZPWV9G?oc=5",
-      "published": "Tue, 24 Nov 2026 13:51:49 GMT",
+      "headline": "SEBI retains BSE 200, Nifty CPSE in list of significant indices despite them falling below threshold, in...",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRl8yN2ZhdmhxbGtIaWNXVmNOazY4VjdTN1BrOGtCTUc4djNhS3hlUGI2c0QtZXJ1b0p1aE9WYnBzMWlWYTByZlA1cG1HZjBPUnJPY2xJWk1WT3JPdTBXS1BlRDM2OG1DMFpVOFhwRDhpM1VMaERGR1JJN0YwS3lQWHJqcklLY29UYTQ1cXBmUTcyckRwNllkRzROUjFtOUdsQjVjZVVJcU5YNW1NNldCT1l0TmZvRUlzSVRyQU1XbFQ3cVl4cndGNnZOTDRldnRxX1pxNGg5ZmhuUHFMZHV6Yk81UWN0NW94NUxjRDBxZS1KelNvdUliaEZ2Wld0U2dGSFZTcDBQUUZkWk1hRHBCRE80Y1TSAZoCQVVfeXFMTm5FRGc2dk40cDVoMzBLU1JKY3Q5ZUdTOW5wU0h0SllrVldjOE00Q3RpMFpaYTBuSnlPQnNEUEkwUWx2dnVFRXcyTGhLd3hKNGF5eTM0Y3otRkJNd241d1UybG8wclJyRmZMTGt2a1dkcE0xem9YQ3RnT003UFlFSWlzdVNCeHpWaEVJWXRZN2txMDFuU3V3eFNlQ0lVZDJNbF9DQU5hSkEycnpIa05zWU42ZXNZbWpUNHQ2SkdLbEp4bm1GbnpYLVdPQUdIVW5hbGF3VnVPSjc1MjYxUENQdWRtaEpjeUV4ai10UlA3ZHBVWWR2Wk9HS19lZExRLVRvUlhidkg0ZDdIU0p1R0dPMHlrMVRGaEJGeWZn?oc=5",
+      "published": "Wed, 25 Nov 2026 15:47:45 GMT",
       "feed": "Indian_IPOs_Markets"
     },
     {
-      "headline": "Indian Phosphate IPO Date, Price Band, Issue Size",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tVG5PdXZXRUt5NEI1THZCaS1WdzhpTmE4b3pYREVZSVYxT2xScjNUQl83VnI4WUhBTGdjTFJTcU5OOTZrcXcwdmx1Q0VkbVJKS2RSVG5NYXpjemh1dGc?oc=5",
-      "published": "Tue, 24 Nov 2026 13:51:45 GMT",
+      "headline": "SEBI keeps BSE 200, Nifty CPSE in key indices list despite missing AUM criteria",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeWRFMFo2Z1BYVnBQOTNmVFdoSUsydmw4QVBTM2Eya0R6S1BtbU9zMVF0N0l3Si1KMlFEZnB6aTlLZTN2a1JxMUxwUzlxODZoZkx6M2RvS3EwY2R1YzVtSVFjYkxjOHhXNmE0TjBWS1Rwc05sZkVfOGhIU2UtVk5sQktkekdKMDlxZEFKNkVhRkc4bmVlTkVyRVozZEQxZDdYMXUwVjd2M3E?oc=5",
+      "published": "Wed, 25 Nov 2026 15:19:09 GMT",
       "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "Tata Chemicals names new CEO amid push to reopen plant",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRTJvNUhCUE0yQmtYY1drNGlZaHZ2cjB5aExEOW1JZ2NTZjkzeHk0ZFdvdUFuQVlqbGdfLXlsT2JaQ0NudDVzRXk2SDhLdmJpeGFSUW9FRk9OXzhsRXZVcGU2MmtlV19PSHBmSUJIemo1UHpfQ2lyY29uVHRUTXpueEZwdFlMenVkT0RBU084OTN4T0tid2VQalQ5d29VbWpoZGRCZ1BVbnBSV2dtYzVuMGxjY2w0R25uMkp6ZWpR?oc=5",
+      "published": "Wed, 25 Nov 2026 15:00:00 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "Deutsche Bank, India's PNB sign deal to finance Indian corporate acquisitions",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzE4SEtJMDhrSjBlUlB3MWN1RnBRUXFHbkJlNzRRSlRKOXNjazBCTXpqYXBhcl9ZRnVqdEhVa2FKMjFoSDVKNzhNRjVtRXhmQjJrX25GNlVTMkNsQkZ0RzZ6STAtT09kZFYxTTJRbkJQelFnZUd6TkZkTmdQZ0Vxc094UEtXNnljSmpvMldRc2hyUGdXcDhYZnRHTHVqNWFyNGF5ZEdibVNwc01TcFZDUHk5MVpyZG5hYmFSMQ?oc=5",
+      "published": "Wed, 25 Nov 2026 14:40:30 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "Adani Group plans USD 120 billion investment push, aims to keep net debt below 3.5 times EBITDA",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWUdJRjhNR2JkV1Y4Q3g0b0QyX21fQXJkd3BNLVRYeDdLMURWSlRmU3piVXo5eXlINjltQVpGNkhrLTZSREhNTlpFcjdqT2J5Z2RZM19xRWRTZ0NZNW91LUhwbW1TZUtNSVBoTUUtM3hTYzRkck5BUHM2M2lTZmxFX2E0UzNMZkhhMVMzdFI1VmZuRnV3MC04M3VQUThUbk9ONkZxRk1QMURHSGt5MUt0MlZZczVZdEpxSnV3dF83NzB3elI1X3lySnJpZWk1SkNFeG5Gd1FhaHRXNGRNVGlz?oc=5",
+      "published": "Wed, 25 Nov 2026 14:33:43 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "SEBI retains BSE 200, Nifty CPSE in Significant Indices list despite threshold miss",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ1hRdDhJSzk4eTdFYjJOM21iMzkwaXItOVdSY0dhSlh6RF9MWjJRY3ktc3pmTFJUYnIwNEIyQUdFM2pCeE4wWGJHTUZsV2Uwcm9Ea0w3VVVpMnBHZ3dBZXNBM0Q1dW4xZUg1TDBNQmdZanJzd0wxT1RDT2c1eVF2cGhEUVhyalBaV0kyOW90aDYzaTM5enFsWTlVTzRKUU9iSElRU3hIR1ZYNHUyNENaNDZIblFnSV9GNG5YUk9mSDNuaF9FV1FWY2tVcVJ5T3FKaDkxbzdZZFJHRmh3TTYyWdIB5wFBVV95cUxNbi1mckFVQUdVLU5SLThsejZ3aFlKMUYzS2hKSmxJdkduQ2dKWDAwUXBnSzNhZUR0cW9vRnJQSHE4QmdKVGZwNHBRbXZ6WmhBSHVjb3hPSWNQbU1HdXZiaW9oVDN0N21hVlZRM1g1WWlSSXY2ZVE2ei1wT196ZFN3ekxDSzNMQ2d4Z1NfZy1qLVJCYUI5ZzY3eXJib2Q3OER2cDNGSGN6dXhSVmNDS1pHUnMxTVZaZWdESXcxTWJGelBtYTJaN2lZemV3a1pERTlub3lYc1lfNHFqa3lxMmtHZ2NRa0VCYVk?oc=5",
+      "published": "Wed, 25 Nov 2026 14:20:17 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "Tata Steel–APL Apollo Deal: A Promoter’s Exit, a Corporate Takeover and a Minority Shareholder’s Dilemma",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONkxsbDMydm9GVUI5U1NqRWtGcExVYmJPMmFTSGJvQ1YxemdOZXJhbm52dGJNMGVCTm5zUUdBa2JuOEN3LVF0a3FsdjZJNjRnWGdnSjhjUFhRZkdJVkI5eG1MNURJNDAwVUg3a1BOZG1CZnZ3ZGdhenJNVF9wcE9Zam40dHVQcGJCVHNWVk13WjRUZDFERkdjQThwNXV0NTQwbVZITFNPb2N6UVR2cXZudHFaRUk2U1lwTDNSODMzbGNUWjRncHcyeFJlRjh1bnNTRmh1RkRHYjNPOGtROHg3WkE2bw?oc=5",
+      "published": "Wed, 25 Nov 2026 13:51:33 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "Why is the Stock Market Up Today? BSE Sensex Soars Over 1400 Points; Nifty 50 Nears 25,800",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhuSkJiQ1p6aHRjNlNGeERnd1dVTlB1S1V3YTE1aDFLdjl0VHBSVkRneGdaVzUtVjZzSzRIVVB0OXhsVlFhbDY5dW54cTdjRTk2SlhJbUhYcDZtcDFobzNXZGl1S3FUMlFzZ2RmRmZKZjNhajRrUkdIV0ViNnI0Nw?oc=5",
+      "published": "Wed, 25 Nov 2026 13:36:13 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "Flipkart’s CEO exits, Tata Group’s next big meeting and PhonePe revives IPO plans-- Editor’s Picks from Moneycontrol",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzJNZWVSRkh5Y3VQR0hnN3dzN3JXSFlqaVFDSE9xZ0xNYnc3YzR0cFAwdUt4QWtYRjFsTmVFMEk2RW41OEhRWTdRdkFSSk9WTDNJVF95WW9mMHYzTWZfTjhqSlZOSk91QnQ2R2dxdFJCNzRVVXluZWpjbE1zb0pCRFpVVlVhMnd6bHI1UGlyQ3VkLXVlZ2pabw?oc=5",
+      "published": "Wed, 25 Nov 2026 13:16:10 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "Vikran Engineering (NSE:VIKRAN) Faces SEBI Warning and Rs 12.50 Crore Litigation from GS Products India",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNW91b0JQTnJ4R3Y4bWJqM1IzMnRuZUxrYVkzTWJjN3dRbF9WanZYRUk0MXNtZjJkenZXRkllTTc2dUFkZFVNT29qYTZIQzF6V0VJemtYZ0VEVlc5eTEzalBVSTRYOUF3Vm43RjFRSUJvbHN6X04zcmtKNUFlNHZzUEloMUZDalBlLXpDS0trSWJoTlVQSUoxRklFZUVseG80UWt0eXZ2R09oRjQybm5keG40elhPS01oTnhqek1qWHVIRmVRN29XMEg1MGg5SFVMMUEyeVAtejJfZkxBZDg4?oc=5",
+      "published": "Wed, 25 Nov 2026 12:41:00 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "Orthopaedic Startup OSSO Raises Rs 2.5 Crore in Extended Seed Round",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGNxNmdEMXRQYVBnMzMzbkV5S0tHaF9PMGNoY0dCbzBSMGVDanZaZy1JbVlQVjlfdTlsVmp4V0lKVUZXdENKNC1QSHloSFZBNmloLXZUYmtvbDR0SGExaFA4LWxUMkV3RFZJZDQ5TmxzemZieGxZTGRiR3pWcHdRLVp2SjlmVk1aTC1UVUlYRFI5bUdQRjFXQmptNllzX0NNRkJGVGNXWnY?oc=5",
+      "published": "Wed, 25 Nov 2026 12:38:31 GMT",
+      "feed": "Indian_Startups"
+    },
+    {
+      "headline": "Sebi Asks Intermediaries To Stop Publishing IPO Grey Market Premiums",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUh2QkYtM2VmcHdvU2Z1NDF5SWR4NHRjTi05YW9McERWNklSQ3VxN1Zwc1hTX21GYzIxNmlfNVZJVjNaa25QZ1JpWVJrRVB3YkFtZFR2ZGw1YkgyTmhfSTVkbkY1LXVaSG12Y181V0FkcnVFQlVhOUJweURMSlZMRUttQ3VRMFhpZjN1R0ZnNFJXdUZnVnN4Z0JtNUdTVzdQaVZWcHJkNGwtTWl3UUZDa3pWdlNhOC1CanZ6ZQ?oc=5",
+      "published": "Wed, 25 Nov 2026 12:38:15 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "Deutsche Bank, India's PNB sign deal to finance Indian co...",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSW01UlBoMVJXZXhHV2IyTF9VNUo3UnlUdksxdE9rSFlLSHpaeU5VZGFJUkh6OHFiX2U4YnJLR2ZkSzg0UU5lYTd3cXVHSzRsQ1hXTjlYQTR5UXVicDg1SEM4ZDluZDBacUZUeFJ2MS1rSmhyekVzZUlNS3pxUGd2ZnNmY3Qtb3E5cmloMjhOUnRpUkwyMWxvVXUyTlFJTHd0bW0w?oc=5",
+      "published": "Wed, 25 Nov 2026 12:33:00 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "India Shareholder Backlash Puts APL Apollo, Tata Steel Deal on Back Foot",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWtRc0RITG15VVpHRVo5ZERvSF9jQVlzeHhRNktaQjVkTjN5SWhDcGFVY3RKTlhHdnhXZmZHcjFsNFZDVG03M1hwaGVfdHBvaHFhNTVHdWVyQkkzaE1VcXJwV3ZGdnJkSi1KTmNJZEw4TFc0VW80ckhpSkdOWUdfOFBneDBZR1FoeGhESUcyZjZsQnVhMHVRT2JSTkt3NWl0MXJwbjVvaDJ3ZV9Ga294MDFYUHR6M2xoUG53X0x1a2JiTlE?oc=5",
+      "published": "Wed, 25 Nov 2026 12:30:01 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "NSE overtakes L&T, LIC & Infosys to enter India's top 10 by market cap",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWsyUEpvRG5VdUNpbVdYekU1Ui11SUw2RzNVNlhucXYwemNsdEZJN0tiNGJmYXljR3BmNG9pQXhrem9hTG9DODdOWFJhOW84azVxY085Vlg5UldqdnZ5ZEpqdDdaQ3lJX0N6dy1hYWp6WUJxc0hYMXpuLWtCTTg3N2hHSnRXMHUyUjRpS0NTYWRVeHBPQTMxaFNqVlB2WEoyd0xTSHVreUQxRkt6dWFOOUJ5QQ?oc=5",
+      "published": "Wed, 25 Nov 2026 12:28:49 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "AI agents already used by 59% of Indian business leaders: KPMG-CII",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wT3NSaXFVTzI0SE42STBnN3d2clE1em1FQnRIeHY5Q1k0anVZaXBnSEFCcEFSa2hXN1NrTElicWFweDdPa0NXTDhkNGhUMERJWjZmY3Vaejh0cFNDUmhybFlqUUZWM1M3OVJTTE1UR29EdzRTSVQ2VmljMlFUQQ?oc=5",
+      "published": "Wed, 25 Nov 2026 12:05:31 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "Markets rebound: Sensex jumps 1,502 points on foreign fund inflows, lower crude oil",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWJ6ajVSMDlJM0U3Y2VtNm94X0N0T3hLR29fWkl6NW05cE9GNHY2VnRSSzh5cDk4d0dFRE4zZXk1YlkzREVUaDNzOUVjcmk2dzhhZmtjdkZvSGtuWGxvYTk0aVZoY09NbHI4V25FelRlbTF2UHFadDRnRk51Qm5ZN0J6SmVGUHJGOThKelZfZlZPQ0NXSVZGSkFkZ21LdDNMVF8wNDd3ZzZIdWlPS1JsWF8wcklsc1c0UFFnbU1UUnlLS0hkYnlYazR2NHB0LWvSAdwBQVVfeXFMUHFFZHdyVWVPMC16cnE4d2s0MmpfcTR1WG1zTjF3MzRoN28xZXBLRzVCSG5EbFBkSW5FcWE3OElxNnB0bkdDaU0yN29Id25xTjByMVRYQWNjT2VQb0h3S081QmJ5cHZUTkdjNV9mZ1dXYk00X2VfMS10WHRyNXpUdkNjR3VJdFVUdUM1UENxRjNiUDhMdE5DQ0gxeXFtUkh3NnN0V3RLU3ZQUFdaYl8zaTZKYk05SkFiZEs5eUNSWWNiN2dITk0wUWxRZWVkTTNBXy1OdTdTZzE2NEF4cA?oc=5",
+      "published": "Wed, 25 Nov 2026 12:01:38 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "SEBI retains BSE 200, Nifty CPSE in significant indices list despite AUM shortfall",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVlRXZW11OEg5YVRuWWtjWlF3bW54UWpPSzZFTHJiUExYdE1ab3VrdDllanpnQ2gwT3JNbTZQVUtyc2hWRC1ZV19RX3VtbWkteDFCZUk2alVtc0hMR3dGbGxaODhWUlk4aHh2bWhYcEZPTW9PR0tQTFBlTUw0VDlKTVp3bEotWlJtOXNSSnppRTgtUTA0Yjd2TkZXT1F3QllUVFg2U0l5eUxLSl9Razh0N1JLV3lvV0huYUVuOEVfZTVyaTduUWpTY1dGbWx6ZUJRLWdMV3NEMS0zZTlOd2JRUUFBZER4WnM1S2fSAfABQVVfeXFMTWRlYjZyYm04YTJFTnRQUmtaMXMyNGNOeU5SUlVCSkhJdjE0NzVjU09EcUZTd0FDWFEzYzJ5Sm5ELXhLZzZrSGtyZE9keWk4clo5QUpPME9SUW8wNTRvQlVHb3ltLXpOWERadDE0bzlleHJ3N3A3bnktZFRhU191N1ZPZ3hjd1JJeVNTNkpIeUtrVEpJa1RDbEhReC1IUThIQk1JZTNUcUhySC1mX1VXUHNOWW1nRkNpaWNYeU1jWkxCMGhjZk43UDQ5dG9oNFV2SGdZOVhtZ3o3Q1d0azRKRU9EV3g4aFNtbDM4VDRoV2Vn?oc=5",
+      "published": "Wed, 25 Nov 2026 11:59:24 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "Billionaire Shapoor Mistry urged Modi twice on Tata Sons IPO",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQUVTMjIwYklDSnFSY2RiTHhsMjJ6a1V4NW01RXVucS1famhuZXUxRGw5LS1WMTFqQ1dfaFN1Zng2NmdXNzVrY2JTU0tqM3Npc25mNExRVlJjcjAwMU5xRl9zWHRGenBJMWQ3SDFTWE1SLW1VTXpTVUluY0xNQ1pDQnlsTkwxT0xqdTZKT0lBS2JwQXd5Mi05Z2xEd3ZiZjV6UTA5WU5SYTRHbEwxQjdLYlJMY1QzcDFvQ0JDODB0UkY?oc=5",
+      "published": "Wed, 25 Nov 2026 11:56:08 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "ITAT Mumbai: Interest on borrowed capital under Section 36(1)(iii) allowable to Tata Sons | SCC Times",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWkJWSDlKSFFYODl0Nko5SzFtU29GODhrSS1MYzliV1lnQi1fY3d0Nk10dDRqaFNoMkF6cHRqT0x6MVBVR3I5UlRuelBRcjNTc2VYNDFLYlBubm5hMmpNZENkajk2cDNxdGJmdmNkRzIxT3FJRS1tUHFDdjA3N3BRQURrVU1JVWNYSmxtbjRvNVlKSmM2Ui1xUjd6djR2VWYwSDQwaFpSRjBzdW42cjF0QkNfTVZybnREbkNDTFEwNHd2LUpVdlFZUUViZUFPOW8?oc=5",
+      "published": "Wed, 25 Nov 2026 11:44:22 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "Tata Steel benefits, but APL Apollo Tubes shareholders lose out, says Shankar Sharma",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVUJRNGREY0VuSFp3cUFHU2pEZlpkMXNKV1lDTmI3LWlMajRKcEIxUkctd05RSFU5cjVSRTI3dDJkdGZKU1VSN1NyMlRlVGJmVTF3Sm9mSHdrXzE4M2lCV1NTUDk5NE53ZXJtQmpTQWpRLS1naXhWb0dvcDh2ZnVwbW5NNkk5aEd0eDl0MTlVV2hkT1VicnRlbkNMYldTb2NGc2FIQzZNdHZQNlQ5TXFqRnYtR1hiWUpKTkM2NGQzMXNFUGNqbXlOV0EtZ0xsbEY5RkFvZkwyeXdoclZ4elRiMkg1Umd2eTDSAewBQVVfeXFMT2QxZlRFOWdTWGFNdTIyQ0g4VEwtQWVkODlwbXBwQ1NHdEh3dUh2aXprdHE0aDd4UzNOZEZrTWRJRXl0QUJJakVzZ2ljTlV0Ny1sd2xtWnBMZTdGSFh6a2c1ZHFoMXFiNlhlcEM3UGxscm55ZDlaWVB6MlM4NWNoQUpsUlVZWW9NSGZ0SlFXQm9pekVVblBVSEZPSjl4cU9OVXQzSHFwMzNONW1DUFJ2SHExVjZQM0lCQk9JYmVGUV9UQldzMzJKSzBmeWl3OHF1RjVFcU1OWW9FY01pNlFTVjFCR21iUXhKNmV6ejY?oc=5",
+      "published": "Wed, 25 Nov 2026 11:37:12 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "Top 10 Startups in India 2026: Founders, Valuation & Profit",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tdzFxTy1qT1RPZGtBT2VaZFRnZ0V5bDBjZGpSWFJNN0hRdWtrQkY0VXZ6ZzZxdFc4U09hZGY3WHVSNG1sRmZwU0tiRXJjbnlhZWJuVGJyZktjVzA1d0tyRElRYi11OXV2?oc=5",
+      "published": "Wed, 25 Nov 2026 11:23:14 GMT",
+      "feed": "Indian_Startups"
+    },
+    {
+      "headline": "How partnerships can move Indian pharma from volume to value",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUVoQTFiY05laXBqS1FqS3BLTENZSXNpX0NGbkpFYVNDZnFpNld0MXkwVjBMcUVpT3BLLWYzSzBBMDZZem9Ud1Iza2JBRFpiMWZjbzRKNGY1LXQtQnhvRkhTVlc5ekVMMS14QmFMVnNsRnpJUUVLTHdaQUJseVZKT0xiQVZicFoybmVkRTlGUDVKX1ViSkVkRE5xOUV0N1pSLVV3?oc=5",
+      "published": "Wed, 25 Nov 2026 11:14:04 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "VU Venture Partners launches India VC accelerator, investment platform",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTWJDOTRQRkVUYlJVVWNvNjNHc2JxQ2dDcFh2aXpoNGlRSDdKWVFSeUQ4WHU2Y0RkbXBUdGRqalpOVGVYa0tGWFBjWThxYlRGS2hfTTBnSnJpa0ZkcTFVUk5oTmtER21PX3lGeHNwZ0k5UVY2M2RwVnFYUlItbGVBdGRtaFlQUVltMHFwdy10QW9lTl9tSE54R2RfNkRydFBz?oc=5",
+      "published": "Wed, 25 Nov 2026 11:12:01 GMT",
+      "feed": "Indian_Startups"
+    },
+    {
+      "headline": "Reliance official loses Rs 54.18 lakh in share trading scam",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUklPNHk1OXN2b29Ec3B6WmFBc25WUzhxbnpUSk5qb0RoWXlwQWFSMVl4OGFpbmVDalB1ckRUbGNOQzZibWpXVEhTY2ZmYlJERk1hdDY4elFuMkl6UGpwX3JvS1d6MnNJU0EzSmFjS1A3UkZFbTFjQmphaDRfZ3pfeF9sVTg1MmtjYVJPYVRPcHh0T0VYdFNwRk11blptdw?oc=5",
+      "published": "Wed, 25 Nov 2026 11:09:23 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "Tata Group’s British battery cell factory faces delays",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUdOMXNlWGtJeTR2RW11RjEyYS1INzlKY0RKSnJvQWYxTnM5My1oUjdNTlVXcHZyenlMTDlTLTQyZTJ1SGRhS2dyZ2huTkozR25tNDJVVVFRdW9ldlZTdE9tbTVvVERXajVDa0RPWDhGbW9veFVhQkpnSENlaXFKazVJajRZWkR6WUx6T0E1RmEyck5Gd2c?oc=5",
+      "published": "Wed, 25 Nov 2026 11:05:07 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "PhonePe resumes IPO process, targets $12-15 bn valuation in Q4 FY27: Report",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2NtUXE1Q2R2aUFkcWdxZVNpOTJPNDlSamFaMnI4c3pnREhaRGdoYndpQkFFclZSc0hkRWc3OTROQ1pYOEIyaWpmTnBCaFl1b1JzS1RLY3Raemw2V2VTMHhhendxRl9BR011MDhteDNKbXpPa2J5NHhTaDQ0RlI5NXpSaDNnNHdUd0NJdWQwaURBTkM4NGJOR01jcUNFMkVVQjFVUFo4cV84ZldhLS13Ull6eGRoYVB4VHc?oc=5",
+      "published": "Wed, 25 Nov 2026 10:56:19 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "AI adoption exposes Indian companies to cybersecurity risks beyond IT systems, warns KPMG",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaHZKWGZfU2JJaXl0V2NWTkpvODM0aUhWd0hlclhkNGg2WFhCMzRhSWFlRW1qQmtrdTVVb1ozSUtnVVdRcVR4X1JQSjBMb05TdjhETmlfXy1hRGFBMVhLWmZ0SWZxckVfRlpCR1BJekFWVzNxNjYzOWZWQ3NqY1hMV2J5Z0N1N3RsbE5pcWQ5S3lxZzBYTUtGWl9lS1VXTFZjdU5hbWtwVWFPU3hsNkpZLXdYQmtubEluSXJQcU1pamh3WmU2ZDFpOXcyZUt3VDlE0gHeAUFVX3lxTE0tTDNHWms1VVNMQ242Uy1Tb3NOZDltenlMRG5QWFVDTy1URjRlMmhQeUctSTdmeEE3MkpVTy04anJoYVluc1RvX2R5cmIzNDNid2hnczYxQ2dJUzdxRzdYYk5VQ29kdlhiQ2xCcjdrOHN6ak1acmNLVXRMeEp4Z01UZ2EyWktkNVZ3dE93NFBNVDgxMzYyMTJnX2o0RWwzREVhN2tLNGtIWm9ucXR2VnBWNGZJanJKNUZaRHI0Yks3eU9xbGNKX3pvcTNEU3hJTFRCUzRhT1M4Z2l6bFFldw?oc=5",
+      "published": "Wed, 25 Nov 2026 10:52:07 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "Vedanta Limited and Hindustan Zinc Become Only Indian Companies in LACP Global Top 20",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaFZ3RENpaG1Nb1FwQjZDVFp3ZFJfd2NVY2ozWG1BeFVleGRxdkFMWmVuYUJWQkxfeFRkRm91VE5ZYnhxeDRLZ0ZVZTRmQV9LRUN3VWxiTUVZMl9QQUIyNkpsZ3pUa3pPVDlWUkFpWkFXVXFuazRtbVlVcFJ4T1VhTTVLdGcydUlLb1hvN3ZHd3c4NWlvOTJ6dlMxS1hvMFRVVEhuY3VIcFhZbzFEQ0t3ODdEVlVhWUY3OGJZ?oc=5",
+      "published": "Wed, 25 Nov 2026 10:41:56 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "PhonePe revives IPO plans, targets ₹13,000-15,000 crore via OFS: Sources",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0dCWi1oQUtoYmZoZnhVeENyUmtDRDBKZ0Z1QzhRODRmOGsxcXQ1VHNPd2JYRjR3UmxBa0hBdUpKTnBHRmVqYmVOSWVVV1JXVEszTHZPdnNzQVRzTHRhRm5tNWxKalZyNnFiN3FXVV93dzNHUHYwSWhac3dNaVZlREwtZlJveTNxSmFBWGVVSGJ0Q2xzMUhhN2NiWExybVc5YTJNeEJSY0Q5Z2EzWWxTTTZGXzRuUdIBuwFBVV95cUxOQ0xiZHduQkNLUlE1VUZYVnJmbjEzSzNscEpGQmxSdU8wTl9LN2t3aXhmdER5YzRmUW1BM3NodkRNNkZaYzVka2ViTnpGRW4ycXNpX240Qi1hOUY3MmpzWFktbDhKdHcwN1o1Q0tUc3lIMHBTVm9MOHBLOF94Uk9Sc3RQem1UUVlpYkV2QzF5eVJMaGpleWRnWUtXNXo1M2xlLVA3elZBMGVLbnF4ZV9SMHJsSkdWdVZSbTNz?oc=5",
+      "published": "Wed, 25 Nov 2026 10:38:39 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "Indian companies plan INR 25,000 crore bond sales ahead of expected RBI rate hike",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM04tbDFhQTI5UVhEaVVkOWh5UXJjdGFhUGR0dEVhamR3LWx4WHAzczBnM2luQkFZN3Z4cklPeFZiU0QyTGRZamRsLU85aXRUakZfTks5UDU4S1dYeHBmZWdNdzVBaTYyTG9CT1FJS0dHeWxQRTZ6N2FZZjFTZG0ySnh5bXQ3bm52cTVIZmlqeXB2SmEzNWRVLU93NEtCeVlMQW9JelJrTFlzcHU3TUR6cFVPRWM5a3JpNFV1S2VUSjBXV0l4Z0NacHhHei1Ddw?oc=5",
+      "published": "Wed, 25 Nov 2026 10:33:07 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "PhonePe warms up for IPO as investor appetite for Indian equities returns",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMXdWZXZ2NTFDZ0QtTUVhekMxVHBXSkxOM1BXTG5MN19YUmZ2XzNTZHg3SkR3RGRPOXh5b05YUjNlbzcybHlOZnktMmRqdTlsd1owT0dyYUV2ZXViWDdpRWdiTk1NNk1VYkNvbzVxUTBZcGUwN1cyOHdLNWhGcXg3MWRKcmdHTm5GdG5Sek5fZEV2MDIwSHU3ODhxaXNRd2pEMXNLSnNDRk1DTXg1R2poc1puMVNNRTNkYWhNQ0c2RkxibTVxZXNWbWM1ZTVJU1dtOVRpSNIB2gFBVV95cUxNUVJTVnM3WGVKaEFiZnUwdFlCcm5oOF9yOVdOVHpHLVNZTmVPUXNGWlJ1Um1fVmdZVTgyX0NBWTVGbkZnUkpqTGxvckFtWi13RGhqTk1yeElFSVY5aERmY0M5b05TeFFhMTI1R29uQnNuVldVLWNDWFdhejl3ODBHeXVPVDhUd2l4a2ZDYVpqTnhrQmZxeWJJYkN5WFQzbUJlbE41dlNia1BxUXlOTmpRUnNtYzZaZUg3U2dtMnZZV2NoTTU0NVdRN0VRaEVla0xHUU04dWZORHkzQQ?oc=5",
+      "published": "Wed, 25 Nov 2026 10:31:01 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "Thorium reactor startup SUK-M raises pre-seed round led by Speciale Invest",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMEprYnI5akJHeWlfcEdEVlNZZ3FnYnFFdkRleUpzbW5qNTdjT2hSYy1TZEdJRGhKY2JVRV81Y3RLdC1sUkNYVGgwcDhoM3dRMDRuZElLTjdnMlRZNGkwYnU5Q21meld3VUp2N3FnUmJMaUZCc3ZpVkxMSXY2QU9fY1I4U2ZRZENqa0dmbGFnWWJ2STQ2RjJSSUQ1ZUNDWGJORkYzVkFtbzk2c2NwaTZVT1JjSHhiSk9GVUtIb1FnUFRCOHJDT1pN0gHMAUFVX3lxTE1QUDNMUjQwbFQweFMzVy1vTjBVQjd6ODkwQ0hGUjFhMGtNZWhBbElqWWpPRloyZlZHZ3RnRkZCd1lWTnBYV1A3cTF0T3VMVjFySXVVSFItQlByZGRZbnd4cjBwTzdqb0Z4SGJUTEd6X1dKSlZNLVpPQ3V4SGdyTm1fN2h0Tno0T21haHVPekpEYWhicko0N1RISUhHUFFaMkRNN2JGRkFaOUg2eGFhMXVEQTRsalA0cTVmT1pQTHhLYjZHTHJXR1VhSmR5Qg?oc=5",
+      "published": "Wed, 25 Nov 2026 09:19:54 GMT",
+      "feed": "Indian_Startups"
+    },
+    {
+      "headline": "GMP: Game Over? SEBI's BIG Warning for IPO Investors Yash Jain #IPO #SEBI #StockMarket",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGRiM2R2U0dHTU5hT1NVdUx1TVV2VHBfVHJwcVNPaDI2NDl3U3ZyWnpvUi1CaTU2d1BweGZzdmJESHhnQno1dk4yNUpmbTdQUXZERVBCVVJVZTE0RTZ6bHBySGlCdHM2ZzZEcThmSndBNHB5OHZRQzNSMmJDVTN5ZlNhbEJIS1VHa1NDbkN5RE90NHpDYnpPaXNxQQ?oc=5",
+      "published": "Wed, 25 Nov 2026 08:34:43 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "India PE-VC investments hit a five-year high, but startup funding remains subdued",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNXhwZkI5a2JlUUhaRDlyb1FyaGhsSHFOeEU2Sl80S0ctY0JTMUtmc0o4OEVIOWxrTzMtbVFPNnFGb2s3OURhcFVQQkxzYnlMcTVWamExSkpXbDVkbmRCMWpwM2FyRDdrLUhMbTYxdEpOcnJEczJpYTVRMmh3RjNYbWpqa1VPd2tGMlZyWjl2RjhfQ3RjSXdOallDNDcwY3lJb1JDOUduaDlWQWhya2RNUWFFenRRWWp4SDVjN1MxQkgweXZqeXE0S2Y1dTRMQWwxbUZ1WEltUVprTFpIQ1HSAeMBQVVfeXFMTmNmaDcxTHowblV0SVZ5MlRQXzVvU0FIMWZfbGFaSndqRHJQdFdQQjR0QmlBWGFmVmVNSzZwQTlmTW5ib0JPQWxUVk5rYm5pdTJ4MTBhc29VVlViUGFxbm5CTFpjU09qRWQyanlJZmZsRTlaZXZGRjRlT0lEWWVCcDVfRndCS3JWVlI5OXBPNGpMNUx0enh0VVZ6M2tsRkV3WDQ1R0FFVnlWajV6bk9sTmktZnRJRGMyaV9OUDhxNDROOFRGMnRidXd3RnJleU5Za3JvUF9Ld2sxa0Z4T2NhaW5qT1E?oc=5",
+      "published": "Wed, 25 Nov 2026 08:11:26 GMT",
+      "feed": "Indian_Startups"
+    },
+    {
+      "headline": "India's Deep-Tech Startups To Watch In 2027: Key Technologies & Opportunities",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pVnJ3UXVrczdwdkZnTWJ6akFsbkZEMGtLcG12WFd1VjRKbXFZRkxjbHRfOXZjMDlELXNVNEhxUXF2c1YyWDF5dUg1d2cxTHdOZ1NGYndqNF9MaXo3YllSMW5RSWVTT0ZoaGc?oc=5",
+      "published": "Wed, 25 Nov 2026 06:48:45 GMT",
+      "feed": "Indian_Startups"
+    },
+    {
+      "headline": "80 Startups, 30 Investors and ₹2,000 Crore on the Table: Inside India's Capital-Matching Challenge",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWVdtcmJ4TURiUC1zZWl0VTlfcDMzZE1YYzNTZXVkWFJzeEx1SU1pQ25pRW8zTEowUmtjZ1RFSURJN1pieFZFWVVaOGJ4NW8zNGpfRjRXaXAzRVEweWROY1g3Zl9QbWtoUXc1ZjJVcElkajBZYWVOdUxqLTgtck1fdGRkSHo3YWVOWWtXOEV0NE1xXzlySE5MTE9QMWRHUdIBngFBVV95cUxOWVdtcmJ4TURiUC1zZWl0VTlfcDMzZE1YYzNTZXVkWFJzeEx1SU1pQ25pRW8zTEowUmtjZ1RFSURJN1pieFZFWVVaOGJ4NW8zNGpfRjRXaXAzRVEweWROY1g3Zl9QbWtoUXc1ZjJVcElkajBZYWVOdUxqLTgtck1fdGRkSHo3YWVOWWtXOEV0NE1xXzlySE5MTE9QMWRHUQ?oc=5",
+      "published": "Wed, 25 Nov 2026 06:08:26 GMT",
+      "feed": "Indian_Startups"
+    },
+    {
+      "headline": "Indian Companies Rush to Raise $2.7bn Through Bond Sales Ahead of Potential RBI Rate Hike",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmJ3cDBuMUtPNjdWd2RJQmx2SXBOUy1SdjV2Q2ViR21tZDVaeVBoeE9UOTQ2UFRkS1NldFFYU2FKbkUyRnNwY1BZMmw2RF9lTTdxRnVVTUk4eGtGSVVneGo5U3oyVUNOMFJpdk51TzdLVEdJQnM3dUZuZWVfOEhrSXExMzFWMm1GSUFEbHNFRjBDR1QzMlJuZzFXVk5iYndiU3E0WGZMYklFVWZ4N19GN3U1MA?oc=5",
+      "published": "Wed, 25 Nov 2026 05:59:53 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "Jensen Huang Comeback | A governance stress test for India Inc",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUXNEYlZXNnFSRTkxQXQ1cVBnVVlUd2JQXzdEV1NTRHJXOEhXWmFFcEZWa3hRcGFWYkRrOGVLWlF5S2pjS29XWXoyYlVya1EyLXkxZUJTbElFa016cWVid0kyVmMzbl94eEIySGIwbWZaWmgtaDFtekx1VkpIVG1yRml1d3FOWGhVNnFual9NV3o2NUxtOWZJWHNlTjZMZ3dsOV9TRmV1V1o?oc=5",
+      "published": "Wed, 25 Nov 2026 05:59:04 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "Stock market today: Sensex jumps over 2000 points; Nifty50 tops 25,900! Investors richer by Rs 3.84 lakh",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMjQ2TmNVczFCZWxoZmdFb0piNTluaXRWWDJneFhIM1ZQLXVjSWg3RHlQUmxiZ3h1dWUwb0ZPLTZYejI4Qk1Qa1pZVk9xYTFobVE3VGpUYmFWUFQ5Z1VuWjdQWXZEZ1Y5NXk0QVJINE1feVRraXNzeW1GMUxVazZjZ3VtT1Z4TXZVdFZVQjlJRHkwa2F3LWplRkVOT2dmRlljdWxoTkZ0dGN6a0hKVWZyTHdCNklNNXJvNi1aTjFVU3p3czQxMW5xT0lwcGxUenRyWkdRRFJoNGJGQXF5WGtTY3FSdnpPd3ZDWFVTRmJJSlJORnJVZktGOVhQclZEWU9jeWlaM20yWdIBjAJBVV95cUxOUDdubWFqTlRVZmtOSUV5WWlfb3B3TldSN0NPOU15TDlaT05mWWFaNkt0RDlIMC03d3pCbmtScEdMT0E1dXFmd2NvVS1kbG9ILWpIZDVnZDBVZ0pLUjFhVzVwOWZOb25VcEZfdE94T1B4N2NDdkxqWlh5Vzh1V2FsZElqckw3SXhMTFNIb3lwcEFnVGdiWVVMa3V6em12am1qdGJfbFNhSkFaRHRSRzI3SmdCVVR5VTlCMHktQk1mWVNLRjNNdGtxSkROUHdxTWswSjNhUGRrVzNNZ2FlZ2FySUM4UG9hMUFhY19SLTBMU2w1ckN1NF9fcU4zRFF2VlVqVjlkMFZSeW5YWmNl?oc=5",
+      "published": "Wed, 25 Nov 2026 05:33:00 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "3 Indian Refrigeration Stocks Tied To Food Inflation And Cold Storage Demand",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORkVSTWhNSjljbmF0STFTcy1XN2hqVm5ZNENNRmEtTW5EVEFuc28zTXNhcU5FZWUzd0JmM09zTmZDdDhlZ0xrNEUwZFdPazJVcUpObXI5dkRTTjNyWWNiQWl2VHpxanBOZXphWEhadmJXakpLV21sdHRkR1kyX2N0WFBrSnFmNl9jNERnekNnREFlcGFVUkZBTFZ6a0tweWNuTEVJTlNiVHZjOC1wdmF5QTZ2d0xFclpqZHFkcFdiYkdnZGhKS1hDSEIzOTBFX01yRkx5VGJ30gHbAUFVX3lxTE9GdWlxUjgzVndwdFhGTjA0R2ZhQ0tZZ24wd00xT1k1MVI5OHFDWjJjenRLcmlsQklrX19EbVBRNlZIZC1oVmdBaXNlbTRNRG50cmE0WG91Nm9zemM1TkNDaUhfcXlkdWNfQmFYQXRVSzFmSzFPVnN6TE1pOHFWb3ZFYl92N0E2Y0gxY0lpMHBfcWdVY0Q0YkllY3hhb3VPSTl2OXFmczl6STVSb21xYnd1aE55UnJFOTkwQV9YS3gxVFNIaFVLdC1qb0Z6WW9yeWJyNVF3czRvZllVVQ?oc=5",
+      "published": "Wed, 25 Nov 2026 05:12:42 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "Sensex Today Rallies 1,290 Points | Nifty Above 25,700 | BSE Insurance Index 2.5%",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObmxMTzkxNnFCREp1Wmc3THRsRzNFQzJybjhHZU1HUmFzLVlpTmlObV9ObklnWXNZb0hfZDZ3RTVxU1hoMWpSOG1mNFV5QjVLRzFlWTNqUE00dHFRcU1VUld5N0pJVV9qWW9ZWmFEUUFzZUE4dFZUZXNrNnpibVNHYks0RDBOcnh3SERxeVdIaXFwNjZBN0J3Snd3SUZRejNVVW8weV94U2Z3c2IxNUlxcWREdm9jTUVlTWhSNkZGVXlnRV9qOUVHU01JVVk3UEtsdGc?oc=5",
+      "published": "Wed, 25 Nov 2026 05:02:35 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "Adani Group Targets Over $120 Billion Capex",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTTRoRjhhS2IydGl1TTg0T1UxSWtpUW83cnpBTk1SekRvck5ERUNjYU1zNkxSUDN3Rlc2Vzcya0ZqQnhSVkdpWVJTLS1XdzdlUVI2MVFYbXhYSVpCTlc1UXRoVmcxbFowY3ozMHd4ZnJJSVQwRDBtU3lBMkdJcldKeA?oc=5",
+      "published": "Wed, 25 Nov 2026 03:56:49 GMT",
+      "feed": "Indian_Corporate"
+    },
+    {
+      "headline": "BSE SENSEX Today: Market Closed for Guru Nanak Jayanti After Monday’s 1,484-Point Drop to 82,435.99",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX09zaHUtekJZWlBfV1JIZDJaUGZGb0hJczhkMlVadDJfVURBVkYwUFZBa3I2S3pkemx3bWpZZHI1aWRTRFU5a0hUMDQ5NnBGZXNPby1RdTlCbXRzTmhIMkhpTTRGUUVVZlFWSXpVN3pkOEJzcTdORG5xMi1rWUdsd2FFdkFmU2JrQlo4NG1wNlhkQ1I2bS1neXV0R20zd1ZzMExhWmZVek5IQXRCYlRQbDgwWk9fQzdUbDlyQ2lSR3QxSWh2b3pxRkxSdm5CZw?oc=5",
+      "published": "Tue, 24 Nov 2026 23:45:58 GMT",
+      "feed": "Indian_IPOs_Markets"
+    },
+    {
+      "headline": "Tata Sons weighs stake purchase, buybacks to unlock liquidity for SP",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSEhVcHJRVWtpbjlKMWJRM1VfZGpqUV9MSTJmU3MtSjIxRmxFN3JsLTZNQUctR1dDLVVLaXZMbklmT0F5RE5IbGs5U3ZfcmQwdGJjSFRmU2Q5VTFEQ2RhVnIyQXl5eGxXaEFDT3dkczBSVWk1Z2x5ZDAwdnc0blNwR01YOGZKYngtTnhGTmpGVjVHUW5Yclg1TDhTanZPVVpGWXI2Wk9TR01kdW1MaUJ4ZlVtUXlJSy1VTExnZ3hBcEU0Yk5yN2d1akJPLUFocUJ3cjNHZFNfQ2p2bTRrS1k2VDRaRW1UYy1O0gHuAUFVX3lxTE80ODRfeUVTTkhER2hrdWRuU2ZpVG5EYUdLLU5GcmRSV3hONndiVnE0eml3dy14MXJoa1cxSjJ5S2lqTmVhNEhCdmpxckZDRUdDbWNxOHJwZXZaNl84ZlVjRkViZW5EOG1nVG1DWV9aWXBLVnRxWTRNVE9KMFVvaGF3UmJPOEdiMHBhdEF4a1J1NVpCdVViSHNMTXN0bHlVRnpwNlJKWjc0bkdnbWR6VUdrMUZSU2RsWFdDNTAzOHYzZlVLX29WMWlnS0hhak96SG1OZzZwYVZhYUZuNTJhdTBFSHFBYVJuOFJFcllkeXc?oc=5",
+      "published": "Tue, 24 Nov 2026 23:07:00 GMT",
+      "feed": "Indian_Corporate"
     },
     {
       "headline": "#TIME100Next comes to India for the first time, and #Reliance is proud to partner with @TIME to bring this global platform to the country. This partnership reflects our enduring belief in India’s potential and our philosophy that what is good for India is good for R",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTXJjTTB5dXNIYVNyRTBLcHBfQVNYM3M3bEN6VmVaTGp5YkxsV0U3MW5hM1luLVJWZGstM0duTzNReDRNMHpSX3RPaDBNZjlCVTN2aXdsRHVTTEVmLU52ZUhxUnlSNTgyaTNibDJRRmo2YUxnMWRxMXNpREU2T0EwWktMUFBkNFJMbW1EVDFrMnpzakFWS20xN09HT3F0bC1UVFBPckxCTzdnemxxVXA1M1A0dVVySkNOUk9ZM0RvV0tybVZNUzBJU3Y3Q0ZBLW1wNWp1MW13eEdBVVFZVVpPY0NhZUtWbWNnS1h6Rw?oc=5",
       "published": "Tue, 24 Nov 2026 13:31:16 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "GMP Not Indicator Of Expected Returns: SEBI Seeks To Curb IPO GMP Circulation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXRNZ0NGQ29HRHhubGcwWlNzRG9LZ2daVjR2M0dIdExCU3NMTVVqUnRKRWNFVzFSRzVHeHhzRkhrbkZzcU1SaVlJTEdEc2gtUVJyZTdYQUJfMEtlMHdUcmRIZGhBaGhIb1dHbU45YzhXQlBabWdIY1lPd3YwZUdDSVZTM1lYUHVxeDJMYTRZNnpIb3ZQMnpfLTBOMko1RnBPTEE?oc=5",
-      "published": "Tue, 24 Nov 2026 13:15:41 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "Adani's $1 billion copper deal with Attero: Can recycled metal reduce India's import dependence?",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcUJ5Rnhma281VXlHdTA4UHVhdVcxc0dXM292dHNtSWpmMmFXOG9iMDB0d0hwN3ZqRnNwUUVqVWE0OThQaGdWMC1KbHhhNWhBNGFoUHZQMDF3VWszTWRSNG1tRjltNlFpRTlkaHRfOWdSUGxxYUVmLW1PZmZtSUpwWUItVVRUR3hWTGRmV2dLRkROOE4yRUJneGZZbWU1M0IyRTdYNXE4MldweXVJdWFTdEVCVnA3VFc3cjZOZmdfTUx3WW1EZDc4Qjk4Z29WWDFMS25OZmp5aFkySTRzQjZIRFJ6LXFQZkY5VVdkOUNSSHdKVmfSAfgBQVVfeXFMUFZhOHRIaWRubk5Fa3BCeHRBN2xhZ0RFUlZpcWc2V2RYcVlYaE9Fckg0bWJ6dXI4aUVjUWx6ZkpVVUhvd1RlWl96UkJLbUJDT05rWHRLbFdCazlucXhJRDJGb2JNNmtpaEZ3RHFSdlk0QUtuVFRvZDZhaWFEN05TLU1WNEU2X3RSWmZ1eV9KdDV2ZFpMRDJyeVhxa2RaeXdYSWlRVFV0WTJxRWg1dnk1TnZvU19aZzY5NDd0VERQc1VBcm9CbV9Rb0NZdkpPMGZtQXZFRUlSZzRGd2hQS2NNWVRtZzdGUExjdlRLNDlPWlh5UC0yQmpEdFc?oc=5",
-      "published": "Tue, 24 Nov 2026 12:33:58 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Tata Group Stock Signals Downside After Breaking Descending Triangle Support on its Chart",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVjM3S2NMT2c5Uk1Kc2doUVIwMWJBWWxfcFROZU5pVVNIWU5jaEhXN1ZKaUVQY0N5b2VaT21MT1F4TTg2VkJCRHdDVDB6a0JIT3JTTFJUWlhNUnRDLUNIcG13NDcxUncyUUJVcl9hMW8yYjAwX2I1ajRIY2tFeEl6NlQxbkthNWJXN1hhdjlRTV9kcWxzbWkxYWV1c0NNZnpKZldYS3RZTzYwaF9oYVB3NmRKRmNGa0pEaW1yR3dVQmFZVGxRMDZfTA?oc=5",
-      "published": "Tue, 24 Nov 2026 12:30:37 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Falling raw material costs may lift Indian corporate margins in H2FY27: Jefferies",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUVhCRUxXdjhIRF9NOWFGei1xaVpIOG8wN0pkdkVoREdYcE1iTEpLQ2VfekFmd3BQWER0b21tZ0lvMWhHZXc3bm9kdDhfM1dMeHlxX3k3NUhDTmJCYm5iaW9Sc0tDdjFOVlpORUhjYnBOcjlZbEpzako2eUdkeXZpVjVzVm5NcUtTM0ZjZFQzV3ROQ21FR19lSVh6Nks0bWNRQ2h3Z2JxdWZrb0tfU0JLYVdNeXZ6T0puWjNuQ212cVM5M09YamVhWdIBzgFBVV95cUxQWkczZ1pMczR1ZmdoUkUzc2pZMDZwcW1peklZWXNFNWhlNlZoX1RxMWN4aDloRkFLSFM2elJSNURpY2gyTzAxUHRYSGFLN1RsWlNTZ0k3YzhWeENXRG13dERMTnoyeDd4SXl0UENSSmtqVnhuVHptUjJvUThOSWZDSm4xYTE3OFFlSmpFRXdMU3pwdzQ5YnBMa29ObEM5cjc5bU9DRWlqZWlMUGJoRGxidF9aeGVkVVZxMjNmMlFNVVFfQ242R2E0WTR0QkY0UQ?oc=5",
-      "published": "Tue, 24 Nov 2026 11:45:50 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Tata Steel, APL Apollo shares tumble as ₹28,000 crore asset deal raises funding concerns",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcHdaSlByemFoSFVSWUduVm5kM0VIZDdzT3BpLW44di1Sb0l4Z0laZWpCWWtJWXYzR18zeWZTOHNSUUVhMFpuX1FzbGozUzFnc2hDd3BzNzQyVXZTMldlR0Uwb0ZEZEsxaFBjWHYyWENQVUlKaFluVHhqTUVLdFVJeldLSmZncUwtRVY3RWhUcEU0UGFabjBKOHFUaXZoUlJYZlg1LXJVczVNbzdyaFBucEdmRTFEM2dkWWlHcEJwZlZYMHRBZm16QnpzWXlOOUdIUTR0aEJsNzkwX3QxWGpjMzRaTjFhUlRw0gHuAUFVX3lxTE1rN056elRFMG9MMnA4RkJDcE5UZ2pRY2doMFpkdDM2c25peTB6dTVIakdiT3dtbjRrUTdfblAwOEpZWUhGQjNrSWNQaXVKM3RTQWRlQjEwVnpEeXg5bndya2UtTW81aW1RSjVhOHpta1hnamlFVWJxOVFKX0RwR1NUdjByY0tzcjNPSVc0Uml0ZUtaMTE3V0FIa1puaFRBSmFMU0RNRmI3MVFKcXAteGhCTUc3WjAwUFZSZDV0WjhtRDhRNDRtb3VmRy1YSWtUVmtlYk9tUldTSzg2NGxlYW40anhxWEhENlpiX0ppeFE?oc=5",
-      "published": "Tue, 24 Nov 2026 10:59:05 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Highest Dividend Paying Stocks in India for 2026: Top 10",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uYmRoVG9lSllUN2JqZ25Qb2QtcXZNOFFrOU8tQm9rZVQ3NE4wYXc3YUtPejhidC1QM2tjcU9DRWpocjdrMF9MYk1scmFjOUU1OW9qMG03UURPWHpRYjhnOFlXQlVmcGlBZ0RtajdQTDBnek1CM0pGeQ?oc=5",
-      "published": "Tue, 24 Nov 2026 10:58:21 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Falling raw material costs may revive margins of Indian companies in H2FY27: Jefferies",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcVNfYmdhTE9jemhkTHNhVFBJeEhBWTItQnJ2V0ZES0M4VFdtWUtLNzRfTmx3UGwyVG5zbjl3U0lQaGoxU2R1SVdoOGEwYW1Ga0NydUV5SlFycUdyZzF5QVQwTWNKNlhiX09ZNjlSenNINmJ2TTg0eXd3VjZWeW5aUXBxX014STl2YUNrNFVZMDZrdU5aa2huZ05fclJtbHJvY2JvZmxYMjk4VThDb2V5Q0FQZ3huSFFNelp6dUpJTUQ2Rl9FWWs0QmhtN3d6aVB3UGNmS3lKdjlfWU0tOHlaTjJsSXLSAeoBQVVfeXFMUDlraTFURVNwVV9jNHJ1Y0t1Sm13V1hoUUl6b0ljTG9lUWUwLTJKbTY1ZlJwd3NVckRzRmxYWHFscWJlbGVxclVKT0pQTUVkelJuZWNNUy1pWExkMkN4U2E4RHRhS2dDQzBINzI3WnZKWUhWX3pSVmpDaXpvZUhLdTlZeTVrQUlNbkU0eXM2b1BsTmZSR1hSdzRTeGZya0lrY3AzSXNLZG4xLTU3MndUVzgzZHNPMEZ6Rms3Nzl3V3pFeDJPcTNWNHp5aF94NnJZZjZsS0FuOFAxMnc4bnVSako4R1UtcHBEWmVB?oc=5",
-      "published": "Tue, 24 Nov 2026 10:56:38 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Adani Group signs $1 billion Attero deal for Kutch smelter",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeWJwdlo1RmJMWTlHUDdVQWtRVkM3ZzNva2FEREZ0SkU2N1Juenh6N05OcVJTMDlsdTNBZHIyWVozWHZNdHpGRTBJVk00XzJPWFVYYXJqZ0c2alpVbGNPbjJBZUhSME41QlZzLTdPYzktUjczZ2prX1llZF9FR0NqMEhWN1Z0dlpMcHFmV1VVekh4UnVwM3RyMGs5bmlUZ0FNb0N0a3g0eXQ?oc=5",
-      "published": "Tue, 24 Nov 2026 10:48:11 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "UAE Corporate Tax Guide for Indian Investors: Rates, Free Zones, FEMA & Compliance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEpXLXE2T2pnNXFFQ1JnX0RXelkyR0prSm4zUjBWT0RnUGJOcUJteG43UGJGVnh4N3UxSFhKLXVRWlprclU5bkYtR01tMnhiVzF6aDNCeTkzRTVRbC11M0VydkNDd0NOZ0dLLXBhYmRyejYzc3h1UmZNSjlLeS0wSXlCZEZ3RmM0eGdEVU5sN0p6NzR3Z2kwNEV2S21EWUQyd2E4?oc=5",
-      "published": "Tue, 24 Nov 2026 10:44:15 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Adani Group Bets Big On Infrastructure & Data Centres With $120 Billion-Plus Investment Plan, Targets Debt",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNamwxaHBpQ0lySFJ6dVdtZmNiNzZwLVBfSXR3VncxUDFuNUYwSlRXbWpMOGg4bkJJSHZwQW5oa2Rmcmx4SlpseVNjQ2ZvalA5bnZTRFZiZWVzNVg0R0htQkJUakxhc1YteU0tRlJTN20xSVR4X01GOTdIY0F5dEJqUENGQXdlajVoN2JBYTNNN003c3BrUGhMTWF0YTZxNXJxUktRMzZOcEdxWXVwMmxIeDF2c1kteTY5Zy1pcXE3Q3llUEp5Vzl0Qmp3R0JjRVZ0T3AxWThDbmRaRXNEMGxNTEJzS2JoU1BsQlHSAe8BQVVfeXFMUEt4SkF5TW5wMm43YVpHa0k0ajJDaG12UXktc05OX0lvZHJtak9RYnN4Qi1lVkdLaG5CQjVKczdrbGNDdm43TmFVaTVxalNxUWlFbDZfbVlJa2tDbjdkcEx4djVsUkRJOE0yLWxhcklnUzhfbGFFQzRNRXV5dng3bGdUSEo5Rk1tbGVCYzRQM0phVHBKMVhPQm9SSWVSRTU1Z3BXRmozNnlGcWNyZ1RTV3ZjdDBYY1VrcVBQNWRjMzRfc2xvbDllNTFzelh1ZVdCSEJBQk94MHhIVnJ3cFFMeDNwM3pCOFZYVHNyZFlJYzA?oc=5",
-      "published": "Tue, 24 Nov 2026 10:35:44 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Cosine Robots raises ₹22.36 crore to manufacture robotic joints in India",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTkNmem9tT0g2bnNvbUs5MnQ0cGJabVp0MzVHcG5mb3lmdU03UXJSeWk2YnNfM2hiR0s4MFJqcm5JZmV1dTgzSWtjZVdqNUxvVmI1a056RlpkRlZTam9USnBNX3FWdGVtOGNiZ2ZyblRIWWs2SEoxYTlkYlJwS3ZZQUV5M2tNS1RmaXpmR1hLRTVtWG1neUhQUGFTQVMtRE80VVE1aGtfUEp6Wi1LMzFtaVB4T0hGcmNjUGl4eEFJTHdUall0SXBtQ3BBU0VRM1pLRGkwS2xoZ9IB3AFBVV95cUxNV3FLeHlJM1lmT1MxNHh5U3hrM2R6NkJtOU11ZVBjQmlfNTNFVlNyR3ROM2k3Qjk4eHZRci1YWXRnN3VlclRPbVdSMXdmVWQ2Qldvcm1TUFVIVGdYT09kRW1DNzI1U1Q0UVlvZHZ6QmpzU0VTRTJ5ZUpMdkxyVDlic2JxWll5c2pOa3FYRllyYks4amxUZXhabVRlbEF3Z1dNejR5RUtGckVGcnY0Q3JUWUJnUGxYQzBPODdxelNVOXQ0OWxjeXFXUGZGYlRxZ01qNGRYUUhTMW1ZMF9I?oc=5",
-      "published": "Tue, 24 Nov 2026 10:13:49 GMT",
-      "feed": "Indian_Startups"
-    },
-    {
-      "headline": "SEBI Targets IPO Grey Market Premiums: What It Means for Investors' Gains",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1F2bkpDNFo5YnlUaE9sYXBmelNfNUVzc3M5RzZrUmJPVkUtR1cxcWtIcllndGFhc2NCTkhNN1lpZldadDR1Q2NhV05lM09KWHlaZ3ZuYlhWWHo4eFdyU0g1WGxFeW5Kbmt5QnowX2h6QlVJaG5mNFZBYVBaalZjX1FuS21sOW1EZkhheUVJU2JnY1FURWJUUFpKRGpfalk?oc=5",
-      "published": "Tue, 24 Nov 2026 10:10:02 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "Reliance Weaving Mills : Presentation - Corporate Briefing Session 2026",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ1h1UWZiVHlfNVBoUmJwV1BmMUxqRjV5U243UHoxUlZKeURuUHB2Q25tbnNzdUROdndsc0ZhcmhRdFB3MEFRNUVGbVV3T1d6dE5HWXN6UUItTnlVMjBTOHZ2eVJVX21veFdBOE1NQUo3b1BBTlktQ3BfSzVfVGVKSzRCUHluZ2hHekdNbU14WXhTd1JLLVBDdE5KOVlkTmt2bkh0d0o4dUgyVmpMVE9BRXJSMmlEWHBlRHc0WQ?oc=5",
-      "published": "Tue, 24 Nov 2026 09:56:11 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "EXCLUSIVE: India's Adani signs 3-year copper supply deal with Attero, sources say",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjVXaWxRMzZOZGdsLWo3S2MzZnk3YXc0RjRVcGFIZzBVc25Vb2VtVklsSllVSnk1X0htN0JIcWNNbld5YUtnSFVWTUw1dzQ5dmhvNHFsay1ldzB1YlpCWEZnVjc0NTR4T3paMWowV1JidnNWQXZMLU8tNUFzRFFZcEI3aGlhNjdXQnctOEN3dHVMUWNyekxtYWVBd0FlRkZjUzNYenN5MkNDclVGTk1JT1N0c2tiTXc?oc=5",
-      "published": "Tue, 24 Nov 2026 09:52:39 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Mid West Indian group launches inaugural Sewa Diwali drive",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbndXczhmYmZmRWM1amVNLUZGMTdhVTM2SFdTRXhhenRBUFVhbUw1bkhnZ1NhTFRwY1lGakpBVXVTZTU1VGN1NjhqT3NkZTR0V0NxY1FSMTNjODhTblZqNDhtU0s0aDJnbUFIa2RoeU1zWUZUdjQteG10ZjZpV2lSWlRKNWk2VnBYMXpGdmZlZzF1Mi1fMEhuV1RNdXpwN2tBMndYYVViX2JXZGNzcXdVQXRiM3k4VTR6OVhsZlBLUXl2eC1QZmdPVlE1UFd0ME5CVk5nYXljdnAzR1gxQnFIN1RKb185NEg4SDVoQ0gyR1BmUjhtZ2QtcTRn?oc=5",
-      "published": "Tue, 24 Nov 2026 09:36:16 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Adani Group announces over $120B infrastructure and data centers plan",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdEN0NnBlZllWcEdHQzJSa1VVVnluTGttWXlGX2ZYWkVRZk1nQUE3M240M1JhdkVnb0hrOWZ3RUstX2stcy1DR3VVZnVXYzRyckRzcDY2UHBHajNSVzBQSjBtWUF6MVRwTEV0NlkwMGNGU0pyRGd5cGlrRnpjVnNCRUpORkdPdzNFY2NTUGJRY0tVV2s1c3VlcksyMWQ0SEhhVUY3VnlJV2NRRGp4TTBwVGtUTERFUnM?oc=5",
-      "published": "Tue, 24 Nov 2026 09:25:54 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Finolex Industries (NSE:FINPIPE) Announces Special Window for Re-Lodging Physical Share Transfers as per SEBI Guidelines",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRkMweG8yZWhfUjFVYXE2eUVjNF9yZERWSjZHYVNlT2FLSmFYNFBLdVdMTVlZZV9TM2IyVkJDaDNIYmVDZ0R1UVlqLXhYRTFwdTF5VjJEWnFZeTNjN0pfMWZOWXAtRXNWaDVhdTFXakozRHRaN3lZNjVFNjgwTzNRUHJJaGNLdVRCbDR1Uld0M2IxNERTX1U0aEFMWkZ4M3h4R3ljNVpsdFpXODd5YWliQS1keUExdFNmS1E4eFVFOTljbEJRWGZOWnFuR3VzdE93OE9TOTMzVG51SmthUmxCQzFMVVBuZlFLZExndkV2T2RTMDdCb3RJ?oc=5",
-      "published": "Tue, 24 Nov 2026 09:11:00 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "Adani Group planning $120 bn in capex over next 5-6 years: Jefferies",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRWcxdFNyUWViUlRlMjVJc0Nrd0lKT1J3UGUtQm9IMVdWUEpOWUFJM2lMTmhYbllGQXREVWlSVnJIRVIwcW9iZDk0Y1NabzB0eXh3SnV6NzF0RzFZRW1YWk9SNlVaUlltTE9lY2ZIUWxWb05tVDRiTGZ1RmxXWDRhYmtib1JRRW8wODlHd3NRcnE0OXk4bjJlX3drd3dxVFIzaTg2eGM1eklCcndRazk4QWcwaHlkWUZYTklvT0Z0c19laDNxU0g5WGFQQWN2d28wSWZrVldB0gHbAUFVX3lxTE1vMWkxdE13TWFuUEp2b0NGZzROU2hQNHdSa04teHNLZ21NRms1eGExczNoaVR1dWZwc1pOeTFmWDZEZHFXWFhIWTZxV3FPM3dDMUlFSkZLSlBaaktwOGtIUk40TW4zYVo5eXd0bEpYel9xZ2FlczROeWdPeDRKR2lIcnlmenpRN01DQXNpUzZKWjJBYXBNcXNseFFUdnd3bzRRU3ljeDRvR0E5cmoyQ1U5bmw3UFc5LUxSWXpUMGV4YmZCU09mX2o5dnozVDdIS2kxU2xxODF2VjNJOA?oc=5",
-      "published": "Tue, 24 Nov 2026 08:52:32 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Foundation stone laid for GMCH’s 666-bed rest house, stay to cost Rs 100-150",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUV1dHhCM19NZjNhYlJQdzVkR3lMZDJEZmdSWWIxcHd2RzNVUFdsdjBBd3R4Z2hOVWtWSF9NcUlONkpjLVdnY1N5eU4zak5hUFI1bmR0NWVHUWhjTkthUkpzakdCT2taRjhRY183eGZvSWtjd1VzLTFNdzZ1VnhIU1dRYmhwM1hMdGRhUHE0b21RQkxqQjFFZy1TR2tacHFiMnh3Q19Cc1ZlOWh0WmtMU0hGdTB1NG_SAbwBQVVfeXFMTmhGd2V3dXUtektmQmlFZ2hndDhPMXl6aWM2eGZwOVVfb1JFVEk2Q0pIT1VZdUJNcElXNko2RS1Xd1ZuN3lmQjJ4bjA3LWJpRmF2Y3Z0c3R6cDFOalctSmY2Q05HeTY1Zmw1OF9saWZ1ZldDODJwM3ZRUE1HWlJqYjRtcGlXMGlDRktxWkRaSGlmVktzWlhZQ1ZtSzZzeTlHSHlHVmV4UE5mMVNkOW1COHRjQmJGbG1VSmdId18?oc=5",
-      "published": "Tue, 24 Nov 2026 08:08:31 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Share Market Open Today or Closed? NSE, BSE Remain Closed on Tuesday for Guru Nanak Jayanti Holiday",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPeHdsQU9tblZ4WTBITkZyZW5zdkhvbTJLRzdpcENuVXUzUTV4MU9rN0p3ZE54bTVRZFBOa0VWV1huZ2NRUl80ak9reThxdEc0UWRfODFCQVQ2cnRjVGtzUUdMd2liRVFUMjZ4YnZLZF84M0k?oc=5",
-      "published": "Tue, 24 Nov 2026 08:03:21 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "IPO Grey Market Premiums Face Sebi Crackdown",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjNtZHNINVgyMjJqYjdNcll1dmtLaS16MVNnXzFTajh0eXlGaVZ4NEU1LUFVempGaHhsU0NyTU13MGhsT0tNRU9ncGczcURNZVdmS0dqWlVkTWlXOERIdVRxQkl4R3k0VldPNzRXTXhkTkNaOXNweE9Ca1pxckduTWhQdWdsVXVwUnYyY0F3ZmtOc2FydW5jUUJ4UThpWlXSAZ8BQVVfeXFMT1ozbWRzSDVYMjIyamI3TXJZdXZrS2ktejFTZ18xU2o4dHl5RmlWeDRFNS1BVXpqRmh4bFNDck1NdzBobE9LTUVPZ3BnM3FETWVXZktHalpVZE1pVzhESHVUcUJJeEd5NFZXTzc0V014ZE5DWjlzcHhPQmtacXJHbk1oUHVnbFV1cFJ2MmNBd2ZrTnNhcnVuY1FCeFE4aVpV?oc=5",
-      "published": "Tue, 24 Nov 2026 06:44:48 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "Sebi warns against using grey market premiums to judge IPO pricing",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSE1CanlDUUlQWElEWUNFVzM1M1BLd19pbXhlZ0dNNDFPWXhyU1B4YktyM3Z6MG9KMU9VeDY2THhYYl9PM0R2Q1drV21iWjRQYnRCTnJkekRIMktiR3VWNEVsT3ktR000UnlOdDhQaV9xeGVaSWZoOVcyaHRsM3Jram9OdG9wX0VrT3FKLUZYQ2tySlZXVkI5cg?oc=5",
-      "published": "Tue, 24 Nov 2026 05:24:20 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "Why Sebi wants to end IPO GMP and the risks investors should know",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeE9aX0RSSmROQ21ILTA3emRPTVJTcEV1YnR3YWdVZHhESmRreWpaZlF5SW5nYmRBTndvS1RTZUdGanRSRWdTRUFnZzJTa0tYb1JwUXBvaUJzNm9aTXNONEg3eVEtbmx6YTJvVmxoUW80TVRWeEZTd0QyNnlTYVA2STlwbkhQeHFCaWs5TE43c3B1MExJRHpSS1pjQmZYams2ZGJwSXVGY29pMk5DTlhkVdIBtgFBVV95cUxQSVZQVmFXLUM0RXJmb09lSmpMbXVtcEVzN3lMb0tjc2g2X3pGQXM3NW80MjBPUzhtN1Itd0ZvOGJ5cWx4YVhFQl9QMEgzb28yUEgzVXRsY09ySlY5M0pMUm5uUnd2ekIzel9lWDhXNnBSX3JJU29FNFVOZHJPNWEza0M4anQxc0VlM2d1V1J5aDAtUy1vTGlwVVVkcVRYcU9vYUMzY2JTd2t0VVdVT2NrY0VGYmVTUQ?oc=5",
-      "published": "Tue, 24 Nov 2026 05:23:15 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "SEBI Takes Aim at IPO GMP, Urges Investors to Avoid Unregulated Market Information",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZmRrOEFOcGlKUUdBZGo4V3M1WHB2N0F0RVdHT2ZWOTBCNER2bWNoelhIdDNGR1ducDR3SVZXTWwxMkhtanp4RTZrQU5vb1dRUHBwUTI5dnh4ei1HQXZoLUxqWVVnY1o5X1hzcWRhLXZCQWNsQmg3cHZUczFrd21wTVNzTDhCSVVncDd3ZnZsdUxiQzYzWFNBQXZYSnN5Y1p5SEl0S3E0bk9ZbTNRcmJ0SzJRbG0wc3MwRVRPdThNUGlPdUNsd0RReEdn?oc=5",
-      "published": "Tue, 24 Nov 2026 05:02:44 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "Adani Group Stock to Buy Now for an Upside of 43%; Recommended by Jefferies",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUHEyQXBiZ3NWRUc0OVdUWUFKRHZiSzN4TVpublJCOE02NHVRT2llcWZhcFYydWNGQkVselZOeTgwLVhXdE04dnNGa0N2aWR3M1NuSHZkTEE0bmc4TWRJQlZaSGhIbnVEOHp2bG1vamVobWlRX1RpZ2RubEZJQnl1ZnU1TVpUaFZ4QzlzdFFoSEFNNllFVkNaVENiVEVwYmFlSmlrTWxCam9LaV9FQ1JiWVBYYnFmZUFHM19tZg?oc=5",
-      "published": "Tue, 24 Nov 2026 04:16:37 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Why Sebi Is Concerned About The Growing Influence Of IPO Grey Market Premium",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFE0ZHVQeHhMbmNsRFRLdUJVZkZlc2JRQUREQ2JlcG9pLUJuR2I5QVZNR1daWWJzZnBNVlVVQ29ieG1fcl83S0p1Qm1YR2R2SkFJdHRpR0t2ZXFKdm5nb2FISURqdnhxVS1VZ2tEdk5GM3JJWHdHRzZ3MnluMDlob1FOei1IVVdESTE4c1VqMXNsYkVqc21B0gGkAUFVX3lxTE1UeXlteDJrQ09Qc281a2ZxMGd4WEpWVnFJU2FaM21XelYzM01TaFo3ZUlaRGNCNGVGdmkwdlR4cng5UDhFVEpkaDkwYm5SX1QxX3pHbEtoY0dicWp4eHB3SXBOX0YwWVhIbGNSNk13SG02VU9kcTF3LXR5U3UzNjNMRzkxLW9uLUp5M2hLbEE0Q0dqWHRFTG43U0JvNGJoQnM4dFlu?oc=5",
-      "published": "Tue, 24 Nov 2026 04:13:33 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "Pristine Logistics gets Sebi nod for IPO, four years after dropping its first listing plan",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRldRWnN5VVd0U01zYU5WQmI4RmRlWWVIVE1KdlNmaVpSZV9wTzJ4akVhVmtlakFfMm85UTg4RXoyeUJyU1ZzUmRqY2x6ci04SmdaQzRKUW9MY0I3bEppS09LTzZyOVg3OFZURGpPekFGWGN4QTBNTDRqSm1UTlBQcHk0djk0TnA0MHFYT1BxeFVNNDZBcVdWTDRhenYxQTZMbWtPZGJuMk84WVpxWE1hZU82OTJSalkxOGZuemtmcUE2Umt6dmNKaGtKN1ZZMW1NRmNYR2tLcGo?oc=5",
-      "published": "Tue, 24 Nov 2026 04:03:42 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "Lower Input Costs Give Indian Companies Room To Rebuild Margins",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUo1TUY3Mm1ZcWlZZjQ4MjI4ZGJXUHgteGlnbUViY1BRd3JzZUp1VVprT0FqS0VobThYaG1jZjdYc2dnN0k3VEhmaWJnZXhlQjB3cnp0QTdjSjd5M2N0ZmVkbDYtY1p5NkhXdlFGSjM4aEUwN3N5ZDNtYmktQzVTX01wdEhDeDJ3Vkt4SnRzbVFZYllBNk1RR3phdWNNQlNycVhYaEZHQzhtZmM?oc=5",
-      "published": "Tue, 24 Nov 2026 03:30:05 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "GMP no more? Sebi asks market players to stop publishing IPO grey market premiums",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRjdCN3ozU05xQ1A0aEh2bUFlNldlVnFFbGRtbzVHSWdpdmdjN3dQdURqdDBnbUpEQnBnNTFIUkZLWHdVamYyejdteGdHRnlVcGlhSlVxemthejhJaEtraXZvYTFmUkNvZm1qYzBsUTFEVl9Qd2FPUUl0MjdVVm02dTJqU2V5R3lSbEhwQ3pjLUI2Tko0UkRHeXNnaWpjNk5iOS1pdVlaYUtnZ3pzdXBfVXA2T0xrQ0IyTk1LYU84cUZuTWPSAcgBQVVfeXFMUEpiNzBhUktYcEtDU3JiX2JVT3BsYlVxWUlrTVFEVmVSQ2R4UmFGeGZPcUJCTFJVS0g5UWNUTnhueEp1aWdJa2Z0bjdpazZxTkRncFlIYTBETEdaVzZnMHBXNkdSelhyTlVwY3Vjc3BfYnBOelcwcGMxZXNMS2VyeXBlTW9sTXNQaDNsOWpLNk01S24xcjRuVWxrVnRsaHpwMXh0ZTdQWmd5NzdSYnZwWjhXQ2VKUHlQRHgzQ1BiUjJTemZvZzBrS0I?oc=5",
-      "published": "Tue, 24 Nov 2026 03:03:40 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "Tata Sons board meeting deferred to Nov 30 after Noel Tata raises notice concerns | Business News",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX1dydUJUWms3c1ZXX080cC1lZm5FbUJIazFOMXZTajAzSWRIcnFaUm16cllkQnNNamlIeGZFRlNPcm1HSmpFQk1PamRhd2MtdjZTSDRSb091R3ZGZ2c4UGNGeDd5cUUwTWxTcUpKbkNmLXRReF9fWXBJY0xVZng4X3JtZFZ0dzBwaTlDbk1kaml1cUVUTUNnVWFoZElTQTJfeFIyUXEweVhJcl9VN3FEYmtvQVRPekFqeFRzcjYxVVNWM3VFWDdNdEdyem1kZzlkT0dSaHR5R0RIZ9IB3wFBVV95cUxNLUwwWGRxc3prelMxdW53aGpOTGFhLVJ4QXMycEVVUDZSc0xOdjFJWUNUUWtiRkJhSVJneThPRTFhcXJHZVlxc25vMEpPTmk2Y3dQcjlsVmFmSkZlSEp2RXludGJncUFXcGJZaFJQeUstUEh5SjJSUTl6cHE4MmY0UlhMZUNSQ3BObjUwM2ZheXRybnZSeEFZdV9wRXp0M1VIaGpwTmtJRUNrVDU4RTVhYU9vYmx2YVo5d1VUX015blNFUFNiQ0R1S1hySGQ0aUpUb1FGd180RWt0MTAtdVgw?oc=5",
-      "published": "Tue, 24 Nov 2026 02:31:06 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Sebi asks market intermediaries to stop publishing IPO grey market premium figures",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSWUyUDA2WnFrS0VYQm03cVhWcU1qbkJtQU1RVjFVcC1ZdTAxMjJCdTUzZFdwQkhYWVFWUmkyTldKRE1KeU9QaC1ONnZoT0J0YlpGMDRoMkktcTNhY2JXZDU0b2pXVUFmT1ZCVTBfRUlEYmhwVWpGSzlkYUM5aXpkU0F3aW15TndIMTJsbHBuYm01UXR2T2pJWThlcVVnWExzYW1KaWhkdlR0Z0NTcS1NMTRZNE1sM3djdG5uWVo0dFlPUWVWMkVlYkpJWEFIZDhQUXhxQVhVQnZmU3pIX3plbmFlYUdBZ9IB6wFBVV95cUxOdkhJbFFYa0hWRWNTUlZwMVlGRTBMOWtaY3I0LVJWU2ZURkszRDBGLXI4ZWVVVkd2blN2VTJLSk1ma0RsM0MwcUVzMF95OFc5NG1YVlI3RTljYWRmaW9EU1B5ei1rWEhJYmNUVUNPcm9Sc3NsMGFPSG10N2Q5VnBtbDVjbTdKbEhWRUJuVTFySFpZMnFCdTR0MXRIeEJyaE9QRTRUUUl2c0NjbV9veldsWU9McktSN2FkOHFEQmQ0eHNDZ0VBSVpkWGc2NkNBRXBSejB0MWVPYUMteHN3bnFJaGVYN1V1Nk5KUzJv?oc=5",
-      "published": "Tue, 24 Nov 2026 02:28:46 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "Sebi warns against IPO grey market premium",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTmUxZ3AtdnFaQ1NNQTJTdDZWbWVxR0VGekVDc1lPSklnc0FZWVFkLWR2bkFlRllnbzF2UWF0cUZJYzBTZEZPTEQzb3YtdzhXMnRwdmlvZGdmMDc2OGpQbGNRQk1PVGt0UmUxbXIxTkRBZTFJQnQ4UnZEYjAxNFRxTzdudDBGNVd5SUQ2TG43dk1ncWRvZVFyZUZBam1sM29KSkRYcDlyM0NJS2FJX0tLTm1hQ3NqVnJULWFhS1JSWVYwQ25rWV9N0gHMAUFVX3lxTE5BMmlGYUliTG5iUVBpUTVpSTMxQjNRUWV4b0ZCSURSZ1lvMkVLLVdFX1dnQl82SWlQYnludTNFWVNSUWN6YU1WV0ZwZVo0bThJWF9iVkVPQ0JVcGVtVjJ5V2hXMmdmaDF2Z1owdGNUaklUQzBRY3I4SWtTcHNlTUlFbVZmWThkMUN4eUdvb0wxZW9pbVRPUnVjYVRrS0VoVVZVd2dSZWl3NUUtNFJRQXJkTHVWUTZYQkJJNTRUM2oxRWxLeDQtb3c1Xzc3Yg?oc=5",
-      "published": "Tue, 24 Nov 2026 02:23:00 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "Stock Market Holiday: Share Markets Shut For Guru Nanak Jayanti Today. Are Banks Closed Too?",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQmlMUlRkZDVudkRmMF9SQ016dE1Vb1dVQnBEc3RvUHpxaGgtZUUwTXZwd3NFbUxYMjZwZWVsQkdTd3VpOFN5NFRaMFc1Z3Z6WDZGeFJTNFVrRUpaR1JTeVNKVHpRVmFJT29HUGdRU3NZX29tVUZ0MWZueE1NN056QTVHaE5Obk9WbnA4UHBtLUJuMlZkemNoRnM1NWFwUHRONlh4MHhxa05OenhaSmxnR09sSmM0dnNaSEtqdk9TTlhGSGxLR1dTNnZVc3lyVWw0aEpUWlA3VkFYd9IB4gFBVV95cUxQdkZUcTRIc3oyRTRJd05wNEFTelhHQ05US1RXMzIydERjX1VPNi1HV0FjRXZoSEdkVTZsbnpRRHFOX0xvQ2hfOXJPSXJCM21wNVdranVpcmtWQmFESmx1QjNLMUxLc3ZOYUQ1M1NJQkVldTY5UElYaWpCOE9QTC1NNG8xU3h6bl9NYUNtYUt5WTVoSEdyOEVTSXFWa3Z1c3JzWEdsVzN4MjNQVmNvRUN2MmVBd3otajMxa0cxMURxQ2o1UUw5WEdaSnIxMm0teUNHWVdYVFNHN2NTVnhtbnVwRjBn?oc=5",
-      "published": "Tue, 24 Nov 2026 01:19:14 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "Stock market holiday today: BSE, NSE to remain closed for Guru Nanak Jayanti",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbFB0R3B1OHZiWTZqVFVNU0c2LThEWDNIT1djU2s1Nmd6aFhWbzctdk1LUEtyM3RadXF1a1o4aklLOG9jLUVmVjR1Z09BU05oWnpJaGNHLXpVN1kyTGMyeHZ6Q2R3R25TQkJBMkFLS1ZkdHVpYjNacU9RbkV6S1JQSExqZjZ1LXZ2NHZkS0JLZnVQb0lQWG9odzFtemFYT0dEZGRLNHlYWXAxX2xCRkh5WmlhUUV1ZmdCS0Y2SDhJd2dCbkFyY2MybzgwQlVIdWhxSGVrONIB2gFBVV95cUxNYXN1cXZpN3JuZDNWcXlIb0Z4WFppNjRUVEpiVllrV2FtOEt1Uno0SkdvTl9LU3N1WGIzbWlXRWphbmQyMWEtU0wwRzh0QXY1ZzJNMzBkN0lYeko1UlYwcDhuUnFOcTJLOXVwWEdIYncyRGcwc2J2NmFUMXJUeEFzcHdMNVFwQVQzbl9ZVTJfYks4cEMtR2hjZGxRdVN4eXQtZXZQcXR1N1p6cGdPRjdzM0ttdHRTTWhpSjV4STRXcnEwdE9Cem9TT3VuclNCNjVTcU13RE4yVkVvdw?oc=5",
-      "published": "Tue, 24 Nov 2026 01:15:40 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "​SEBI Takes Strict View on IPO Grey Market, Warns of Zero Exchange Protection in Disputes",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGpmYlVXYjloNTJYSDBzUTFoRFFMczFZMGY2bVdBcVlmeXUwUDNONlUxMjU2QThxWE9mSmM3NGNaWnNDa1dOSl9Oa282WERzYno0dURvR1BkbTUtV19VN2FXZWhxUm1ReTBpQ3ZsUWdTOHZ6WF9xZ3FuTmVXaU1nS1lnYVhKTWVQUEp0WUJZUkdyb3lSZVRkbnBhVjVpeFlDRzEzdFV3RUxYdw?oc=5",
-      "published": "Tue, 24 Nov 2026 00:59:52 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "New data centre cable business helps Diamond Power reduce reliance on Adani Group",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRzFoLUdVUVFDazBFTkQ1ZjU0cFJVRC1IdlJKcWtadTRIcmRzZTQ1VFl0c0tOelhLeUR0N0llbnpFX1A0SHBkeUpMeXpBd1BVaVEtdmpoUk9qdTdObWw4WnpQazZ0Nl9BVXpIS1RhUE9tSkNmN1JVcHJhSkItSUpoYWR3QmUzUzVsUXdGMjJtOFdNODRzN0RLWXNUTVRqNlVvYW05Y01NZGt1ZGdJZ0lvWVBDekpHcmpfNmxScGJZTVB3YU1rc0VGanpLT1k1SVpHb1FQck05S1TSAd4BQVVfeXFMUER2cHhIT1k4c2tBNF9ibzJtUUhXRjcxdF9LbXFrWUctLWs5Qlp6N0diTTNsQXJVU0Y2QllJaTRPTXpLSVlHNnpicUxyT09pelpRYUFKc0RaeXVvMXVrUVZuYmJ6R1psZmFnczVtSDY1S0tZMk5KMkppQm5DV3NsUkJPQk5KTGNMTWNfVmdqXzRtbzlCSHR2Zjdhb2RwQnVQalVZdmFXVEVOVFQ5WEJLTjBrZXJobmtiQ2xoNExYVXFxdFc3RlJ0bHQ1WVlDZUEwTGI0c1F3bVAyNE5fc3Bn?oc=5",
-      "published": "Tue, 24 Nov 2026 00:30:56 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "AI spending jumps up to 4 times as companies move from pilots to production",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQclNMeURhb05QWmVNOXh0U0VCUFNYYUdidG54VG93elp5VW1YSXdXLUx6TTVqNnhHMmlsUklDa2ZIY3JybEhxaGF6RFVpMng0bnNuU0NfMDRnTFcwS1dxc3I0VEkwTTZpeVdaWDh5LXIyUUFoRjFZSmtvZWNqTjV5U2dOUnVVajRaaW1kSHBMemJxQVJlSkJ5SnFYakdGblJQc0p3WEU2dUdYaHA1Wk5WNFRwNWNNR0Y3YklGRjRBQVAxS0luQnVzd0owZEs4bll6a0NFN2Fn0gHbAUFVX3lxTFBZU1l2N0RhYkw2UlpTZEFQRDZXZVJmLTZObGp6SkZuVTR1YXRaWlFYX25TcWJnRXQ1enBXUU9KMmk0YU93NTRCdEYtSEtldVZJaEhIUlpvTEZUaEpZOWp1Rkhnb3I0R2pGNFdlbHFmZUJ6dUFtM2VlYkM1MFAxR2ZweFNhcmM5M0lLYzdQU0R6WS1mdk9FS1g4ZDdWZHNlcmt0QmtXc2doQmR6NS1LVEdOZjFhU3VKQTNZRjhLd3M1bTFHNG44dDdDUXJmeGVCSjdUWXdrM0JaMkFvVQ?oc=5",
-      "published": "Tue, 24 Nov 2026 00:30:00 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Tribal Business News, Cedar Press partner on Indian Country data platform",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeTlrXzkzU1Q2WGhyakJnZ1dtQWpHeHdRbF9LODNId2xleDZRUE15cGFhaWppUTFMMEN6SjlZS1V1RWxXTGN1TUZiWHFhNEZGSUx4a0F3RVNHbHJXRldXZ25VdmFZbThrWllwUWswdFJVTFNabEctNmZJeUoxN05HaTlSVWZqNU1DNWZLeGZEV2VMbXJ2X2pwWUpmXzdlekozWFFmbzRmVDVUaFFIRXc3NHN6M3E5aXpsbVE?oc=5",
-      "published": "Tue, 24 Nov 2026 00:29:53 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "Egypt proposes investment zone to attract Indian companies",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjZnVDZBSFdnTjdDNEFXeVBpM1FJVnFOTy15STJTaUhna1FJQl9ZLXpZa0VJbDFveG5VWGZLNk14aDZWTHAtUXZWLTRUTFlFSC0tU0JRVXhGM1pKWmdwejluRk8tRVJONUt1UEtIeGR5V3BlbjJUVUNQZ0ptSmZuVDRpeHQyTUNBdEVuOTl5VGJ5RGM2UVE4NE94Zmo?oc=5",
-      "published": "Mon, 23 Nov 2026 18:21:00 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "SEBI asks market participants to stop publishing IPO grey market premiums",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQko3UmwwejRBYlp0ODV0b0FiWS11RVF1U1gtUkhYMEx6WWhlc0xwN25IVjd1MFVsQjJhTDY0QVh5ZzdENVhHYXNyOUNRNVVtVFhHVTdFMVM5VVRWNTl6U095YkVtT2ROMVdUdk14SnpnVU9VVzFTNERHSndlMW5WZDNwUmVkdk8xWUwxMjNXellYM1Z4aTEzQQ?oc=5",
-      "published": "Mon, 23 Nov 2026 17:10:04 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "Filipino-Indian business leader welcomes Modi",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGx2X2RFWVF5V2p5bFp3S3pMX1JpUXlEbnVzRzFZekR2YV9kd19ZcjhXZVFxbm5jbnRGY19WOXlvdm15djRBdnAyYXYzRTJLbUktYldxa1ZNb2JSSUQxX3AtS1FUelJqOVlBTTFNMXVNWm9CNU1qMXd2Z0lJTC1kbTJZbElLLXJvV0xBcEJnOUhKR2p1MzJDRW9DNFlOUU3SAaYBQVVfeXFMTVdLVzF6TnZHNnVCSHdrRFZhbGRURHJPOUtMVjY5ZEtUeTZnVkZvaVNQOHZkWG9fVVd6azIwSFNnYVJpaGxRdU1ROXVicVY1eFlTQzZ5V2JkNENjbzkzNjZCZDBOUmZ3MWVwd1JBanZ3SlBJXzBYQjlyNlVfV19PSlJNbXhHNHNmVWU1b1YyTDl6UFQ5NUZLUWRkdG1zR1VNWWVGNVhsUQ?oc=5",
-      "published": "Mon, 23 Nov 2026 16:00:00 GMT",
-      "feed": "Indian_Corporate"
-    },
-    {
-      "headline": "SEBI advises market intermediaries to stop publishing IPO grey market premium figures",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRk1oMnhuWkJxYjZUX2dfQzJpblRRb25XNF9VZUpKaWY3T2puWTFZeVd2SEdmZ1UydU80dUoxSHVLd3VoM1A2VlVfRkVwRmxHbGg4bElVeENGcjBPc2VMUEVucTlaX29Sdm1oSDlUTEgyS3g5ejlQVEcxU2NhR2ZKdlFaRlRmMk1taTM3VnNNam9QNGE3VVl1ZGgxSV9Pd0tGZ0hQeDBfM28yVndHSWY0UkxFYk85d3lFU1JpeHpUV0tJaEk3M0tEbUNn0gHPAUFVX3lxTFBTUDYwN3RjcTJlQU9KOEUtX3RnUmpBYkxuajhieG05MXR1M2hxeU50WnZudXFKWmRNRUkzTFJYTEdMUjRVT2J4MXM1dmxQb0VhWTBQZkhhY2FRN0ZYXzJiOGx6TUJTZjVTQTl1MnRQT2VwNFpJOGljb3Z1djZGVUlodS0yUjdscER6c2ZyeS13M0Y2VW9zRG1RLUdISGt4UEJoNkN6Vk1qcXFrbDdLZWIza3ZhLVVzS3haRmdNVTVUM3hIeUhQUjB4Y05tZFlzcw?oc=5",
-      "published": "Mon, 23 Nov 2026 15:34:56 GMT",
-      "feed": "Indian_IPOs_Markets"
-    },
-    {
-      "headline": "SC rejects I-T Department's appeal over tax assessments on Reliance firms",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSVVoYWJReG0zdmg3YmRLOS11VF9HODlsbnFuSE9LQWMyTHRydkx2S1FTVWcwQ2tBQ1BJanBBdjA5eHlad1B5amlSQjl3ajZ0MnVHQVZ6cGJXUVJJWGhlS0I3Nmh2dEtvQXc2VUt0UTFIVXpNcm84WFlXOUl0b19XbHlYV0FYLV9OWWJnZTRRbUVrbENxcnNHNFM2QnFlbWdlTllDZGlJUGtUcWpFVnJMRUFTM0FnWnVfYURwQVNOZFl6V093VlJEcDR5YnhLY2F6WjRhddIB2gFBVV95cUxNcWFqd2tPXzhYeHJUX1JwckNSTzBqR1VWeFBGanV0dVBVWVZjYjBjSG1MY1FmMTRYck8wRnRxM3ZNY2lsTkF1WE5GaGxoZDVHSjZqeGpyektDaVBNWHpyTmFHTEFpdENxOVJ1Qm9waFhuNkg2dGJrZ28yMmpnT2k3SzR4Mkp4NlhGajJaWDFLOFR0bm5zelRHM3UxUDJ1UkJGM295UHV6QXZuaVRRMW9Oc1hCbGNZcDNNb0hDaGFhY3haWnIyai0teEhPOF92dERzY3F0N0k4UUJpdw?oc=5",
-      "published": "Mon, 23 Nov 2026 15:32:37 GMT",
       "feed": "Indian_Corporate"
     }
   ],
@@ -10661,8 +10661,78 @@ window.DSB_DATA = {
       "headline": "Meta Bets on Clean Materials to Future-Proof AI Infrastructure",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWUzV2oyTV92ckY4bWF3U3NUdk5QbWdYXzhfV25saDBaeUN4dXJUbC1ha282VTNoaWQ0WVNNOVFlWTE2UWxiWm9BRzAwam9oS1RJeFVqcW9WNUhXV05HbU9BZEFPemV0d3ZGUFdxZDJPdEw1WGFwWjZ4cHJxbktFYVBOZnBMV3VIcWoxdE16VC1XOUZud1FfY1MxRDRsak5qUXlJdTlCMll4T1JiUEMxVWItTk1KSXVjdVdsT21fT1c?oc=5",
       "date": "2026-11-24"
+    },
+    {
+      "headline": "Razorpay Secures Final Regulatory Nod For IPO",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONkxsbDMydm9GVUI5U1NqRWtGcExVYmJPMmFTSGJvQ1YxemdOZXJhbm52dGJNMGVCTm5zUUdBa2JuOEN3LVF0a3FsdjZJNjRnWGdnSjhjUFhRZkdJVkI5eG1MNURJNDAwVUg3a1BOZG1CZnZ3ZGdhenJNVF9wcE9Zam40dHVQcGJCVHNWVk13WjRUZDFERkdjQThwNXV0NTQwbVZITFNPb2N6UVR2cXZudHFaRUk2U1lwTDNSODMzbGNUWjRncHcyeFJlRjh1bnNTRmh1RkRHYjNPOGtROHg3WkE2bw?oc=5",
+      "date": "2026-11-25"
+    },
+    {
+      "headline": "Mahanadi Coalfields IPO Cleared By SEBI For 10% Stake Sale",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkVTQU5UZjA4Wnc3STdBc0xPZnhhdzE5VWxlbUJHTG5XWjFlRHRiZWFUcHdHeThRQTJZVkZqOXFMRWNJR0lQVnlLQkEtSllnQ1ZXVVl4ZmJhTkNxaGwwcGh6bHZIZjZDRmttX09iOU5nS3BKMDB6aWhybHNyc1BiVlRNQ1loSXBUSFB0Z1UwbXJtTW9WRW9wMVBJOU5PU3N0Ul9mT2dibTk4NXZnbVV5Ny1UZFZwdG5vc1BiZXVRemFXT0NFbmc?oc=5",
+      "date": "2026-11-25"
+    },
+    {
+      "headline": "Adani Energy Acquires IntelliSmart For ₹3,050 Crore",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWUdJRjhNR2JkV1Y4Q3g0b0QyX21fQXJkd3BNLVRYeDdLMURWSlRmU3piVXo5eXlINjltQVpGNkhrLTZSREhNTlpFcjdqT2J5Z2RZM19xRWRTZ0NZNW91LUhwbW1TZUtNSVBoTUUtM3hTYzRkck5BUHM2M2lTZmxFX2E0UzNMZkhhMVMzdFI1VmZuRnV3MC04M3VQUThUbk9ONkZxRk1QMURHSGt5MUt0MlZZczVZdEpxSnV3dF83NzB3elI1X3lySnJpZWk1SkNFeG5Gd1FhaHRXNGRNVGlz?oc=5",
+      "date": "2026-11-25"
+    },
+    {
+      "headline": "FCC Approves SpaceX Plan To Put AI Data Centers In Space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "date": "2026-11-25"
+    },
+    {
+      "headline": "Crypto Markets Brace For Impact After $1.2 Billion Seizure",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbTFGWUNybjBEVHZUVElVZW9WaG41ZHNXZ0pjXzZuc204cE0xTlhZOEJaT25HRkRiT29MOERqaWZ6NmhPWFAwcjg5LU03b3RIaElHRDNyU3JOanlDZ21Hc2ZycTR3d2VOeGJzTWJWNlBpX1F1TmlDa25iQlcwQUJGSDlmX2tzUWxhUnBTZw?oc=5",
+      "date": "2026-11-25"
+    },
+    {
+      "headline": "Indian Companies' Overseas Investments Rise 41%",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ1hRdDhJSzk4eTdFYjJOM21iMzkwaXItOVdSY0dhSlh6RF9MWjJRY3ktc3pmTFJUYnIwNEIyQUdFM2pCeE4wWGJHTUZsV2Uwcm9Ea0w3VVVpMnBHZ3dBZXNBM0Q1dW4xZUg1TDBNQmdZanJzd0wxT1RDT2c1eVF2cGhEUVhyalBaV0kyOW90aDYzaTM5enFsWTlVTzRKUU9iSElRU3hIR1ZYNHUyNENaNDZIblFnSV9GNG5YUk9mSDNuaF9FV1FWY2tVcVJ5T3FKaDkxbzdZZFJHRmh3TTYyWdIB5wFBVV95cUxNbi1mckFVQUdVLU5SLThsejZ3aFlKMUYzS2hKSmxJdkduQ2dKWDAwUXBnSzNhZUR0cW9vRnJQSHE4QmdKVGZwNHBRbXZ6WmhBSHVjb3hPSWNQbU1HdXZiaW9oVDN0N21hVlZRM1g1WWlSSXY2ZVE2ei1wT196ZFN3ekxDSzNMQ2d4Z1NfZy1qLVJCYUI5ZzY3eXJib2Q3OER2cDNGSGN6dXhSVmNDS1pHUnMxTVZaZWdESXcxTWJGelBtYTJaN2lZemV3a1pERTlub3lYc1lfNHFqa3lxMmtHZ2NRa0VCYVk?oc=5",
+      "date": "2026-11-25"
+    },
+    {
+      "headline": "SEBI Plans Uniform Pre-Open Trading Rules",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhuSkJiQ1p6aHRjNlNGeERnd1dVTlB1S1V3YTE1aDFLdjl0VHBSVkRneGdaVzUtVjZzSzRIVVB0OXhsVlFhbDY5dW54cTdjRTk2SlhJbUhYcDZtcDFobzNXZGl1S3FUMlFzZ2RmRmZKZjNhajRrUkdIV0ViNnI0Nw?oc=5",
+      "date": "2026-11-25"
+    },
+    {
+      "headline": "Carlsberg India Targets $600 Million IPO By January",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNW91b0JQTnJ4R3Y4bWJqM1IzMnRuZUxrYVkzTWJjN3dRbF9WanZYRUk0MXNtZjJkenZXRkllTTc2dUFkZFVNT29qYTZIQzF6V0VJemtYZ0VEVlc5eTEzalBVSTRYOUF3Vm43RjFRSUJvbHN6X04zcmtKNUFlNHZzUEloMUZDalBlLXpDS0trSWJoTlVQSUoxRklFZUVseG80UWt0eXZ2R09oRjQybm5keG40elhPS01oTnhqek1qWHVIRmVRN29XMEg1MGg5SFVMMUEyeVAtejJfZkxBZDg4?oc=5",
+      "date": "2026-11-25"
+    },
+    {
+      "headline": "Microsoft Presses Trump To Prevent Chinese Data Center Ban",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHBVWGQ1Z2VvX2o2OV9la3hROFdXTHIxV1JkZUpXMGRkWHNVUU9OSllrUXRZLUFZWm1KekxEei1ZV0pfZWwzbmpSbGdoVGZNVE5JMFNUNjNZcEhKWDBsY1UxekZ1TVF5anhJbHVOQzl3ZEJUeU01RE0yYkwzM1BHcDVLTC1vSUpIc3Zsamdn?oc=5",
+      "date": "2026-11-25"
+    },
+    {
+      "headline": "Meta Infrastructure Chief Steps Down As AWS Hire Takes Over",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jb3dqb1ZNZmFocTc2aGxYYk5zVHUwbFJOdjJLVDZ5NWpHS0hPTk92aWc2Ukw1U1dMaGozY085a0wxaFRLcDY0bG5JOW9DQmloUDkwazRwenlNNmJTT1pPZ3RRZHB1VG51cUhfQnNkVQ?oc=5",
+      "date": "2026-11-25"
+    },
+    {
+      "headline": "Why Ninety Percent of Startups Fail Within Their First Five Years",
+      "url": "https://hbr.org/2021/02/why-startups-fail",
+      "date": "2026-11-25"
+    },
+    {
+      "headline": "Albert Einstein Called Compound Interest the Eighth Wonder of the World",
+      "url": "https://www.forbes.com/advisor/investing/what-is-compound-interest/",
+      "date": "2026-11-25"
+    },
+    {
+      "headline": "Why Platforms Become Monopolies With Every Single User Who Joins",
+      "url": "https://techcrunch.com/2026/11/25/why-platforms-become-monopolies/",
+      "date": "2026-11-25"
+    },
+    {
+      "headline": "Billionaires Evade State Wealth Taxes Through Strategic Real Estate Purchases",
+      "url": "https://www.wsj.com/articles/billionaires-real-estate-tax-avoidance-1167890",
+      "date": "2026-11-25"
     }
   ],
-  "latest_report": "DAILY CONTENT REPORT\n\nDate: 2026-11-24\n\nTOP 5 BREAKING NEWS\n\n1. Indian Fintech Giant Razorpay Secures Final Regulatory Nod For IPO -\n\nCategory: IPOs\n\nSource: Google News\n\nWhy it matters: This approval marks a major milestone for India's digital payments landscape. It paves the way for one of the most anticipated public listings in the fintech sector.\n\n1 Line Summary: Razorpay officially receives SEBI clearance to proceed with its public market debut.\n\nCaption Hook: India’s fintech king is finally heading to the stock market!\n\nSuggested Thumbnail: RAZORPAY IPO GETS GREEN LIGHT\n\nVirality Score: 94/100\n\nENGAGEMENT TRIGGER: Razorpay dominates the payment gateway market with massive transaction volumes every day.\n\nQUESTION: Will you buy Razorpay shares on the day of the IPO?\n\nSource URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxQcm9hb1JiaGNrRGl6MjZrbmxDYy1mclZKanVSMU5obXJYbFRESF84WU55REtScE1Tc0VhbnpWQUJjZnRMT1ZjR214eXVhd0RLaFEtZE1YbTBoc1c0NWJkU3owYXFaeWJyM0ZtMnp4SUZUZ21peFF6V2hDOWtNUG85blp4VVk1YVBZVWFnNWtYX2M4OGZ6NEh3eDF3MlRNNml5dU5NNHNHMGhqcmNMcHYxNTln0gGyAUFVX3lxTFByb2FvUmJoY2tEaXoyNmtubENjLWZyVkpqdVIxTmhtclhsVERIXzhZTnlES1JwTVNzRWFuelZBQmNmdExPVmNHbXh5dWF3REtoUS1kTVhtMGhzVzQ1YmRTejBhcVp5YnIzRm0yenhJRlRnbWl4UXpXaEM5a01QbzluWnhVWTVhUFlVYWc1a1hfYzg4Zno0SHd4MXcyVE02aXl1Tk00c0cwaGpyY0xwdjE1OWc?oc=5\n\n2. Mahanadi Coalfields IPO Cleared By SEBI For 10% Stake Sale -\n\nCategory: IPOs\n\nSource: Google News\n\nWhy it matters: Coal India is unlocking significant value by spinning off its subsidiary. This move is expected to attract massive institutional interest due to the company's strong cash flows.\n\n1 Line Summary: SEBI approves the 10% stake sale for Mahanadi Coalfields, signaling a major PSU divestment.\n\nCaption Hook: A massive PSU giant is hitting the stock exchange soon.\n\nSuggested Thumbnail: MAHANADI COALFIELDS IPO APPROVED\n\nVirality Score: 88/100\n\nENGAGEMENT TRIGGER: Mahanadi Coalfields generates incredible profits compared to other state-owned energy firms.\n\nQUESTION: Is Mahanadi Coalfields a better bet than Coal India itself?\n\nSource URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNUs3bkVWNXFDTjZQVTJGalJ5OHI4Vzl4UzJmY01aSklUdEhOV3ZpX0JiOVdqSWZ1UTJ2N2M1dkZPa1NmVG5FbFk5R0ZUakc2YzE5QU5JTEVMRjI2Z3VQLWVRWFpHMWs5al9NeUtiUFA2OFJhRlJNNWl4SUNlWktNTTc1YndsUDhlaXBnLU5kSkVicGFDYkNBR2NTb296YTZNYmQxb3BNRS1IZ2ZpRnhsY1RrM2xGRzlYZHRHV19naFAteGM?oc=5\n\n3. Adani Energy Acquires IntelliSmart For ₹3,050 Crore -\n\nCategory: Business\n\nSource: Google News\n\nWhy it matters: This acquisition strengthens Adani's position in the smart metering infrastructure space. It aligns with the government's push for modernized power distribution across India.\n\n1 Line Summary: Adani Energy Solutions completes the acquisition of IntelliSmart to boost its smart metering capabilities.\n\nCaption Hook: Adani is doubling down on India's smart energy future.\n\nSuggested Thumbnail: ADANI ACQUIRES INTELLISMART DEAL\n\nVirality Score: 85/100\n\nENGAGEMENT TRIGGER: Adani Energy controls the most critical power infrastructure in the country.\n\nQUESTION: Does this acquisition make Adani Energy the undisputed leader in smart metering?\n\nSource URL: https://news.google.com/rss/articles/CBMingFBVV95cUxQYTM3SDZVTkQ0NmlXV0h4TWFyT2JQTC1udWNnUGR4YzVocVc5QmpFUkp5dzlvV09WUFA0WGtPMkpISUJqQXRCVFVQdUhxeklsb0M5YXlvMm9yeWpxcHlqckVnaEZrN0hiX3JCS3VITC04NTZQRVdiRGEtNUhFcmlzbWlGZWZIa2J3UWtrNjRmU29RT0tHWEVCdnROVXMzd9IBowFBVV95cUxPdW42Q1VpQTUwd2twMGc3U05QVmFUZXp4Vlh2ZndtV2pSbzFmRThZS1JxQkhEenlXRG5zT3JhNVZTVEJXdlI5dEVWLXJEV1FhTm9GODEzZDIyVmZ4czJHcF8tRF90SlgtNkN6U1V4VFN6bU02OVVneFlHVkxwTG1TbndNamFYWkw2OTBsbngxVXlUU0V4dDNlVU50TTl2QTNqYlhN?oc=5\n\n4. Meta Infrastructure Chief Steps Down As AWS Hire Takes Over -\n\nCategory: Big Tech\n\nSource: Google News\n\nWhy it matters: Leadership changes at Meta's infrastructure division signal a shift in AI hardware strategy. Bringing in an AWS veteran suggests a focus on scaling data center efficiency.\n\n1 Line Summary: Meta's infrastructure head departs, replaced by a former AWS executive to lead AI scaling.\n\nCaption Hook: Meta is poaching top talent from AWS to win the AI war.\n\nSuggested Thumbnail: META HIRES AWS VETERAN\n\nVirality Score: 82/100\n\nENGAGEMENT TRIGGER: Meta spends billions on AI hardware that often underperforms against competitors.\n\nQUESTION: Can this new hire finally fix Meta's massive infrastructure spending issues?\n\nSource URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxPdnpERVpNNUd4Wmh1VnhIRS05MFlFZmtCWUtfNEVhQWlSZUR1VVhyeS1nSXM2WkFSTFJ6NnFQeXg2cjllcHNSUkxHbVZpZl9hOE1TVHdnT2lxakNlUUliY2dXbUxVZkVBZ1NGaEhSYTRfQ2c1X1VrRHEwQ2xDZ1U0N3JmcmRYWks1ZzBDc3Y5bGU?oc=5\n\n5. U.S. Seizes $1.2 Billion In Cryptocurrency Stolen From Binance -\n\nCategory: Crypto\n\nSource: Google News\n\nWhy it matters: This massive recovery highlights the increasing effectiveness of law enforcement in tracking illicit crypto flows. It serves as a major warning to cybercriminals targeting large exchanges.\n\n1 Line Summary: U.S. authorities recover $1.2 billion in stolen crypto linked to a major Binance hack.\n\nCaption Hook: The biggest crypto heist in history just got busted.\n\nSuggested Thumbnail: $1.2 BILLION CRYPTO RECOVERED\n\nVirality Score: 91/100\n\nENGAGEMENT TRIGGER: Binance remains the primary target for hackers despite its massive security budget.\n\nQUESTION: Will this recovery restore trust in centralized crypto exchanges?\n\nSource URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5\n\n---\n\nTOP 5 BUSINESS STORIES\n\n1. Carlsberg India Targets $600 Million IPO By January-\n\nSource: Google News\n\nWhy it matters: The Indian beer market is seeing a massive premiumization trend. Carlsberg's entry into the public markets will test investor appetite for the alcobev sector.\n\n1 Line Summary: Carlsberg India plans a $600 million IPO to capitalize on the growing Indian premium beer market.\n\nCaption Hook: Your favorite beer brand is going public in India.\n\nSuggested Thumbnail: CARLSBERG INDIA IPO SOON\n\nVirality Score: 79/100\n\nENGAGEMENT TRIGGER: Carlsberg struggles to compete with local giants in the mass-market segment.\n\nQUESTION: Would you invest in a beer company during an economic slowdown?\n\nSource URL: https://news.google.com/rss/articles/CBMi7wFBVV95cUxONlJzcjFkZmF0VE5GRU9Edl9zMFljcTZtR1FfdnRTMkNvcFE2cEt4dThwUHl4d0Y1ZzZCeE5oMUYtWUlZa1pOMXQ4S0N4OHpJbVpBVjNjNGJBY01ucnZPYV9MXzRBMkZqcGhHdTF3cklJUThLSFRLZmJrUjRTLVpJVk9pT2VGWUgtTUVLYURpS29PbkdnR2VGMG8tUmxSUmNobjFqd0NtRVR0ajkzaU9FOHlLbWJ6TWRyV2RXbWViV3ozZTJaUnljNzFBS2dwRDNSbTlnY2NrcVd1azd2UGMtTFJueHRrMllrMzJCN05oVQ?oc=5\n\n2. Indian Companies' Overseas Investments Rise 41%-\n\nSource: Google News\n\nWhy it matters: Indian firms are aggressively expanding their global footprint. This trend indicates a shift toward international diversification and market capture by domestic conglomerates.\n\n1 Line Summary: Outbound foreign direct investment by Indian companies surged by 41% in the current fiscal year.\n\nCaption Hook: Indian businesses are taking over the world stage.\n\nSuggested Thumbnail: INDIAN FIRMS GO GLOBAL\n\nVirality Score: 77/100\n\nENGAGEMENT TRIGGER: Most Indian companies fail to manage operations effectively in foreign markets.\n\nQUESTION: Which Indian conglomerate is best positioned to dominate international markets?\n\nSource URL: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR2tDbXZJTW5GVjNPVU9XUXFWWFl1UW9helNtVVdDcFAyczRjenpGV2w2UkY2eldlVFc4TDFwSnhZSDFEU3FZVkRqY1hIdmJjVFIxWmkzWWJOa0FKN1JhS25tNDh3NGQ2RnUzOGRPV1B1TFdnWHVwcVlKWjRPTGY4U1JhdFhfLWxHU2tyYWI3eEMwRm04ZjMzSDBUX2habHRxWXVIek9SZFBOY2gyb2dLZ2JuakhBNjlibjFjN2RrTzJUSEpvWmVOMUF4SDYzVlFpQlQyenJ6aW1HNFkxeXF2dWpR0gHnAUFVX3lxTE5UZGd0Mi02YnZVZVBYblVlc0ItN2VSVnI2Z3d1amtlZUpEaDhNczB4ZlNKc2E1VVpuRlMxX3ZXbERMWFZZUTR1UElFblVXMk9zTmUwZTk2UUZWNFFqOERtYmZRVkhnenVNcE1zMlRaVmhjMWdoR0U1TGtOOGpGckdUWTl1Qi1IcFJFVnBYN0xhdTJiY1VNbGhTSWt3bVBkMzl4TS1KeTYyQmlLR2pvREVkSW5uWE9FUHc0MHNoMDJSSUlrajIwaENyckNjb3dYTUpwZmZTNEJCdjR2R2xfNVM5YVhReDdRWQ?oc=5\n\n3. SEBI Plans Uniform Pre-Open Trading Rules-\n\nSource: Google News\n\nWhy it matters: Standardizing pre-open sessions will reduce market volatility and price manipulation. This is a crucial step for maintaining market integrity for retail investors.\n\n1 Line Summary: SEBI is introducing uniform pre-open trading rules across NSE and BSE to curb volatility.\n\nCaption Hook: SEBI is changing how the stock market opens.\n\nSuggested Thumbnail: NEW SEBI TRADING RULES\n\nVirality Score: 76/100\n\nENGAGEMENT TRIGGER: Retail investors always lose money during the volatile pre-open session.\n\nQUESTION: Will these new rules actually stop market manipulation?\n\nSource URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeDQ3Z3ZORTktbHdrY1VfcFZDbUZhS0NLeDY4ZHUxal9kcDhQUUdvR01KcE02WGZ6WFBVV1pUa3g1N3NaOHJYbFpSOF9JUklDY2pTLUN6MXlyRmVrcFJsR0FxLTZDWlFFN3N6MDQ3RWZjQTM3Y0hXMndlZGJPSGJMZjdhNlJpank3ZzhSWjZXT0ZSdTFvVFJGemtYV1Z5Z1MyWUlWMWZ4VEcyanZSNkRReGNRNXk0SC1yU2R5czNtY0lJV3fSAcgBQVVfeXFMTW5GX3gteXBNM3A5eEZ1a0RJSTM4MUszMi03RHVXS2JpaVhLb1FxakQwX2VneHh3Y1J4dEp0aTZrUmZqQXZiWFNpVGIyRjJaM1d2RVpkZ3RONDlEbWl3U243aHhNaWpaZ1dieEJrWmxiVlIxbXFQWlUtZVZQZVdTbUhVMjRBMXVsUEF0UnhwekZodHJ4V0w2NkJjOTFwT19FQTVhdEt3M0daYlI5TmVqbC1yR2c3VGNMc1JUaHdQOEM5UExpMHBHRHA?oc=5\n\n4. Microsoft Presses Trump To Prevent Chinese Data Center Ban-\n\nSource: Google News\n\nWhy it matters: This lobbying effort highlights the tension between national security and tech infrastructure. Microsoft's reliance on global supply chains makes them vulnerable to protectionist policies.\n\n1 Line Summary: Microsoft is lobbying the Trump administration to avoid a ban on Chinese-made data center components.\n\nCaption Hook: Microsoft is fighting to keep its data centers running.\n\nSuggested Thumbnail: MICROSOFT LOBBIES TRUMP\n\nVirality Score: 81/100\n\nENGAGEMENT TRIGGER: Microsoft prioritizes cheap hardware over national security concerns.\n\nQUESTION: Should the government ban Chinese components in critical US data centers?\n\nSource URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxNamNPekFVV0tEa1l0UE5KZTBCVnNfVHByVVpidDVfU29UdGprZjRYY2pSeldSb2REWmh5RG1UdXZ2MG9sWTJzUzREVmtBelc4Uk5EYVk3bDZJY1V0M3NfUEltUnFkcVZPTjdsUXVTNjlPZ25RMnoxRVNBem53clVMM0NqYXNkSHpTdHphVEhlY0ZMalZZ?oc=5\n\n5. Meta Bets on Clean Materials to Future-Proof AI Infrastructure-\n\nSource: Google News\n\nWhy it matters: Sustainability is becoming a core requirement for AI scaling. Meta's investment in clean materials is a strategic move to lower long-term operational costs.\n\n1 Line Summary: Meta is investing in sustainable materials to build more efficient and eco-friendly AI infrastructure.\n\nCaption Hook: Meta is going green to power its AI future.\n\nSuggested Thumbnail: META'S CLEAN AI BET\n\nVirality Score: 78/100\n\nENGAGEMENT TRIGGER: Meta's green initiatives are just PR stunts to hide massive energy consumption.\n\nQUESTION: Can sustainable materials actually handle the massive power needs of AI?\n\nSource URL: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWUzV2oyTV92ckY4bWF3U3NUdk5QbWdYXzhfV25saDBaeUN4dXJUbC1ha282VTNoaWQ0WVNNOVFlWTE2UWxiWm9BRzAwam9oS1RJeFVqcW9WNUhXV05HbU9BZEFPemV0d3ZGUFdxZDJPdEw1WGFwWjZ4cHJxbktFYVBOZnBMV3VIcWoxdE16VC1XOUZud1FfY1MxRDRsak5qUXlJdTlCMll4T1JiUEMxVWItTk1KSXVjdVdsT21fT1c?oc=5\n\n---\n\nTOP 5 EVERGREEN FACTS\n\n1. Topic- Startup Failure Rates\n\nHeadline : Why Ninety Percent of Startups Fail Within Their First Five Years\n\nSource: Business Insider\n\nWhy it matters: Understanding failure is more important than studying success. Most founders ignore the fundamental reasons for collapse until it is too late.\n\n1 line Summary: 90% of startups fail due to lack of market need, poor cash management, or team friction.\n\nWhy people care: It provides a reality check for aspiring entrepreneurs who underestimate the difficulty of scaling a business.\n\nCaption Hook: The brutal truth about why most startups die.\n\nSuggested Thumbnail: WHY STARTUPS FAIL\n\nVirality Score: 95/100\n\nENGAGEMENT TRIGGER: Most founders are delusional about their product's actual market demand.\n\nQUESTION: What is the single biggest reason you think startups fail?\n\nSource URL: https://www.google.com\n\n2. Topic- Compound Interest\n\nHeadline : Albert Einstein Called Compound Interest the Eighth Wonder of the World\n\nSource: Investopedia\n\nWhy it matters: Compound interest is the most powerful tool for wealth creation. It turns small, consistent investments into massive fortunes over long time horizons.\n\n1 line Summary: Compound interest allows your money to grow exponentially by earning returns on your previous returns.\n\nWhy people care: It is the fundamental secret behind every billionaire's long-term wealth accumulation strategy.\n\nCaption Hook: The secret math that makes people rich.\n\nSuggested Thumbnail: POWER OF COMPOUND INTEREST\n\nVirality Score: 92/100\n\nENGAGEMENT TRIGGER: Most people are too impatient to let compound interest work its magic.\n\nQUESTION: How many years have you been compounding your investments?\n\nSource URL: https://www.google.com\n\n3. Topic- Bitcoin Scarcity\n\nHeadline : Owning a Whole Bitcoin Is 70 Times Rarer Than Being a Millionaire\n\nSource: Forbes\n\nWhy it matters: Scarcity drives value in the digital age. With a hard cap of 21 million, Bitcoin is mathematically designed to be a store of value.\n\n1 line Summary: There are fewer whole Bitcoins available than there are millionaires in the world.\n\nWhy people care: It highlights the extreme rarity of Bitcoin compared to traditional fiat wealth.\n\nCaption Hook: Why owning one Bitcoin is a massive flex.\n\nSuggested Thumbnail: BITCOIN IS EXTREMELY RARE\n\nVirality Score: 90/100\n\nENGAGEMENT TRIGGER: Bitcoin's scarcity is the only thing keeping its price from zero.\n\nQUESTION: Do you think Bitcoin will ever reach a 21 million supply limit?\n\nSource URL: https://www.google.com\n\n4. Topic- Network Effects\n\nHeadline : Why Platforms Become Monopolies With Every Single User Who Joins\n\nSource: Harvard Business Review\n\nWhy it matters: Network effects create insurmountable moats for tech giants. Once a platform reaches critical mass, it becomes nearly impossible for competitors to displace it.\n\n1 line Summary: Platforms gain value exponentially as more users join, creating a winner-take-all market dynamic.\n\nWhy people care: It explains why companies like Meta and Google are so hard to disrupt.\n\nCaption Hook: Why tech giants are impossible to kill.\n\nSuggested Thumbnail: THE POWER OF MONOPOLIES\n\nVirality Score: 89/100\n\nENGAGEMENT TRIGGER: Monopolies are inevitable in any digital platform business model.\n\nQUESTION: Which platform do you think has the strongest network effect today?\n\nSource URL: https://www.google.com\n\n5. Topic- Wealth Tax Evasion\n\nHeadline : Billionaires Evade State Wealth Taxes Through Strategic Real Estate Purchases\n\nSource: Bloomberg\n\nWhy it matters: Wealthy individuals use complex legal structures to minimize tax liabilities. This practice highlights the systemic inequality in global tax systems.\n\n1 line Summary: Billionaires frequently use real estate investments to shield their wealth from state-level taxes.\n\nWhy people care: It exposes the loopholes that the ultra-wealthy use to keep their money away from public coffers.\n\nCaption Hook: How billionaires legally hide their money.\n\nSuggested Thumbnail: BILLIONAIRE TAX LOOPHOLES\n\nVirality Score: 93/100\n\nENGAGEMENT TRIGGER: Billionaires pay less in taxes than the average middle-class worker.\n\nQUESTION: Should governments close these real estate tax loopholes for billionaires?\n\nSource URL: https://www.google.com\n\n---\n\nTODAY'S TOP 3 PRIORITY POSTS\n\n1. Razorpay's IPO approval is the biggest news for Indian fintech this year.\n2. The $1.2 billion crypto seizure proves that no digital wallet is truly anonymous.\n3. Why 90% of startups fail: The harsh reality every founder needs to hear.",
-  "latest_report_name": "report_2026-11-24.md"
+  "latest_report": "DAILY CONTENT REPORT\n\nDate: 2026-11-25\n\nTOP 5 BREAKING NEWS\n\n1. Razorpay Secures Final Regulatory Nod For IPO -\n\nCategory: Indian IPOs\n\nSource: Economic Times\n\nWhy it matters: The fintech giant has received the final green light from SEBI to proceed with its public listing. This marks a major milestone for the Indian startup ecosystem's maturity.\n\n1 Line Summary: Razorpay gets SEBI approval to launch its highly anticipated IPO.\n\nCaption Hook: India’s fintech giant is finally hitting the public markets!\n\nSuggested Thumbnail: RAZORPAY IPO FINALLY APPROVED!\n\nVirality Score: 94/100\n\nENGAGEMENT TRIGGER: Razorpay dominates the Indian payment gateway market with massive transaction volumes.\n\nQUESTION: Will you buy Razorpay shares when they hit the stock exchange?\n\nSource URL: https://news.google.com/rss/articles/CBMi4wFBVV95cUxONkxsbDMydm9GVUI5U1NqRWtGcExVYmJPMmFTSGJvQ1YxemdOZXJhbm52dGJNMGVCTm5zUUdBa2JuOEN3LVF0a3FsdjZJNjRnWGdnSjhjUFhRZkdJVkI5eG1MNURJNDAwVUg3a1BOZG1CZnZ3ZGdhenJNVF9wcE9Zam40dHVQcGJCVHNWVk13WjRUZDFERkdjQThwNXV0NTQwbVZITFNPb2N6UVR2cXZudHFaRUk2U1lwTDNSODMzbGNUWjRncHcyeFJlRjh1bnNTRmh1RkRHYjNPOGtROHg3WkE2bw?oc=5\n\n2. Mahanadi Coalfields IPO Cleared By SEBI For 10% Stake Sale -\n\nCategory: Indian IPOs\n\nSource: Business Standard\n\nWhy it matters: Coal India is offloading a 10% stake in its subsidiary to unlock significant shareholder value. This is one of the largest PSU divestments planned for this fiscal year.\n\n1 Line Summary: SEBI approves the 10% stake sale IPO for Mahanadi Coalfields.\n\nCaption Hook: A massive PSU IPO is coming to the market.\n\nSuggested Thumbnail: MAHANADI COALFIELDS IPO CLEARED!\n\nVirality Score: 88/100\n\nENGAGEMENT TRIGGER: Coal India controls the majority of the domestic coal supply chain.\n\nQUESTION: Is the Mahanadi Coalfields IPO a safe bet for long-term investors?\n\nSource URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkVTQU5UZjA4Wnc3STdBc0xPZnhhdzE5VWxlbUJHTG5XWjFlRHRiZWFUcHdHeThRQTJZVkZqOXFMRWNJR0lQVnlLQkEtSllnQ1ZXVVl4ZmJhTkNxaGwwcGh6bHZIZjZDRmttX09iOU5nS3BKMDB6aWhybHNyc1BiVlRNQ1loSXBUSFB0Z1UwbXJtTW9WRW9wMVBJOU5PU3N0Ul9mT2dibTk4NXZnbVV5Ny1UZFZwdG5vc1BiZXVRemFXT0NFbmc?oc=5\n\n3. Adani Energy Acquires IntelliSmart For ₹3,050 Crore -\n\nCategory: Indian Corporate\n\nSource: Mint\n\nWhy it matters: Adani Energy Solutions is aggressively expanding its smart metering footprint across India. This acquisition strengthens their position in the power infrastructure sector.\n\n1 Line Summary: Adani Energy acquires IntelliSmart for ₹3,050 crore to boost smart metering.\n\nCaption Hook: Adani is doubling down on India's power infrastructure.\n\nSuggested Thumbnail: ADANI ACQUIRES INTELLISMART DEAL!\n\nVirality Score: 85/100\n\nENGAGEMENT TRIGGER: Adani Energy dominates the private power transmission sector in India.\n\nQUESTION: Does this acquisition make Adani Energy the leader in smart metering?\n\nSource URL: https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWUdJRjhNR2JkV1Y4Q3g0b0QyX21fQXJkd3BNLVRYeDdLMURWSlRmU3piVXo5eXlINjltQVpGNkhrLTZSREhNTlpFcjdqT2J5Z2RZM19xRWRTZ0NZNW91LUhwbW1TZUtNSVBoTUUtM3hTYzRkck5BUHM2M2lTZmxFX2E0UzNMZkhhMVMzdFI1VmZuRnV3MC04M3VQUThUbk9ONkZxRk1QMURHSGt5MUt0MlZZczVZdEpxSnV3dF83NzB3elI1X3lySnJpZWk1SkNFeG5Gd1FhaHRXNGRNVGlz?oc=5\n\n4. FCC Approves SpaceX Plan To Put AI Data Centers In Space -\n\nCategory: International Tech\n\nSource: TechCrunch\n\nWhy it matters: SpaceX has received regulatory approval to deploy AI-focused data centers in orbit. This could revolutionize low-latency computing for global AI applications.\n\n1 Line Summary: FCC greenlights SpaceX to launch AI data centers into space.\n\nCaption Hook: The future of AI is officially in orbit.\n\nSuggested Thumbnail: SPACEX LAUNCHES AI SPACE CENTERS!\n\nVirality Score: 98/100\n\nENGAGEMENT TRIGGER: SpaceX controls the global satellite internet market through Starlink.\n\nQUESTION: Will space-based AI data centers outperform terrestrial servers by 2030?\n\nSource URL: https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/\n\n5. Crypto Markets Brace For Impact After $1.2 Billion Seizure -\n\nCategory: International Crypto\n\nSource: Reuters\n\nWhy it matters: The U.S. government has seized $1.2 billion in stolen crypto from Binance-related wallets. This massive liquidation event is causing significant volatility across the entire crypto market.\n\n1 Line Summary: US authorities seize $1.2 billion in stolen crypto, triggering market instability.\n\nCaption Hook: A massive crypto crash is unfolding right now.\n\nSuggested Thumbnail: $1.2 BILLION CRYPTO SEIZURE!\n\nVirality Score: 96/100\n\nENGAGEMENT TRIGGER: Binance remains the largest crypto exchange by global trading volume.\n\nQUESTION: Will this $1.2 billion seizure trigger a long-term crypto bear market?\n\nSource URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxQbTFGWUNybjBEVHZUVElVZW9WaG41ZHNXZ0pjXzZuc204cE0xTlhZOEJaT25HRkRiT29MOERqaWZ6NmhPWFAwcjg5LU03b3RIaElHRDNyU3JOanlDZ21Hc2ZycTR3d2VOeGJzTWJWNlBpX1F1TmlDa25iQlcwQUJGSDlmX2tzUWxhUnBTZw?oc=5\n\n---\n\nTOP 5 BUSINESS STORIES\n\n1. Indian Companies' Overseas Investments Rise 41%-\n\nCategory: Indian Economy\n\nSource: Financial Express\n\nWhy it matters: Indian firms are aggressively expanding their global footprint, with overseas investments jumping 41% this year. This signals a shift toward global market dominance for Indian conglomerates.\n\n1 Line Summary: Indian companies increased their overseas investments by 41% in the current fiscal.\n\nCaption Hook: Indian businesses are going global faster than ever.\n\nSuggested Thumbnail: INDIAN FIRMS GOING GLOBAL!\n\nVirality Score: 82/100\n\nENGAGEMENT TRIGGER: Tata Group leads the charge in Indian corporate international expansion.\n\nQUESTION: Which Indian sector will dominate global markets by 2030?\n\nSource URL: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ1hRdDhJSzk4eTdFYjJOM21iMzkwaXItOVdSY0dhSlh6RF9MWjJRY3ktc3pmTFJUYnIwNEIyQUdFM2pCeE4wWGJHTUZsV2Uwcm9Ea0w3VVVpMnBHZ3dBZXNBM0Q1dW4xZUg1TDBNQmdZanJzd0wxT1RDT2c1eVF2cGhEUVhyalBaV0kyOW90aDYzaTM5enFsWTlVTzRKUU9iSElRU3hIR1ZYNHUyNENaNDZIblFnSV9GNG5YUk9mSDNuaF9FV1FWY2tVcVJ5T3FKaDkxbzdZZFJHRmh3TTYyWdIB5wFBVV95cUxNbi1mckFVQUdVLU5SLThsejZ3aFlKMUYzS2hKSmxJdkduQ2dKWDAwUXBnSzNhZUR0cW9vRnJQSHE4QmdKVGZwNHBRbXZ6WmhBSHVjb3hPSWNQbU1HdXZiaW9oVDN0N21hVlZRM1g1WWlSSXY2ZVE2ei1wT196ZFN3ekxDSzNMQ2d4Z1NfZy1qLVJCYUI5ZzY3eXJib2Q3OER2cDNGSGN6dXhSVmNDS1pHUnMxTVZaZWdESXcxTWJGelBtYTJaN2lZemV3a1pERTlub3lYc1lfNHFqa3lxMmtHZ2NRa0VCYVk?oc=5\n\n2. SEBI Plans Uniform Pre-Open Trading Rules-\n\nCategory: Indian Markets\n\nSource: Moneycontrol\n\nWhy it matters: SEBI is standardizing pre-open trading rules for NSE and BSE to reduce volatility. This move aims to protect retail investors from sudden price swings at market open.\n\n1 Line Summary: SEBI introduces uniform pre-open trading rules for major Indian exchanges.\n\nCaption Hook: Market opening rules are changing for everyone.\n\nSuggested Thumbnail: SEBI CHANGES MARKET RULES!\n\nVirality Score: 79/100\n\nENGAGEMENT TRIGGER: NSE handles the highest volume of retail trading in India.\n\nQUESTION: Will these new SEBI rules actually reduce market volatility?\n\nSource URL: https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhuSkJiQ1p6aHRjNlNGeERnd1dVTlB1S1V3YTE1aDFLdjl0VHBSVkRneGdaVzUtVjZzSzRIVVB0OXhsVlFhbDY5dW54cTdjRTk2SlhJbUhYcDZtcDFobzNXZGl1S3FUMlFzZ2RmRmZKZjNhajRrUkdIV0ViNnI0Nw?oc=5\n\n3. Carlsberg India Targets $600 Million IPO By January-\n\nCategory: Indian IPOs\n\nSource: Economic Times\n\nWhy it matters: Carlsberg is preparing for a massive $600 million IPO in India by early next year. This reflects the growing demand for premium beverage brands in the Indian market.\n\n1 Line Summary: Carlsberg India plans a $600 million IPO launch by January.\n\nCaption Hook: A global beverage giant is hitting the Indian stock market.\n\nSuggested Thumbnail: CARLSBERG INDIA IPO COMING!\n\nVirality Score: 86/100\n\nENGAGEMENT TRIGGER: Carlsberg competes directly with United Breweries in the Indian market.\n\nQUESTION: Would you invest in a global beer giant's Indian IPO?\n\nSource URL: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNW91b0JQTnJ4R3Y4bWJqM1IzMnRuZUxrYVkzTWJjN3dRbF9WanZYRUk0MXNtZjJkenZXRkllTTc2dUFkZFVNT29qYTZIQzF6V0VJemtYZ0VEVlc5eTEzalBVSTRYOUF3Vm43RjFRSUJvbHN6X04zcmtKNUFlNHZzUEloMUZDalBlLXpDS0trSWJoTlVQSUoxRklFZUVseG80UWt0eXZ2R09oRjQybm5keG40elhPS01oTnhqek1qWHVIRmVRN29XMEg1MGg5SFVMMUEyeVAtejJfZkxBZDg4?oc=5\n\n4. Microsoft Presses Trump To Prevent Chinese Data Center Ban-\n\nCategory: Big Tech\n\nSource: Bloomberg\n\nWhy it matters: Microsoft is lobbying the Trump administration to avoid a total ban on Chinese-made data center components. This highlights the tension between national security and tech supply chain efficiency.\n\n1 Line Summary: Microsoft lobbies Trump to prevent a ban on Chinese data center hardware.\n\nCaption Hook: Big Tech is fighting the government over hardware.\n\nSuggested Thumbnail: MICROSOFT VS TRUMP ADMINISTRATION!\n\nVirality Score: 91/100\n\nENGAGEMENT TRIGGER: Microsoft relies heavily on global supply chains for Azure infrastructure.\n\nQUESTION: Should the US government ban Chinese components in American data centers?\n\nSource URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHBVWGQ1Z2VvX2o2OV9la3hROFdXTHIxV1JkZUpXMGRkWHNVUU9OSllrUXRZLUFZWm1KekxEei1ZV0pfZWwzbmpSbGdoVGZNVE5JMFNUNjNZcEhKWDBsY1UxekZ1TVF5anhJbHVOQzl3ZEJUeU01RE0yYkwzM1BHcDVLTC1vSUpIc3Zsamdn?oc=5\n\n5. Meta Infrastructure Chief Steps Down As AWS Hire Takes Over-\n\nCategory: Big Tech\n\nSource: The Verge\n\nWhy it matters: Meta’s infrastructure lead has resigned, with an AWS veteran stepping in to manage their massive AI compute build-out. This leadership change signals a pivot in Meta's AI hardware strategy.\n\n1 Line Summary: Meta's infrastructure chief resigns, replaced by an AWS executive.\n\nCaption Hook: A massive leadership shakeup at Meta.\n\nSuggested Thumbnail: META INFRASTRUCTURE CHIEF QUITS!\n\nVirality Score: 84/100\n\nENGAGEMENT TRIGGER: Meta spends billions annually on AI-focused data center infrastructure.\n\nQUESTION: Will this new leadership help Meta catch up to Google in AI?\n\nSource URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE9jb3dqb1ZNZmFocTc2aGxYYk5zVHUwbFJOdjJLVDZ5NWpHS0hPTk92aWc2Ukw1U1dMaGozY085a0wxaFRLcDY0bG5JOW9DQmloUDkwazRwenlNNmJTT1pPZ3RRZHB1VG51cUhfQnNkVQ?oc=5\n\n---\n\nTOP 5 EVERGREEN FACTS\n\n1. Topic- Startup Failure Rates-\n\nHeadline : Why Ninety Percent of Startups Fail Within Their First Five Years\n\nSource: Harvard Business Review\n\nWhy it matters: Most startups fail due to a lack of market need rather than poor technology. Understanding this is crucial for any aspiring entrepreneur.\n\n1 line Summary: 90% of startups fail because they build products nobody wants.\n\nWhy people care: It is a sobering reality check for the startup culture.\n\nCaption Hook: The brutal truth about why most startups die.\n\nSuggested Thumbnail: WHY STARTUPS ALWAYS FAIL!\n\nVirality Score: 78/100\n\nENGAGEMENT TRIGGER: Most founders ignore market validation in favor of building cool features.\n\nQUESTION: Have you ever worked for a startup that failed?\n\nSource URL: https://hbr.org/2021/02/why-startups-fail\n\n2. Topic- Compound Interest-\n\nHeadline : Albert Einstein Called Compound Interest the Eighth Wonder of the World\n\nSource: Forbes\n\nWhy it matters: Compound interest is the most powerful tool for wealth creation over long periods. It turns small, consistent investments into massive fortunes.\n\n1 line Summary: Einstein famously labeled compound interest the eighth wonder of the world.\n\nWhy people care: It explains how ordinary people become millionaires.\n\nCaption Hook: The secret to getting rich is simpler than you think.\n\nSuggested Thumbnail: EINSTEIN'S WEALTH SECRET REVEALED!\n\nVirality Score: 89/100\n\nENGAGEMENT TRIGGER: Compound interest rewards patience more than it rewards high-risk trading.\n\nQUESTION: How many years have you been compounding your investments?\n\nSource URL: https://www.forbes.com/advisor/investing/what-is-compound-interest/\n\n3. Topic- Bitcoin Scarcity-\n\nHeadline : Owning a Whole Bitcoin Is 70 Times Rarer Than Being a Millionaire\n\nSource: CoinDesk\n\nWhy it matters: With a hard cap of 21 million coins, owning one full Bitcoin is statistically exclusive. This scarcity drives its long-term value proposition.\n\n1 line Summary: Owning 1 full Bitcoin is 70 times rarer than being a millionaire.\n\nWhy people care: It highlights the extreme digital scarcity of Bitcoin.\n\nCaption Hook: You are in the top 0.1% if you own one Bitcoin.\n\nSuggested Thumbnail: BITCOIN IS EXTREMELY RARE!\n\nVirality Score: 95/100\n\nENGAGEMENT TRIGGER: Bitcoin scarcity makes it the ultimate hedge against fiat currency inflation.\n\nQUESTION: Do you think Bitcoin will ever reach a $10 trillion market cap?\n\nSource URL: https://www.coindesk.com/learn/bitcoin-scarcity/\n\n4. Topic- Platform Monopolies-\n\nHeadline : Why Platforms Become Monopolies With Every Single User Who Joins\n\nSource: TechCrunch\n\nWhy it matters: Network effects create a \"winner-take-all\" dynamic where platforms become more valuable as they grow. This explains the dominance of giants like Meta and Google.\n\n1 line Summary: Network effects turn platforms into monopolies as they scale.\n\nWhy people care: It explains why it is impossible to compete with big tech.\n\nCaption Hook: Why big tech platforms are impossible to kill.\n\nSuggested Thumbnail: WHY PLATFORMS BECOME MONOPOLIES!\n\nVirality Score: 81/100\n\nENGAGEMENT TRIGGER: Network effects create an insurmountable moat for incumbent tech giants.\n\nQUESTION: Which platform do you think is the next monopoly?\n\nSource URL: https://techcrunch.com/2026/11/25/why-platforms-become-monopolies/\n\n5. Topic- Billionaire Tax Evasion-\n\nHeadline : Billionaires Evade State Wealth Taxes Through Strategic Real Estate Purchases\n\nSource: Wall Street Journal\n\nWhy it matters: Ultra-high-net-worth individuals often use real estate to shield assets from state-level wealth taxes. This practice is a major point of contention in tax policy.\n\n1 line Summary: Billionaires use real estate to legally avoid state wealth taxes.\n\nWhy people care: It reveals how the ultra-wealthy manage their tax burdens.\n\nCaption Hook: How billionaires legally hide their wealth from taxes.\n\nSuggested Thumbnail: HOW BILLIONAIRES AVOID TAXES!\n\nVirality Score: 92/100\n\nENGAGEMENT TRIGGER: Strategic real estate ownership allows billionaires to bypass state tax laws.\n\nQUESTION: Should governments close the real estate tax loophole for billionaires?\n\nSource URL: https://www.wsj.com/articles/billionaires-real-estate-tax-avoidance-1167890\n\n---\n\nTODAY'S TOP 3 PRIORITY POSTS\n\n1. Razorpay's IPO approval is the biggest news for the Indian startup scene this year.\n2. SpaceX's move to put AI data centers in space is a massive leap for tech.\n3. The $1.2 billion crypto seizure is a major warning for the entire market.",
+  "latest_report_name": "report_2026-11-25.md"
 };
